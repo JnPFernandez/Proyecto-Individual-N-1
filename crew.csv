@@ -1,0 +1,2001 @@
+,movie_id,crew_department,crew_id,crew_job,crew_name
+0,862,Directing,7879.0,Director,John Lasseter
+0,862,Writing,12891.0,Screenplay,Joss Whedon
+0,862,Writing,7.0,Screenplay,Andrew Stanton
+0,862,Writing,12892.0,Screenplay,Joel Cohen
+0,862,Writing,12893.0,Screenplay,Alec Sokolow
+0,862,Production,12894.0,Producer,Bonnie Arnold
+0,862,Production,12895.0,Executive Producer,Ed Catmull
+0,862,Production,12896.0,Producer,Ralph Guggenheim
+0,862,Production,12897.0,Executive Producer,Steve Jobs
+0,862,Editing,8.0,Editor,Lee Unkrich
+0,862,Art,7883.0,Art Direction,Ralph Eggleston
+0,862,Editing,1168870.0,Editor,Robert Gordon
+0,862,Sound,1552883.0,Foley Editor,Mary Helen Leasman
+0,862,Visual Effects,1453514.0,Animation,Kim Blanchette
+0,862,Sound,1414182.0,ADR Editor,Marilyn McCoppen
+0,862,Sound,7885.0,Orchestrator,Randy Newman
+0,862,Editing,1429549.0,Color Timer,Dale E. Grahn
+0,862,Visual Effects,7949.0,CG Painter,Robin Cooper
+0,862,Writing,7879.0,Original Story,John Lasseter
+0,862,Writing,12890.0,Original Story,Pete Docter
+0,862,Writing,7911.0,Original Story,Joe Ranft
+0,862,Crew,1629419.0,Post Production Supervisor,Patsy Bouge
+0,862,Art,7961.0,Sculptor,Norm DeCarlo
+0,862,Visual Effects,12905.0,Animation Director,Ash Brannon
+0,862,Sound,7885.0,Music,Randy Newman
+0,862,Directing,1748707.0,Layout,Roman Figun
+0,862,Sound,4949.0,Orchestrator,Don Davis
+0,862,Sound,1372885.0,Music Editor,James Flamberg
+0,862,Editing,1739962.0,Negative Cutter,Mary Beth Smith
+0,862,Editing,1748513.0,Negative Cutter,Rick Mackay
+0,862,Art,1458006.0,Title Designer,Susan Bradley
+0,862,Crew,1748557.0,Supervising Technical Director,William Reeves
+0,862,Sound,7885.0,Songs,Randy Newman
+0,862,Writing,7.0,Original Story,Andrew Stanton
+0,862,Crew,12890.0,Supervising Animator,Pete Docter
+0,862,Sound,2216.0,Sound Designer,Gary Rydstrom
+0,862,Production,12909.0,Production Supervisor,Karen Robert Jackson
+0,862,Crew,953331.0,Executive Music Producer,Chris Montan
+0,862,Visual Effects,7893.0,Animation Director,Rich Quade
+0,862,Visual Effects,8025.0,Animation,Michael Berenstein
+0,862,Visual Effects,78009.0,Animation,Colin Brady
+0,862,Visual Effects,1748682.0,Animation,Davey Crockett Feiten
+0,862,Visual Effects,1454030.0,Animation,Angie Glocka
+0,862,Visual Effects,1748683.0,Animation,Rex Grignon
+0,862,Visual Effects,1748684.0,Animation,Tom K. Gurney
+0,862,Visual Effects,8029.0,Animation,Jimmy Hayward
+0,862,Visual Effects,1426773.0,Animation,Hal T. Hickel
+0,862,Visual Effects,8035.0,Animation,Karen Kiser
+0,862,Visual Effects,1748688.0,Animation,Anthony B. LaMolinara
+0,862,Visual Effects,587314.0,Animation,Guionne Leroy
+0,862,Visual Effects,7918.0,Animation,Bud Luckey
+0,862,Visual Effects,1748689.0,Animation,Les Major
+0,862,Visual Effects,7892.0,Animation,Glenn McQueen
+0,862,Visual Effects,555795.0,Animation,Mark Oftedal
+0,862,Visual Effects,7882.0,Animation,Jeff Pidgeon
+0,862,Visual Effects,8017.0,Animation,Jeff Pratt
+0,862,Visual Effects,1184140.0,Animation,Steve Rabatich
+0,862,Visual Effects,8049.0,Animation,Roger Rose
+0,862,Visual Effects,1509559.0,Animation,Steve Segal
+0,862,Visual Effects,1748691.0,Animation,Doug Sheppeck
+0,862,Visual Effects,8050.0,Animation,Alan Sperling
+0,862,Visual Effects,8010.0,Animation,Doug Sweetland
+0,862,Visual Effects,8044.0,Animation,David Tart
+0,862,Visual Effects,1454034.0,Animation,Ken Willard
+0,862,Visual Effects,7887.0,Visual Effects Supervisor,Thomas Porter
+0,862,Visual Effects,1406878.0,Visual Effects,Mark Thomas Henne
+0,862,Visual Effects,1748698.0,Visual Effects,Oren Jacob
+0,862,Visual Effects,1748699.0,Visual Effects,Darwyn Peachey
+0,862,Visual Effects,1748701.0,Visual Effects,Mitch Prater
+0,862,Visual Effects,1748703.0,Visual Effects,Brian M. Rosen
+0,862,Lighting,12912.0,Lighting Supervisor,Sharon Calahan
+0,862,Lighting,7899.0,Lighting Supervisor,Galyn Susman
+0,862,Visual Effects,12915.0,CG Painter,William Cone
+0,862,Art,1748705.0,Sculptor,Shelley Daniels Lekven
+0,862,Visual Effects,7889.0,Character Designer,Bob Pauley
+0,862,Visual Effects,7918.0,Character Designer,Bud Luckey
+0,862,Visual Effects,7.0,Character Designer,Andrew Stanton
+0,862,Visual Effects,12915.0,Character Designer,William Cone
+0,862,Visual Effects,1748706.0,Character Designer,Steve Johnson
+0,862,Visual Effects,1176752.0,Character Designer,Dan Haskett
+0,862,Visual Effects,1088034.0,Character Designer,Tom Holloway
+0,862,Visual Effects,1447465.0,Character Designer,Jean Gillmore
+0,862,Directing,1748709.0,Layout,Desirée Mourad
+0,862,Art,1748710.0,Set Dresser,Kelly O'Connell
+0,862,Art,1443471.0,Set Dresser,Sonoko Konishi
+0,862,Art,1748711.0,Set Dresser,Ann M. Rockwell
+0,862,Editing,1748712.0,Editorial Manager,Julie M. McDonald
+0,862,Editing,1589729.0,Assistant Editor,Robin Lee
+0,862,Editing,1748716.0,Assistant Editor,Tom Freeman
+0,862,Editing,1748717.0,Assistant Editor,Ada Cochavi
+0,862,Editing,1336438.0,Assistant Editor,Dana Mulligan
+0,862,Editing,1748718.0,Editorial Coordinator,Deirdre Morrison
+0,862,Production,1748719.0,Production Coordinator,Lori Lombardo
+0,862,Production,1748720.0,Production Coordinator,Ellen Devine
+0,862,Crew,1468014.0,Unit Publicist,Lauren Beth Strogoff
+0,862,Sound,2216.0,Sound Re-Recording Mixer,Gary Rydstrom
+0,862,Sound,1425978.0,Sound Re-Recording Mixer,Gary Summers
+0,862,Sound,8276.0,Supervising Sound Editor,Tim Holland
+0,862,Sound,7069.0,Sound Effects Editor,Pat Jackson
+0,862,Crew,15894.0,Sound Design Assistant,Tom Myers
+0,862,Sound,1414177.0,Assistant Sound Editor,J.R. Grubbs
+0,862,Sound,1748724.0,Assistant Sound Editor,Susan Sanford
+0,862,Sound,1748725.0,Assistant Sound Editor,Susan Popovic
+0,862,Sound,8067.0,Assistant Sound Editor,Dan Engstrom
+0,862,Production,7902.0,Casting Consultant,Ruth Lambert
+0,862,Production,84493.0,ADR Voice Casting,Mickie McGowan
+1,8844,Production,511.0,Executive Producer,Larry J. Franco
+1,8844,Writing,876.0,Screenplay,Jonathan Hensleigh
+1,8844,Sound,1729.0,Original Music Composer,James Horner
+1,8844,Directing,4945.0,Director,Joe Johnston
+1,8844,Editing,4951.0,Editor,Robert Dalva
+1,8844,Production,4952.0,Casting,Nancy Foy
+1,8844,Visual Effects,8023.0,Animation Supervisor,Kyle Balda
+1,8844,Art,9967.0,Production Design,James D. Bissell
+1,8844,Production,9184.0,Producer,Scott Kroopf
+1,8844,Production,9196.0,Executive Producer,Ted Field
+1,8844,Production,18389.0,Executive Producer,Robert W. Cort
+1,8844,Camera,11371.0,Director of Photography,Thomas E. Ackerman
+1,8844,Writing,42356.0,Novel,Chris van Allsburg
+1,8844,Production,42357.0,Producer,William Teitler
+1,8844,Writing,56520.0,Screenplay,Greg Taylor
+1,8844,Writing,56521.0,Screenplay,Jim Strain
+2,15602,Directing,26502.0,Director,Howard Deutch
+2,15602,Writing,16837.0,Characters,Mark Steven Johnson
+2,15602,Writing,16837.0,Writer,Mark Steven Johnson
+2,15602,Crew,1551320.0,Sound Recordist,Jack Keller
+3,31357,Directing,2178.0,Director,Forest Whitaker
+3,31357,Writing,5144.0,Screenplay,Ronald Bass
+3,31357,Production,5144.0,Producer,Ronald Bass
+3,31357,Production,21968.0,Producer,Ezra Swerdlow
+3,31357,Production,70592.0,Producer,Deborah Schindler
+3,31357,Writing,111118.0,Screenplay,Terry McMillan
+3,31357,Production,111118.0,Executive Producer,Terry McMillan
+3,31357,Writing,111118.0,Novel,Terry McMillan
+3,31357,Sound,1079697.0,Original Music Composer,Kenneth Edmonds
+3,31357,Production,1087695.0,Producer,Caron K
+4,11862,Sound,37.0,Original Music Composer,Alan Silvestri
+4,11862,Camera,5506.0,Director of Photography,Elliot Davis
+4,11862,Writing,17698.0,Screenplay,Nancy Meyers
+4,11862,Production,17698.0,Producer,Nancy Meyers
+4,11862,Writing,26160.0,Screenplay,Albert Hackett
+4,11862,Directing,56106.0,Director,Charles Shyer
+4,11862,Editing,68755.0,Editor,Adam Bernardi
+5,949,Directing,638.0,Director,Michael Mann
+5,949,Writing,638.0,Screenplay,Michael Mann
+5,949,Production,1254.0,Producer,Art Linson
+5,949,Production,638.0,Producer,Michael Mann
+5,949,Sound,5581.0,Original Music Composer,Elliot Goldenthal
+5,949,Camera,11099.0,Director of Photography,Dante Spinotti
+5,949,Editing,15840.0,Editor,Pasquale Buba
+5,949,Editing,15841.0,Editor,William Goldenberg
+5,949,Editing,15842.0,Editor,Dov Hoenig
+5,949,Editing,1047.0,Editor,Tom Rolf
+5,949,Production,897.0,Casting,Bonnie Timmermann
+5,949,Art,11411.0,Production Design,Neil Spisak
+5,949,Art,15843.0,Art Direction,Margie Stone McShirley
+5,949,Costume & Make-Up,8527.0,Costume Design,Deborah Lynn Scott
+5,949,Sound,1305.0,Music Editor,Bill Abbott
+5,949,Sound,14765.0,Supervising Sound Editor,Per Hallberg
+5,949,Crew,15847.0,Special Effects Coordinator,Terry D. Frazee
+5,949,Crew,15848.0,Special Effects,Paul H. Haines Jr.
+5,949,Visual Effects,15849.0,Visual Effects Supervisor,Neil Krepela
+5,949,Crew,13458.0,Stunt Coordinator,Joel Kramer
+5,949,Crew,15850.0,Stunts,Tony Brubaker
+5,949,Art,13677.0,Set Decoration,Anne H. Ahrens
+5,949,Costume & Make-Up,1535950.0,Costume Supervisor,Darryl M. Athons
+5,949,Directing,1478953.0,Script Supervisor,Cate Hardman
+5,949,Production,1424046.0,Casting,Jane Brody
+5,949,Crew,1550830.0,Special Effects,Donald Frazee
+5,949,Art,1479277.0,Art Department Coordinator,Oscar Mazzola
+5,949,Art,4727.0,Assistant Art Director,Dianne Wager
+5,949,Art,1404308.0,Construction Coordinator,Anthony Lattanzio
+5,949,Costume & Make-Up,1535949.0,Assistant Costume Designer,David Le Vey
+5,949,Costume & Make-Up,8870.0,Hairstylist,Leonard Engelman
+5,949,Costume & Make-Up,16551.0,Hairstylist,Ilona Herman
+5,949,Costume & Make-Up,15846.0,Key Hair Stylist,Vera Mitchell
+5,949,Costume & Make-Up,15845.0,Makeup Artist,John Caglione Jr.
+5,949,Costume & Make-Up,14653.0,Makeup Artist,Ken Diaz
+5,949,Editing,1535951.0,Dialogue Editor,Neal J. Anderson
+5,949,Editing,1391385.0,Dialogue Editor,Duncan Burns
+5,949,Editing,1406826.0,Dialogue Editor,Hector C. Gika
+5,949,Sound,1392084.0,Supervising Sound Editor,Larry Kemp
+5,949,Editing,1392901.0,Dialogue Editor,Lauren Stephens
+5,949,Camera,1409831.0,Camera Operator,Gary Jay
+5,949,Camera,21118.0,Steadicam Operator,James Muro
+5,949,Camera,1412205.0,Still Photographer,Frank Connor
+5,949,Camera,1403479.0,First Assistant Camera,Duane Manwiller
+5,949,Camera,1347763.0,First Assistant Camera,Chris Moseley
+5,949,Lighting,1415635.0,Rigging Gaffer,Frank Dorowsky
+5,949,Sound,1406905.0,Music Editor,Michael Connell
+5,949,Sound,75002.0,Music Supervisor,Budd Carr
+5,949,Editing,60592.0,First Assistant Editor,Matthew Booth
+5,949,Editing,1433743.0,First Assistant Editor,Vicki Hiatt
+5,949,Editing,1405208.0,First Assistant Editor,Thomas R. Bryant
+5,949,Editing,1432026.0,First Assistant Editor,Ray Boniker
+5,949,Sound,1401687.0,Sound Re-Recording Mixer,Anna Behlmer
+5,949,Sound,16177.0,Sound Re-Recording Mixer,Ron Bartlett
+5,949,Sound,1368864.0,Sound Re-Recording Mixer,Chris Jenkins
+5,949,Sound,1338976.0,Sound Re-Recording Mixer,Andy Nelson
+5,949,Sound,1544638.0,Sound Re-Recording Mixer,Mark Smith
+5,949,Crew,1576553.0,Stunts,Daniel O'Haco
+5,949,Crew,1457709.0,Technical Supervisor,Mick Gould
+5,949,Crew,1576562.0,Stunts,Tim Werner
+5,949,Production,639.0,Executive Producer,Pieter Jan Brugge
+5,949,Production,944682.0,Associate Producer,Gusmano Cesaretti
+5,949,Production,376.0,Executive Producer,Arnon Milchan
+5,949,Production,1494667.0,Unit Production Manager,Christopher Cronyn
+5,949,Directing,212137.0,Assistant Director,Michael Waxman
+5,949,Production,1535952.0,Casting Associate,Alison E. McBryde
+5,949,Costume & Make-Up,1392142.0,Set Costumer,Marsha Bozeman
+5,949,Crew,548451.0,Digital Effects Supervisor,Jeff Wells
+5,949,Crew,142157.0,Stunts,Doug Coleman
+5,949,Crew,1629423.0,Sound Recordist,Philip Rogers
+5,949,Sound,15178.0,Additional Soundtrack,Jimmy Webb
+6,11860,Directing,2226.0,Director,Sydney Pollack
+6,11860,Writing,70846.0,Screenplay,Barbara Benedek
+6,11860,Production,2226.0,Producer,Sydney Pollack
+6,11860,Sound,491.0,Original Music Composer,John Williams
+6,11860,Editing,10640.0,Editor,Fredric Steinkamp
+6,11860,Production,2997.0,Producer,Scott Rudin
+6,11860,Production,5490.0,Casting,David Rubin
+6,11860,Art,1718.0,Production Design,Brian Morris
+6,11860,Writing,11056.0,Screenplay,David Rayfiel
+6,11860,Costume & Make-Up,10199.0,Makeup Artist,Peter Robb-King
+6,11860,Costume & Make-Up,142152.0,Makeup Artist,Bernadette Mazur
+6,11860,Costume & Make-Up,32489.0,Makeup Artist,Joseph A. Campayno
+6,11860,Costume & Make-Up,83118.0,Hairstylist,Lynda Gurasich
+6,11860,Costume & Make-Up,1565199.0,Hairstylist,Stephen G. Bishop
+6,11860,Costume & Make-Up,543194.0,Co-Costume Designer,Gary Jones
+6,11860,Costume & Make-Up,5493.0,Costume Design,Ann Roth
+6,11860,Art,18173.0,Set Decoration,George DeTitta Jr.
+6,11860,Art,1467272.0,Set Decoration,Amy Marshall
+6,11860,Art,1535947.0,Art Department Coordinator,Miriam Schapiro
+6,11860,Sound,91092.0,Sound mixer,Danny Michael
+6,11860,Sound,1387195.0,Sound Re-Recording Mixer,Adam Jenkins
+6,11860,Sound,1368864.0,Sound Re-Recording Mixer,Chris Jenkins
+6,11860,Sound,1345595.0,Sound Re-Recording Mixer,Scott Millan
+6,11860,Sound,1404218.0,Supervising Sound Effects Editor,Myron Nettinga
+6,11860,Sound,1565200.0,Sound Effects Editor,Mitch Gettleman
+6,11860,Sound,1565201.0,Sound Effects Editor,Joe Earle
+6,11860,Sound,1392125.0,Supervising Sound Editor,J. Paul Huntsman
+6,11860,Sound,91096.0,Boom Operator,Andrew Schmetterling
+6,11860,Editing,95836.0,Dialogue Editor,Adam Sawelson
+6,11860,Editing,1555703.0,Dialogue Editor,Barbara Issak
+6,11860,Editing,1399061.0,Dialogue Editor,Benjamin Beardwood
+6,11860,Directing,1464541.0,Script Supervisor,Mary A. Kelly
+6,11860,Camera,1391583.0,Still Photographer,Myles Aronowitz
+6,11860,Camera,1194262.0,Still Photographer,Brian Hamill
+6,11860,Camera,20844.0,Camera Operator,Giovanni Fiore Coltellacci
+6,11860,Camera,15131.0,Director of Photography,Giuseppe Rotunno
+6,11860,Production,53346.0,Casting Associate,Kate Dowd
+6,11860,Costume & Make-Up,957570.0,Assistant Costume Designer,Juliet Polcsa
+6,11860,Costume & Make-Up,18513.0,Assistant Costume Designer,Michelle Matland
+6,11860,Costume & Make-Up,1177713.0,Costume Supervisor,Donna Maloney
+6,11860,Editing,1565207.0,First Assistant Editor,Karl F. Steinkamp
+6,11860,Production,11058.0,Executive Producer,Lindsay Doran
+6,11860,Production,4184.0,Executive Producer,Ronald L. Schwary
+6,11860,Art,17220.0,Art Direction,John Kasarda
+6,11860,Production,1582414.0,Production Manager,Jean-Pierre Avice
+6,11860,Production,1748870.0,Production Supervisor,Thomas A. Imperato
+6,11860,Production,4184.0,Production Manager,Ronald L. Schwary
+6,11860,Production,1853722.0,Casting Assistant,Bill Kaufman
+6,11860,Production,1720.0,Casting Associate,Ronna Kress
+6,11860,Production,9028.0,Location Manager,Sandrine Ageorges
+6,11860,Production,1123059.0,Location Manager,Joseph E. Iberti
+6,11860,Production,1853729.0,Production Coordinator,Joanny Carpentier
+6,11860,Production,1002581.0,Production Coordinator,Katherine Kennedy
+7,45325,Writing,2075.0,Screenplay,David Loughery
+7,45325,Writing,7775.0,Screenplay,Stephen Sommers
+7,45325,Directing,18357.0,Director,Peter Hewitt
+7,45325,Writing,72225.0,Novel,Mark Twain
+8,9091,Directing,37710.0,Director,Peter Hyams
+8,9091,Writing,53300.0,Screenplay,Karen Elise Baldwin
+8,9091,Writing,56953.0,Screenplay,Gene Quintano
+8,9091,Production,56032.0,Producer,Moshe Diamant
+8,9091,Production,56954.0,Producer,Anders P. Jensen
+8,9091,Production,53299.0,Producer,Howard Baldwin
+8,9091,Sound,4500.0,Music,John Debney
+8,9091,Camera,37710.0,Director of Photography,Peter Hyams
+8,9091,Editing,11410.0,Editor,Steven Kemper
+9,710,Directing,10702.0,Director,Martin Campbell
+9,710,Writing,9856.0,Characters,Ian Fleming
+9,710,Writing,10704.0,Screenplay,Jeffrey Caine
+9,710,Writing,10705.0,Screenplay,Bruce Feirstein
+9,710,Production,10666.0,Producer,Barbara Broccoli
+9,710,Production,10493.0,Executive Producer,Tom Pevsner
+9,710,Sound,996.0,Original Music Composer,Eric Serra
+9,710,Sound,1459.0,Songs,Tina Turner
+9,710,Camera,10709.0,Director of Photography,Phil Meheux
+9,710,Editing,5056.0,Editor,Terry Rawlings
+9,710,Production,10496.0,Casting,Debbie McWilliams
+9,710,Art,8524.0,Production Design,Peter Lamont
+9,710,Art,10710.0,Art Direction,Andrew Ackland-Snow
+9,710,Art,10711.0,Art Direction,Kathrin Brunner
+9,710,Art,10712.0,Art Direction,Charles Dwight Lee
+9,710,Art,8526.0,Set Decoration,Michael Ford
+9,710,Costume & Make-Up,10714.0,Costume Design,Lindy Hemming
+9,710,Production,69678.0,Producer,Michael G. Wilson
+9,710,Production,10706.0,Producer,Anthony Waye
+9,710,Writing,10703.0,Story,Michael France
+9,710,Art,1593072.0,Assistant Art Director,Michael Boone
+9,710,Art,10788.0,Assistant Art Director,Steven Lawrence
+9,710,Art,1727828.0,Construction Coordinator,Tony Graysmark
+9,710,Art,1325211.0,Supervising Art Director,Neil Lamont
+9,710,Production,18457.0,Casting,Pam Dixon
+9,710,Sound,5062.0,Music Editor,Robert Hathaway
+9,710,Crew,1532215.0,Armorer,Charles Bodycomb
+9,710,Directing,1398136.0,Script Supervisor,June Randall
+9,710,Camera,40747.0,Camera Operator,Harvey Harrison
+9,710,Camera,1408816.0,Camera Operator,Roger Pearce
+9,710,Camera,1485317.0,Camera Operator,Herbert Raditschnig
+9,710,Camera,1189807.0,Camera Operator,Tim Wooster
+9,710,Camera,1425502.0,Still Photographer,Keith Hamshere
+9,710,Camera,1427545.0,Still Photographer,George Whitear
+9,710,Lighting,1727833.0,Gaffer,Bill Pochetty
+9,710,Lighting,1727834.0,Gaffer,Luigi Bisioli
+9,710,Lighting,1727835.0,Gaffer,Steve Foster
+9,710,Visual Effects,1081073.0,Special Effects Supervisor,Chris Corbould
+9,710,Visual Effects,1392704.0,Visual Effects Coordinator,Mara Bryan
+9,710,Crew,1413507.0,Visual Effects Editor,Tim Grover
+9,710,Editing,38362.0,Dialogue Editor,Peter Musgrave
+9,710,Sound,1340118.0,Sound Re-Recording Mixer,Michael A. Carter
+9,710,Sound,1561880.0,Sound Re-Recording Mixer,Graham V. Hartstone
+9,710,Sound,40818.0,Sound Re-Recording Mixer,John Hayward
+9,710,Sound,9854.0,Supervising Sound Editor,Jim Shields
+9,710,Sound,1576017.0,Sound Recordist,David John
+10,9087,Camera,2702.0,Director of Photography,John Seale
+10,9087,Directing,3026.0,Director,Rob Reiner
+10,9087,Production,3026.0,Producer,Rob Reiner
+10,9087,Editing,3032.0,Editor,Robert Leighton
+10,9087,Sound,9251.0,Music,Marc Shaiman
+10,9087,Writing,13520.0,Screenplay,Aaron Sorkin
+11,12110,Editing,4057.0,Editor,Adam Weiss
+11,12110,Writing,14639.0,Screenplay,Mel Brooks
+11,12110,Directing,14639.0,Director,Mel Brooks
+11,12110,Production,14639.0,Producer,Mel Brooks
+11,12110,Sound,53839.0,Music,Hummie Mann
+11,12110,Camera,53840.0,Director of Photography,Michael D. O'Shea
+11,12110,Production,59979.0,Executive Producer,Peter Schindler
+11,12110,Writing,67674.0,Screenplay,Rudy De Luca
+11,12110,Writing,71303.0,Screenplay,Steve Haberman
+12,21032,Production,488.0,Producer,Steven Spielberg
+12,21032,Production,489.0,Producer,Kathleen Kennedy
+12,21032,Writing,12061.0,Writer,Roger S.H. Schulman
+12,21032,Directing,21879.0,Director,Simon Wells
+12,21032,Writing,106850.0,Writer,Elana Lesser
+12,21032,Writing,570268.0,Writer,Cliff Ruby
+12,21032,Writing,991160.0,Writer,David Steven Cohen
+12,21032,Visual Effects,1205985.0,Animation,Stephan Franck
+12,21032,Visual Effects,1447385.0,Animation,Jean-Francois Rey
+12,21032,Visual Effects,1447593.0,Animation,Mick De Falco
+12,21032,Visual Effects,1448089.0,Animation,José Antonio García Villameriel
+12,21032,Art,1451229.0,Background Designer,Luc Desmarchelier
+12,21032,Crew,1457635.0,Special Effects,Leonard F.W. Green
+12,21032,Visual Effects,1462665.0,Animation Manager,Harald Kraut
+13,10858,Directing,1152.0,Director,Oliver Stone
+13,10858,Writing,1152.0,Screenplay,Oliver Stone
+13,10858,Production,5379.0,Producer,Dan Halsted
+13,10858,Sound,491.0,Original Music Composer,John Williams
+13,10858,Writing,17786.0,Screenplay,Stephen J. Rivele
+13,10858,Camera,149.0,Director of Photography,Robert Richardson
+13,10858,Editing,3189.0,Editor,Brian Berdan
+13,10858,Production,1152.0,Producer,Oliver Stone
+14,1408,Camera,2044.0,Director of Photography,Peter Levy
+14,1408,Art,8383.0,Set Decoration,Maggie Gray
+14,1408,Art,391.0,Production Design,Norman Garwood
+14,1408,Production,3986.0,Executive Producer,Mario Kassar
+14,1408,Production,7228.0,Producer,Joel B. Michaels
+14,1408,Production,6044.0,Casting,Mindy Marin
+14,1408,Production,10685.0,Producer,Laurence Mark
+14,1408,Costume & Make-Up,14590.0,Costume Design,Enrico Sabbatini
+14,1408,Directing,16938.0,Director,Renny Harlin
+14,1408,Production,16938.0,Producer,Renny Harlin
+14,1408,Production,22706.0,Producer,James Gorman
+14,1408,Writing,22706.0,Story,James Gorman
+14,1408,Writing,21203.0,Story,Michael Frost Beckner
+14,1408,Writing,20061.0,Screenplay,Marc Norman
+14,1408,Writing,1224549.0,Screenplay,Robert King
+14,1408,Visual Effects,1368867.0,Special Effects Supervisor,Allen Hall
+15,524,Directing,1032.0,Director,Martin Scorsese
+15,524,Production,7170.0,Producer,Barbara De Fina
+15,524,Camera,149.0,Director of Photography,Robert Richardson
+15,524,Editing,3661.0,Editor,Thelma Schoonmaker
+15,524,Production,2242.0,Casting,Ellen Lewis
+15,524,Art,2366.0,Production Design,Dante Ferretti
+15,524,Writing,1032.0,Screenplay,Martin Scorsese
+15,524,Writing,7163.0,Screenplay,Nicholas Pileggi
+15,524,Writing,7163.0,Novel,Nicholas Pileggi
+15,524,Production,7531.0,Producer,Joseph P. Reidy
+16,4584,Directing,1614.0,Director,Ang Lee
+16,4584,Writing,32982.0,Novel,Jane Austen
+16,4584,Writing,7056.0,Screenplay,Emma Thompson
+16,4584,Production,11058.0,Producer,Lindsay Doran
+16,4584,Production,2226.0,Executive Producer,Sydney Pollack
+16,4584,Sound,9152.0,Music,Patrick Doyle
+16,4584,Camera,7021.0,Director of Photography,Michael Coulter
+16,4584,Production,948439.0,Co-Producer,Laurie Borg
+17,5,Sound,3116.0,Original Music Composer,Combustible Edison
+17,5,Art,3117.0,Production Design,Gary Frutkoff
+17,5,Sound,3119.0,Sound Designer,Lance Brown
+17,5,Directing,3110.0,Director,Allison Anders
+17,5,Directing,3111.0,Director,Alexandre Rockwell
+17,5,Directing,2294.0,Director,Robert Rodriguez
+17,5,Directing,138.0,Director,Quentin Tarantino
+17,5,Production,2545.0,Producer,Lawrence Bender
+17,5,Production,138.0,Executive Producer,Quentin Tarantino
+17,5,Production,3111.0,Executive Producer,Alexandre Rockwell
+17,5,Production,3118.0,Casting,Russell Gray
+17,5,Art,11423.0,Art Direction,Mayne Berke
+17,5,Art,9042.0,Set Decoration,Sara Andrews
+17,5,Writing,3110.0,Writer,Allison Anders
+17,5,Writing,3111.0,Writer,Alexandre Rockwell
+17,5,Writing,2294.0,Writer,Robert Rodriguez
+17,5,Writing,138.0,Writer,Quentin Tarantino
+17,5,Camera,77162.0,Director of Photography,Rodrigo García
+17,5,Camera,3113.0,Director of Photography,Guillermo Navarro
+17,5,Camera,3114.0,Director of Photography,Phil Parmet
+17,5,Camera,3115.0,Director of Photography,Andrzej Sekula
+17,5,Editing,1041072.0,Editor,Margaret Goodspeed
+17,5,Editing,3121.0,Editor,Elena Maganini
+17,5,Editing,156.0,Editor,Sally Menke
+17,5,Editing,2294.0,Editor,Robert Rodriguez
+17,5,Sound,1877413.0,Foley,David Gertz
+17,5,Production,37334.0,Co-Producer,Paul Hellerman
+17,5,Production,37335.0,Co-Producer,Scott Lambert
+17,5,Production,37333.0,Co-Producer,Heidi Vogel
+17,5,Sound,6940.0,Music Supervisor,Karyn Rachtman
+17,5,Costume & Make-Up,62277.0,Costume Design,Susan L. Bertram
+17,5,Costume & Make-Up,46589.0,Costume Design,Mary Claire Hannan
+17,5,Art,1556697.0,Art Department Coordinator,Marisol Jiménez
+17,5,Art,1395016.0,Construction Coordinator,Brian Markey
+17,5,Art,1549015.0,Construction Foreman,Ray Maxwell
+17,5,Art,1877352.0,Lead Painter,Marc Gillson
+17,5,Art,1851725.0,Painter,Carlos A. Chavez
+17,5,Art,1877353.0,Standby Painter,T.D. Donnelly
+17,5,Camera,148455.0,First Assistant Camera,Ziad Doueiri
+17,5,Camera,1708344.0,Key Grip,Rick Stribling
+17,5,Camera,1877355.0,Grip,Elizabeth Bolden
+17,5,Camera,56791.0,Steadicam Operator,Jonathan Brown
+17,5,Costume & Make-Up,1547239.0,Costume Supervisor,Jacqueline Aronson
+17,5,Costume & Make-Up,1877356.0,Costume Supervisor,Thomas G. Marquez
+17,5,Costume & Make-Up,1745153.0,Hairstylist,Orlando
+17,5,Costume & Make-Up,144146.0,Key Hair Stylist,Ermahn Ospina
+17,5,Costume & Make-Up,1877357.0,Makeup Artist,Paul Starr
+17,5,Crew,1851724.0,Carpenter,James C. Beeson
+17,5,Crew,1877359.0,Choreographer,Sissy Boyd
+17,5,Crew,1877360.0,Craft Service,Derek Hurd
+17,5,Crew,1686379.0,Driver,Darrell Dubovsky
+17,5,Crew,1877361.0,Post Production Assistant,Ben Parker
+17,5,Art,1552012.0,Property Master,Lynda Reiss
+17,5,Crew,1877363.0,Security,Nick Roberts
+17,5,Crew,1877365.0,Set Medic,Patrice Carbaugh
+17,5,Crew,1877361.0,Set Production Assistant,Ben Parker
+17,5,Crew,1602889.0,Special Effects Coordinator,Paul Taglianetti
+17,5,Crew,1877369.0,Stand In,Michael Boyce Harris
+17,5,Crew,1877370.0,Transportation Captain,Dotti Thompson
+17,5,Crew,1419160.0,Transportation Coordinator,P. Gerald Knight
+17,5,Production,64744.0,Unit Production Manager,Debbie Hayn-Cass
+17,5,Crew,1622121.0,Unit Publicist,Nancy Willen
+17,5,Directing,71901.0,First Assistant Director,Douglas Aarniokoski
+17,5,Directing,1120536.0,First Assistant Director,Fernando Altschul
+17,5,Directing,1342669.0,Script Supervisor,Jayne-Ann Tenggren
+17,5,Editing,1564233.0,Color Timer,Mike Stanwick
+17,5,Editing,1877377.0,First Assistant Editor,Bob Allen
+17,5,Editing,64315.0,First Assistant Editor,Erik C. Andersen
+17,5,Lighting,1601800.0,Best Boy Electric,Edgar Arellano
+17,5,Lighting,1877378.0,Electrician,Marcel DeJure
+17,5,Lighting,1877379.0,Gaffer,Chuck Smith
+17,5,Production,20540.0,Casting Associate,Randi Hiller
+17,5,Production,1401374.0,Location Manager,Robert Earl Craft
+17,5,Production,1877380.0,Production Accountant,Deborah Hebert
+17,5,Production,1402054.0,Production Coordinator,Dawn Todd Curfman
+17,5,Production,37334.0,Production Manager,Paul Hellerman
+17,5,Production,64744.0,Production Supervisor,Debbie Hayn-Cass
+17,5,Sound,1695796.0,Boom Operator,Paul Koronkiewicz
+17,5,Sound,1357671.0,First Assistant Sound Editor,Tim Tuchrello
+17,5,Sound,1415642.0,Music Editor,Denise Okimoto
+17,5,Sound,1410954.0,Production Sound Mixer,Pawel Wdowczak
+17,5,Sound,80824.0,Sound Editor,Jay Nierenberg
+17,5,Sound,1412227.0,Sound Effects Editor,Glenn Hoskinson
+17,5,Sound,1438571.0,Supervising Sound Editor,Bruce Fortune
+17,5,Crew,1552088.0,Special Sound Effects,Victor Iorillo
+17,5,Crew,1877415.0,Studio Teachers,Jan D. Tys
+17,5,Crew,100888.0,Creative Consultant,Chuck Jones
+17,5,Sound,1412242.0,Dolby Consultant,Thom 'Coach' Ehle
+18,9273,Directing,4489.0,Director,Steve Oedekerk
+18,9273,Writing,29901.0,Characters,Jack Bernstein
+18,9273,Writing,4489.0,Screenplay,Steve Oedekerk
+18,9273,Production,4507.0,Executive Producer,Gary Barber
+18,9273,Production,57097.0,Producer,Bob Israel
+18,9273,Production,57098.0,Producer,Andrew G. La Marca
+18,9273,Production,4700.0,Producer,James G. Robinson
+18,9273,Sound,43393.0,Original Music Composer,Robert Folk
+18,9273,Camera,6490.0,Director of Photography,Donald E. Thorin
+18,9273,Editing,14457.0,Editor,Malcolm Campbell
+18,9273,Crew,1007395.0,Stunt Coordinator,J.J. Makaro
+19,11517,Directing,52629.0,Director,Joseph Ruben
+19,11517,Writing,20840.0,Screenplay,Doug Richardson
+19,11517,Production,1059.0,Producer,Neil Canton
+19,11517,Production,71423.0,Executive Producer,Tracy Barone
+19,11517,Production,1586.0,Executive Producer,Adam Fields
+19,11517,Production,3805.0,Producer,Jon Peters
+19,11517,Production,71424.0,Executive Producer,Frederick S. Pierce
+19,11517,Camera,23969.0,Director of Photography,John Lindley
+19,11517,Editing,11454.0,Editor,George Bowers
+19,11517,Editing,1264.0,Editor,Bill Pankow
+19,11517,Sound,71130.0,Music Supervisor,Michael Dilbeck
+19,11517,Camera,1534236.0,Still Photographer,Linda R. Chen
+19,11517,Art,959360.0,Production Design,Bill Groom
+19,11517,Production,6410.0,Casting,Francine Maisler
+19,11517,Costume & Make-Up,15524.0,Costume Design,Ruth E. Carter
+19,11517,Art,12258.0,Set Decoration,Beth A. Rubino
+19,11517,Art,9270.0,Art Direction,Sarah Knowles
+19,11517,Art,13933.0,Art Direction,Dennis Bradford
+19,11517,Sound,9989.0,Original Music Composer,Mark Mancina
+19,11517,Directing,1534622.0,Script Supervisor,Corey B. Yugler
+19,11517,Camera,1537446.0,Still Photographer,David Lee
+19,11517,Sound,1403515.0,Supervising Sound Editor,Stan Bochner
+19,11517,Production,51449.0,Production Manager,Timothy M. Bourne
+19,11517,Costume & Make-Up,1422054.0,Makeup Artist,Laini Thompson
+19,11517,Costume & Make-Up,1405321.0,Makeup Department Head,Margot Boccia
+19,11517,Costume & Make-Up,1551340.0,Hairstylist,Clifford Booker
+19,11517,Costume & Make-Up,1444909.0,Hairstylist,Melissa A. Yonkey
+19,11517,Crew,6328.0,Stunt Coordinator,Jack Gill
+19,11517,Camera,38410.0,Camera Operator,Michael Stone
+19,11517,Camera,38410.0,Steadicam Operator,Michael Stone
+19,11517,Camera,1411272.0,Camera Operator,Lawrence Karman
+19,11517,Camera,933949.0,Camera Operator,Geary McLeod
+19,11517,Art,1551342.0,Art Department Coordinator,Shannon Rayle Bourne
+19,11517,Production,2986.0,Co-Producer,Doug Claybourne
+19,11517,Production,1476342.0,Co-Producer,Michael E. Steele
+19,11517,Production,1419089.0,Associate Producer,Russ Kavanaugh
+19,11517,Sound,92377.0,Sound Re-Recording Mixer,Lee Dichter
+19,11517,Sound,1337464.0,Sound Re-Recording Mixer,Dominick Tavella
+19,11517,Editing,15527.0,Dialogue Editor,Tony Martinez
+19,11517,Sound,1395690.0,Sound Effects Editor,Ira Spiegel
+19,11517,Sound,1551343.0,Sound Effects Editor,Paul P. Soucek
+19,11517,Sound,1341403.0,Sound Effects Editor,Richard King
+19,11517,Sound,1551345.0,Sound Effects Editor,Pam DeMetruis-Thomas
+19,11517,Crew,1341862.0,Transportation Captain,Mike Fenster
+20,8012,Directing,5174.0,Director,Barry Sonnenfeld
+20,8012,Writing,2235.0,Novel,Elmore Leonard
+20,8012,Production,518.0,Producer,Danny DeVito
+20,8012,Production,5381.0,Producer,Michael Shamberg
+20,8012,Production,5382.0,Producer,Stacey Sher
+20,8012,Sound,6394.0,Original Music Composer,John Lurie
+20,8012,Camera,9614.0,Director of Photography,Donald Peterman
+20,8012,Art,16466.0,Production Design,Peter S. Larkin
+20,8012,Writing,2199.0,Screenplay,Scott Frank
+20,8012,Sound,6940.0,Music Supervisor,Karyn Rachtman
+20,8012,Costume & Make-Up,11802.0,Costume Design,Betsy Heimann
+20,8012,Production,5490.0,Casting,David Rubin
+20,8012,Production,495.0,Casting,Debra Zane
+20,8012,Art,11412.0,Art Direction,Steve Arnold
+20,8012,Art,6191.0,Set Decoration,Leslie E. Rollins
+20,8012,Art,1535452.0,Art Department Coordinator,Robby Green
+20,8012,Art,1453174.0,Construction Coordinator,Jim Ondrejko
+20,8012,Costume & Make-Up,1458759.0,Assistant Costume Designer,Sabrina Rosen
+20,8012,Costume & Make-Up,1321004.0,Costume Supervisor,David Rawley
+20,8012,Costume & Make-Up,1477790.0,Set Costumer,Lori Stilson
+20,8012,Editing,1527434.0,Dialogue Editor,Eliza Paley
+20,8012,Editing,1280314.0,First Assistant Editor,Suzanne Pillsbury
+20,8012,Costume & Make-Up,1397881.0,Hairstylist,Audrey Futterman-Stern
+20,8012,Costume & Make-Up,1536363.0,Key Hair Stylist,Ron Scott
+20,8012,Costume & Make-Up,1534237.0,Makeup Department Head,Ellen Wong
+20,8012,Costume & Make-Up,1338146.0,Makeup Artist,Natalie Wood
+21,1710,Production,18679.0,Executive Producer,Mark Tarlov
+21,1710,Directing,15148.0,Director,Jon Amiel
+21,1710,Editing,853.0,Editor,Alan Heim
+21,1710,Editing,8970.0,Editor,Jim Clark
+21,1710,Production,376.0,Executive Producer,Arnon Milchan
+21,1710,Writing,18683.0,Screenplay,David Madsen
+21,1710,Production,376.0,Producer,Arnon Milchan
+21,1710,Production,18679.0,Producer,Mark Tarlov
+21,1710,Sound,19155.0,Original Music Composer,Christopher Young
+21,1710,Writing,17815.0,Screenplay,Ann Biderman
+21,1710,Camera,8862.0,Director of Photography,László Kovács
+21,1710,Production,10570.0,Executive Producer,Joseph M. Caracciolo Jr.
+21,1710,Production,5328.0,Casting,Kerry Barden
+21,1710,Production,3192.0,Casting,Billy Hopkins
+21,1710,Production,4023.0,Casting,Suzanne Smith
+21,1710,Art,1253.0,Production Design,Jim Clay
+21,1710,Art,60579.0,Art Direction,Chris Seagers
+21,1710,Art,20570.0,Set Decoration,Catherine Davis
+21,1710,Costume & Make-Up,1522068.0,Costume Design,Claudia Brown
+21,1710,Directing,1433649.0,Script Supervisor,H. Bud Otto
+21,1710,Sound,3104.0,Production Sound Mixer,Chris Newman
+22,9691,Directing,7187.0,Director,Richard Donner
+22,9691,Writing,9339.0,Author,Lilly Wachowski
+22,9691,Writing,9340.0,Author,Lana Wachowski
+22,9691,Sound,9989.0,Music,Mark Mancina
+22,9691,Camera,12235.0,Director of Photography,Vilmos Zsigmond
+22,9691,Editing,49286.0,Editor,Lawrence Jordan
+22,9691,Editing,3175.0,Editor,Richard Marks
+22,9691,Production,7187.0,Producer,Richard Donner
+22,9691,Production,3028.0,Producer,Bruce A. Evans
+22,9691,Production,3029.0,Producer,Raynold Gideon
+22,9691,Production,29525.0,Producer,Andrew Lazar
+22,9691,Production,7200.0,Executive Producer,Lauren Shuler Donner
+22,9691,Production,1091.0,Producer,Joel Silver
+22,9691,Production,22816.0,Producer,Jim Van Wyck
+22,9691,Production,5398.0,Executive Producer,Dino De Laurentiis
+22,9691,Editing,1376901.0,Dialogue Editor,Marshall Winn
+22,9691,Production,3806.0,Casting,Marion Dougherty
+22,9691,Art,11412.0,Art Direction,Steve Arnold
+22,9691,Art,15327.0,Art Direction,Nathan Crowley
+22,9691,Art,1330109.0,Art Direction,Leticia Stella
+22,9691,Art,2486.0,Production Design,Thomas E. Sanders
+22,9691,Art,7849.0,Set Decoration,Lisa Dean
+22,9691,Costume & Make-Up,5710.0,Costume Design,Elizabeth McBride
+22,9691,Costume & Make-Up,1322089.0,Costume Supervisor,Cha Blevins
+22,9691,Art,19291.0,Supervising Art Director,Daniel T. Dorrance
+22,9691,Costume & Make-Up,1316296.0,Makeup Artist,Scott Eddo
+22,9691,Costume & Make-Up,1299201.0,Makeup Artist,Deborah K. Larsen
+22,9691,Costume & Make-Up,1401251.0,Hairstylist,Charlene Johnson
+22,9691,Production,233500.0,Production Supervisor,John M. Woodward
+22,9691,Art,1401252.0,Art Department Coordinator,Wendy Skerritt
+22,9691,Crew,1401253.0,Property Master,Erik L. Nelson
+22,9691,Art,1401254.0,Set Designer,Chad Griffin
+22,9691,Art,1360094.0,Set Designer,Noelle King
+22,9691,Art,1401255.0,Set Designer,Alan Manzer
+22,9691,Art,40594.0,Set Designer,Gilbert Wong
+22,9691,Art,1401256.0,Leadman,Steven Curtis Husch
+22,9691,Art,1401257.0,Greensman,Michael McCombe
+22,9691,Editing,4716.0,Dialogue Editor,Virginia Cook-McGowan
+22,9691,Editing,1401258.0,Dialogue Editor,Catherine Flynn
+22,9691,Editing,1392129.0,Dialogue Editor,John F. Reynolds
+22,9691,Sound,1401259.0,Supervising Sound Editor,Robert G. Henderson
+22,9691,Sound,1398194.0,Sound Effects Editor,Peggy McAffee
+22,9691,Sound,1376818.0,Foley,Kevin Bartnof
+22,9691,Sound,1401260.0,Foley,Catherine Rowe
+22,9691,Sound,1052.0,Sound Re-Recording Mixer,Rick Alexander
+22,9691,Sound,1341854.0,Sound Re-Recording Mixer,David E. Campbell
+22,9691,Sound,1341808.0,Sound Re-Recording Mixer,Kevin E. Carpenter
+22,9691,Sound,1399140.0,Sound Re-Recording Mixer,Les Fresholtz
+22,9691,Sound,1341138.0,Sound Re-Recording Mixer,Jeffrey J. Haboush
+22,9691,Sound,1342626.0,Sound Re-Recording Mixer,John T. Reitz
+22,9691,Sound,1341858.0,Sound Re-Recording Mixer,Gregg Rudloff
+22,9691,Sound,42034.0,Sound Re-Recording Mixer,Greg P. Russell
+22,9691,Crew,1401262.0,Stunt Coordinator,Dick Hancock
+22,9691,Camera,1386920.0,Still Photographer,Andrew Cooper
+22,9691,Camera,1401263.0,Camera Operator,Ray De La Motte
+22,9691,Camera,1401264.0,Camera Operator,Neal Norton
+22,9691,Camera,1401265.0,Helicopter Camera,Frank M. Holgate
+22,9691,Camera,1401266.0,Additional Camera,Robin Buerki
+22,9691,Lighting,1401267.0,Lighting Technician,Ian Jennings
+22,9691,Lighting,1401268.0,Lighting Technician,David R. Kohn
+22,9691,Lighting,1401269.0,Lighting Technician,Raul J. Marin
+22,9691,Costume & Make-Up,1401270.0,Set Costumer,Eva Prappas
+22,9691,Costume & Make-Up,1401271.0,Set Costumer,Sally Roberts
+22,9691,Crew,165734.0,Dialect Coach,Joy Ellison
+22,9691,Production,1401272.0,Location Manager,Patricia Fay
+22,9691,Crew,1401273.0,Unit Publicist,Peter J. Silbermann
+22,9691,Writing,9339.0,Screenplay,Lilly Wachowski
+22,9691,Writing,9340.0,Screenplay,Lana Wachowski
+22,9691,Writing,4723.0,Screenplay,Brian Helgeland
+22,9691,Crew,1718730.0,Special Effects Coordinator,Rafael Pérez
+22,9691,Crew,1607177.0,Production Office Assistant,Paloma Suau
+23,12665,Directing,56349.0,Director,Victor Salva
+23,12665,Writing,56349.0,Screenplay,Victor Salva
+23,12665,Production,4504.0,Producer,Roger Birnbaum
+23,12665,Production,56188.0,Executive Producer,Riley Kathryn Ellis
+23,12665,Production,66723.0,Producer,Daniel Grodnik
+23,12665,Production,73335.0,Executive Producer,Robert Snukal
+23,12665,Sound,1760.0,Original Music Composer,Jerry Goldsmith
+23,12665,Camera,13140.0,Director of Photography,Jerzy Zielinski
+23,12665,Editing,30606.0,Editor,Dennis M. Hill
+24,451,Production,6109.0,Executive Producer,Stuart Reynolds 
+24,451,Writing,6111.0,Screenplay,Mike Figgis
+24,451,Directing,6111.0,Director,Mike Figgis
+24,451,Sound,6111.0,Original Music Composer,Mike Figgis
+24,451,Production,6113.0,Producer,Lila Cazès
+24,451,Production,6114.0,Line Producer,Marc S. Fischer
+24,451,Production,6115.0,Executive Producer,Paige Simpson
+24,451,Production,6116.0,Producer,Annie Stewart
+24,451,Camera,6117.0,Director of Photography,Declan Quinn
+24,451,Editing,6118.0,Editor,John Smith
+24,451,Production,6119.0,Casting,Carrie Frazier
+24,451,Writing,1741885.0,Novel,John O'Brien
+25,16420,Writing,6210.0,Writer,William Shakespeare
+25,16420,Directing,56710.0,Director,Oliver Parker
+25,16420,Writing,56710.0,Adaptation,Oliver Parker
+26,9263,Directing,15798.0,Director,Lesli Linka Glatter
+26,9263,Writing,57062.0,Screenplay,I. Marlene King
+26,9263,Production,3416.0,Producer,Demi Moore
+26,9263,Production,550.0,Executive Producer,Jennifer Todd
+26,9263,Production,551.0,Producer,Suzanne Todd
+26,9263,Sound,2120.0,Original Music Composer,Cliff Eidelman
+26,9263,Camera,6050.0,Director of Photography,Ueli Steiger
+26,9263,Editing,33830.0,Editor,Jacqueline Cambas
+27,17015,Directing,7017.0,Director,Roger Michell
+27,17015,Costume & Make-Up,13009.0,Costume Design,Alexandra Byrne
+27,17015,Writing,32982.0,Novel,Jane Austen
+27,17015,Editing,33443.0,Editor,Kate Evans
+27,17015,Camera,110587.0,Director of Photography,John Daly
+27,17015,Writing,137933.0,Screenplay,Nick Dear
+27,17015,Crew,152204.0,Stunts,Helen Caldwell
+27,17015,Camera,582705.0,Steadicam Operator,Jan Pester
+27,17015,Sound,1073310.0,Original Music Composer,Jeremy Sams
+27,17015,Art,1155250.0,Production Design,William Dudley
+27,17015,Writing,1244637.0,Script Editor,Catherine Wearing
+27,17015,Costume & Make-Up,1420630.0,Makeup Artist,Kay Bilk
+27,17015,Production,1492126.0,Producer,Fiona Finlay
+27,17015,Visual Effects,1530177.0,Visual Effects Designer,Colin Gorry
+27,17015,Art,1840475.0,Art Direction,Linda Ward
+27,17015,Costume & Make-Up,1840476.0,Makeup Artist,Joanna Casserly
+27,17015,Costume & Make-Up,1840477.0,Makeup Artist,Sally Collins
+27,17015,Costume & Make-Up,1840478.0,Makeup Designer,Jean Speak
+27,17015,Art,1840479.0,Set Dresser,Graham Bishop
+27,17015,Camera,1840481.0,Still Photographer,Chris Capstick
+27,17015,Camera,1840482.0,Underwater Camera,Stephen Foote
+27,17015,Crew,1840483.0,Choreographer,Geraldine Stephenson
+28,902,Directing,2419.0,Director,Jean-Pierre Jeunet
+28,902,Writing,2419.0,Screenplay,Jean-Pierre Jeunet
+28,902,Production,13828.0,Producer,Félicie Dutertre
+28,902,Production,13829.0,Producer,María Victoria Hebrero
+28,902,Production,13830.0,Producer,José Luis Lopez
+28,902,Production,13831.0,Producer,Arlette Mas
+28,902,Production,2402.0,Producer,Claudie Ossard
+28,902,Production,13834.0,Producer,François Rabes
+28,902,Sound,5628.0,Original Music Composer,Angelo Badalamenti
+28,902,Camera,2240.0,Director of Photography,Darius Khondji
+28,902,Editing,2425.0,Editor,Hervé Schneid
+28,902,Production,2424.0,Casting,Pierre-Jacques Bénichou
+28,902,Art,13838.0,Set Decoration,Jean Rabasse
+28,902,Art,13839.0,Set Decoration,Aline Bonetto
+28,902,Costume & Make-Up,8385.0,Costume Design,Jean Paul Gaultier
+28,902,Art,13840.0,Set Decoration,Georges Mougine
+28,902,Art,13841.0,Set Decoration,Denis Ozenne
+28,902,Writing,13680.0,Screenplay,Marc Caro
+28,902,Art,13680.0,Production Design,Marc Caro
+28,902,Directing,13680.0,Director,Marc Caro
+28,902,Writing,13681.0,Screenplay,Gilles Adrien
+29,37557,Directing,607.0,Director,Zhang Yimou
+29,37557,Camera,72204.0,Director of Photography,Lü Yue
+29,37557,Writing,146103.0,Writer,Bi Feiyu
+29,37557,Writing,146104.0,Novel,Li Xiao
+30,9909,Production,770.0,Producer,Jerry Bruckheimer
+30,9909,Production,897.0,Casting,Bonnie Timmermann
+30,9909,Production,771.0,Producer,Don Simpson
+30,9909,Editing,1047.0,Editor,Tom Rolf
+30,9909,Sound,5132.0,Music Editor,Bob Badami
+30,9909,Writing,5144.0,Screenplay,Ronald Bass
+30,9909,Costume & Make-Up,9775.0,Makeup Artist,Marietta Carter-Narcisse
+30,9909,Production,11695.0,Executive Producer,Lucas Foster
+30,9909,Production,12066.0,Executive Producer,Sandra Rabins
+30,9909,Art,13587.0,Art Direction,Nancy Patton
+30,9909,Art,20209.0,Production Design,Donald Graham Burt
+30,9909,Production,21138.0,Executive Producer,Kate Guinzburg
+30,9909,Costume & Make-Up,32487.0,Key Hair Stylist,Robert L. Stevenson
+30,9909,Art,35140.0,Set Decoration,Catherine Mann
+30,9909,Costume & Make-Up,59710.0,Costume Design,Bobbie Read
+30,9909,Camera,59790.0,Director of Photography,Pierre Letarte
+30,9909,Directing,60295.0,Director,John N. Smith
+30,9909,Writing,60296.0,Novel,LouAnne Johnson
+30,9909,Sound,34061.0,Music,Wendy Melvoin
+30,9909,Sound,34060.0,Music,Lisa Coleman
+30,9909,Art,1338147.0,Construction Coordinator,Bruce Di Valerio
+30,9909,Directing,1342644.0,Script Supervisor,June Samson
+30,9909,Crew,1421720.0,Special Effects Coordinator,Darrell Pritchett
+30,9909,Costume & Make-Up,1440306.0,Costume Supervisor,Gala Autumn
+30,9909,Art,1473443.0,Art Department Coordinator,Michele Tedlis
+30,9909,Sound,1530166.0,Music Supervisor,Kathy Nelson
+31,63,Directing,280.0,Director,Terry Gilliam
+31,63,Writing,7191.0,Screenplay,David Webb Peoples
+31,63,Writing,281.0,Screenplay,Janet Peoples
+31,63,Production,282.0,Producer,Charles Roven
+31,63,Production,283.0,Executive Producer,Robert Cavallo
+31,63,Production,284.0,Executive Producer,Gary Levinsohn
+31,63,Production,285.0,Executive Producer,Robert Kosberg
+31,63,Camera,293.0,Director of Photography,Roger Pratt
+31,63,Editing,294.0,Editor,Mick Audsley
+31,63,Sound,295.0,Sound Editor,Imogen Pollard
+31,63,Sound,297.0,Sound mixer,Jay Meagher
+31,63,Sound,1020074.0,Original Music Composer,Paul Buckmaster
+31,63,Art,945.0,Set Decoration,Crispian Sallis
+31,63,Art,7848.0,Production Design,Jeffrey Beecroft
+31,63,Art,8848.0,Art Direction,William Ladd Skinner
+31,63,Production,6347.0,Casting,Margery Simkin
+31,63,Costume & Make-Up,8222.0,Costume Design,Julie Weiss
+31,63,Production,3973.0,Associate Producer,Mark Egerton
+31,63,Production,286.0,Co-Producer,Lloyd Phillips
+31,63,Production,58237.0,Associate Producer,Kelley Smith-Wait
+31,63,Costume & Make-Up,1430213.0,Hairstylist,Christina Bartolucci
+31,63,Costume & Make-Up,5333.0,Hair Designer,Christine Beveridge
+31,63,Costume & Make-Up,1446985.0,Hairstylist,William A. Kohout
+31,63,Costume & Make-Up,1458527.0,Makeup Artist,Allen Weisinger
+31,63,Art,1546147.0,Leadman,Carl Catanese
+31,63,Art,1546148.0,Construction Coordinator,Steven Lane Ewing
+31,63,Crew,1546149.0,Carpenter,Glen Foster
+31,63,Art,12257.0,Assistant Art Director,Tim Galvin
+31,63,Crew,1546150.0,Propmaker,Rick Gamez
+31,63,Crew,1546151.0,Carpenter,Wesley Goodwin
+31,63,Crew,1377215.0,Property Master,Doug Harlocker
+31,63,Art,6878.0,Assistant Art Director,Kevin Ishioka
+31,63,Art,1546152.0,Art Department Coordinator,Lara Kelly
+31,63,Crew,1546154.0,Carpenter,Mark Kendig
+31,63,Art,1395158.0,Leadman,John D. Kretschmer
+31,63,Art,1546155.0,Assistant Art Director,Robert LaPrell
+31,63,Crew,1383160.0,Carpenter,Lê Hoàng
+31,63,Crew,1546156.0,Carpenter,Ted Lubonovich II
+31,63,Crew,1546157.0,Carpenter,Paul Maiello
+31,63,Art,1546158.0,Painter,Paul A. Minitello
+31,63,Art,1546159.0,Greensman,Larry Misselhorn
+31,63,Crew,1522774.0,Carpenter,Scott T. Pina
+31,63,Crew,1546160.0,Carpenter,Gary Pugh
+31,63,Art,88454.0,Standby Painter,Wayne Smith
+31,63,Sound,1546161.0,Foley,Diane Greaves
+31,63,Sound,1544372.0,Supervising Sound Editor,Peter Joly
+31,63,Sound,1457285.0,Boom Operator,Randy Smith
+31,63,Sound,1393300.0,Foley,Jack Stew
+31,63,Sound,1337412.0,Foley,Jason Swanscott
+31,63,Sound,1413938.0,Foley,Ted Swanscott
+31,63,Crew,1235786.0,Special Effects,David Acord
+31,63,Crew,1546166.0,Special Effects,Russell Hardee
+31,63,Crew,1546167.0,Special Effects,James Healy
+31,63,Crew,1546168.0,Special Effects,Russell Hurlburt
+31,63,Crew,1546169.0,Special Effects,Paul Kocar
+31,63,Crew,1546170.0,Special Effects,Thomas Lockey
+31,63,Crew,1511730.0,Special Effects,Joseph P. Mercurio
+31,63,Crew,1546171.0,Special Effects Coordinator,Shirley Montefusco
+31,63,Visual Effects,1434159.0,Special Effects Supervisor,Anthony Simonaitis
+31,63,Crew,1546172.0,Special Effects,Beecher Tomlinson
+31,63,Visual Effects,1337414.0,Digital Compositors,Richard Bain
+31,63,Visual Effects,1325557.0,Digital Compositors,Martin Body
+31,63,Visual Effects,1546173.0,Digital Compositors,Steve Cutmore
+31,63,Visual Effects,1546174.0,Digital Compositors,Doug Forrest
+31,63,Visual Effects,10721.0,Visual Effects Supervisor,Kent Houston
+31,63,Visual Effects,1546175.0,Digital Compositors,Chris Panton
+31,63,Visual Effects,1546176.0,Visual Effects Coordinator,Susi Roper
+31,63,Crew,1074163.0,Stunts,G.A. Aguilar
+31,63,Crew,134877.0,Stunts,Sandy Alexander
+31,63,Crew,91834.0,Stunts,Bill Anagnos
+31,63,Crew,1407881.0,Stunts,John Copeman
+31,63,Crew,1546177.0,Stunts,Paul Couch
+31,63,Crew,155535.0,Stunts,Douglas Crosby
+31,63,Crew,1546178.0,Stunts,E.J. Evans
+31,63,Crew,999690.0,Stunts,Terry Jackson
+31,63,Crew,1407225.0,Stunts,Ronald O. Jaynes
+31,63,Crew,933507.0,Stunts,Chuck Jeffreys
+31,63,Crew,1546179.0,Stunts,David S. Lomax
+31,63,Crew,556798.0,Stunts,Steve Martin
+31,63,Crew,556798.0,Stunt Coordinator,Steve Martin
+31,63,Crew,1546180.0,Stunts,Elliot Santiago
+31,63,Crew,1507943.0,Stunts,Steve Santosusso
+31,63,Crew,1434599.0,Stunts,Brian Smyj
+31,63,Camera,1546181.0,Grip,Rhett Bloomquist
+31,63,Camera,18095.0,Still Photographer,Phillip V. Caruso
+31,63,Lighting,1546182.0,Electrician,David Cecil
+31,63,Lighting,1531991.0,Electrician,Andrew Reed Conner
+31,63,Lighting,1546183.0,Electrician,Bill Fiedler
+31,63,Lighting,1546184.0,Rigging Grip,Mike Finnegan
+31,63,Camera,1546185.0,First Assistant Camera,Vinnie Gerardo
+31,63,Crew,1546186.0,Loader,Thomas Greco
+31,63,Camera,957361.0,Camera Operator,Craig Haagensen
+31,63,Camera,549995.0,Grip,William Jones
+31,63,Crew,1463532.0,Video Assist Operator,Ian Kelly
+31,63,Lighting,1546187.0,Rigging Gaffer,Craig Ligget
+31,63,Lighting,27709.0,Rigging Grip,Matt Miller
+31,63,Camera,1157630.0,Camera Operator,Peter Norman
+31,63,Camera,91115.0,Camera Operator,Kyle Rudolph
+31,63,Lighting,1546188.0,Electrician,Keith Salkowski
+31,63,Camera,1546189.0,Grip,Lee Shapira
+31,63,Camera,1546190.0,First Assistant Camera,Blackford 'Boots' Shelton
+31,63,Camera,1546191.0,Grip,Brian Snell
+31,63,Production,1546192.0,Casting Associate,Mikie Heilbrun
+31,63,Costume & Make-Up,1424540.0,Costume Supervisor,Eric H. Sandberg
+31,63,Costume & Make-Up,1324812.0,Assistant Costume Designer,B.J. Rogers
+31,63,Crew,1065081.0,Post-Production Manager,Lucy Darwin
+31,63,Editing,1546193.0,First Assistant Editor,Dan Gane
+31,63,Crew,553163.0,Post Production Assistant,Pamela Susan Hall
+31,63,Editing,1546194.0,First Assistant Editor,Brian Ufberg
+31,63,Editing,1546205.0,Color Timer,Eddie Wilder
+31,63,Crew,544194.0,Post Production Assistant,Glynn Williams
+31,63,Directing,1546213.0,Script Supervisor,Marilyn Bailey
+31,63,Crew,1546216.0,Set Medic,Ted Criswell
+31,63,Crew,1540477.0,Public Relations,Dennis Davidson
+31,63,Crew,1546217.0,Legal Services,Marc Diener
+31,63,Production,1477266.0,Location Manager,Scott Elias
+31,63,Crew,1546219.0,Craft Service,Carole French
+31,63,Crew,1546220.0,Craft Service,Reva Grantham
+31,63,Crew,1546221.0,Legal Services,Warren Holcomb
+31,63,Crew,1546232.0,Security,Avi Korein
+31,63,Crew,91941.0,Unit Publicist,Ernie Malik
+31,63,Crew,1535108.0,Craft Service,Elena Moscatt
+31,63,Production,1546233.0,Production Coordinator,Elizabeth J. Nevin
+31,63,Production,1546234.0,Production Accountant,Matilde Valera
+31,63,Art,1424186.0,Location Scout,Charley Armstrong
+31,63,Costume & Make-Up,1131063.0,Key Hair Stylist,Peggy Nicholson
+31,63,Art,132566.0,Production Illustrator,Matt Codd
+31,63,Art,132628.0,Construction Foreman,Thomas Turnbull
+31,63,Crew,1378753.0,Scenic Artist,Silvija L. Moess
+31,63,Crew,1548587.0,Driver,Richard Curry
+31,63,Production,286.0,Unit Production Manager,Lloyd Phillips
+31,63,Art,1733006.0,Set Dresser,Kate Bartouldus
+31,63,Art,1733007.0,Title Designer,Penny Causer
+31,63,Editing,1733011.0,Negative Cutter,Trevor Collins
+31,63,Lighting,1373728.0,Chief Lighting Technician,Chuck Finch
+31,63,Art,135935.0,Assistant Property Master,Scott Maginnis
+31,63,Camera,58185.0,Dolly Grip,Patrick McGrath
+31,63,Costume & Make-Up,1733008.0,Wardrobe Supervisor,Melissa Stanton
+31,63,Crew,1733009.0,Animal Coordinator,Jim Clubb
+31,63,Crew,1567973.0,Pyrotechnician,Ken Tarallo
+31,63,Directing,3973.0,First Assistant Director,Mark Egerton
+31,63,Production,1430558.0,Assistant Production Manager,Charles Miller
+31,63,Production,1733012.0,Casting Assistant,Marissa Giunta
+31,63,Production,1733013.0,Local Casting,Mike Lemon
+31,63,Sound,1733014.0,ADR Editor,Budge Tremlett
+31,63,Sound,1733015.0,Apprentice Sound Editor,Tasha Pym
+31,63,Sound,59983.0,Assistant Sound Editor,Simon Cozens
+31,63,Sound,1421647.0,Foley Editor,Ian Wilson
+31,63,Sound,1733019.0,Musician,Mark Berrow
+31,63,Camera,1611487.0,Key Grip,Mike Miller
+31,63,Directing,1215659.0,Second Assistant Director,Andrew Bernstein
+32,78802,Directing,2352.0,Director,Jean-Jacques Annaud
+32,78802,Writing,2358.0,Screenplay,Alain Godard
+32,78802,Writing,2352.0,Screenplay,Jean-Jacques Annaud
+32,78802,Production,2352.0,Producer,Jean-Jacques Annaud
+32,78802,Production,1841487.0,Producer,Antoine Compin
+32,78802,Production,1841488.0,Producer,Charis Horton
+32,78802,Camera,2596.0,Director of Photography,Robert Fraisse
+32,78802,Editing,40151.0,Editor,Louise Rubacky
+32,78802,Production,2121.0,Casting,Mary Jo Slater
+32,78802,Art,1120591.0,Production Design,Ian D. Thomas
+32,78802,Art,1770509.0,Art Direction,D.A. Menchions
+32,78802,Art,28163.0,Set Decoration,Lesley Beale
+32,78802,Costume & Make-Up,8428.0,Costume Design,Aggie Guerard Rodgers
+32,78802,Costume & Make-Up,12614.0,Key Makeup Artist,Stephan Dupuis
+32,78802,Costume & Make-Up,1441238.0,Key Hair Stylist,Thom MacIntyre
+32,78802,Art,1665669.0,Construction Coordinator,Clare Davis
+32,78802,Art,1335043.0,Property Master,Andy Nieman
+32,78802,Sound,1536975.0,Sound Designer,Sandy Berman
+32,78802,Visual Effects,1535322.0,Special Effects Supervisor,David Neil Trifunovich
+32,78802,Visual Effects,80370.0,Visual Effects Supervisor,Sean MacLeod Phillips
+32,78802,Camera,1391699.0,Still Photographer,Doane Gregory
+32,78802,Camera,1194062.0,Camera Operator,Allen Smith
+32,78802,Camera,970003.0,Camera Operator,Roger Vernon
+32,78802,Costume & Make-Up,23816.0,Costume Supervisor,Carla Hetland
+32,78802,Directing,1704110.0,Script Supervisor,Laurence Duval Annaud
+33,9598,Camera,1313.0,Director of Photography,Andrew Lesnie
+33,9598,Writing,20629.0,Screenplay,George Miller
+33,9598,Production,20629.0,Producer,George Miller
+33,9598,Production,11651.0,Producer,Doug Mitchell
+33,9598,Editing,11650.0,Editor,Marcus D'Arcy
+33,9598,Writing,46299.0,Novel,Dick King-Smith
+33,9598,Sound,58065.0,Original Music Composer,Nigel Westlake
+33,9598,Editing,58066.0,Editor,Jay Friedkin
+33,9598,Writing,58137.0,Screenplay,Chris Noonan
+33,9598,Directing,58137.0,Director,Chris Noonan
+33,9598,Production,58140.0,Producer,Bill Miller
+34,47018,Costume & Make-Up,4034.0,Costume Design,Penny Rose
+34,47018,Costume & Make-Up,5333.0,Hairstylist,Christine Beveridge
+34,47018,Sound,10759.0,Music,Michael Nyman
+34,47018,Writing,12952.0,Screenplay,Christopher Hampton
+34,47018,Directing,12952.0,Director,Christopher Hampton
+34,47018,Art,17793.0,Production Design,Caroline Amies
+34,47018,Editing,68804.0,Editor,George Akers
+34,47018,Camera,23464.0,Director of Photography,Denis Lenoir
+34,47018,Art,37301.0,Art Direction,Frank Walsh
+34,47018,Production,39812.0,Producer,John McGrath
+34,47018,Sound,570124.0,Sound Re-Recording Mixer,Graham Daniel
+34,47018,Sound,589952.0,Sound Re-Recording Mixer,Ray Merrin
+34,47018,Production,1083635.0,Producer,Ronald Shedlo
+34,47018,Writing,1338011.0,Novel,Michael Holroyd
+34,47018,Sound,1393866.0,Foley,Felicity Cottrell
+34,47018,Lighting,1398131.0,Gaffer,David Morani
+34,47018,Camera,1402096.0,Steadicam Operator,Peter Robertson
+34,47018,Directing,1406986.0,Script Supervisor,Penny Eyles
+34,47018,Costume & Make-Up,1415951.0,Hairstylist,Norma Webb
+34,47018,Crew,1570213.0,Choreographer,Stuart Hopps
+34,47018,Sound,1602683.0,ADR & Dubbing,Jupiter Sen
+34,47018,Art,1725267.0,Assistant Art Director,Andy Semple
+34,47018,Costume & Make-Up,1725268.0,Assistant Costume Designer,Kirsten Hecktermann
+34,47018,Costume & Make-Up,1725269.0,Seamstress,Loredana Nicolao
+34,47018,Camera,1725270.0,Camera Operator,Fred Harris
+34,47018,Camera,1725271.0,Still Photographer,Jill Furmanovsky
+34,47018,Camera,1725272.0,Still Photographer,Luis Lazo
+34,47018,Sound,1725273.0,Sound Editor,Dennis McTaggart
+34,47018,Editing,1725274.0,First Assistant Editor,James Marsh
+34,47018,Costume & Make-Up,1725275.0,Hairstylist,Elaine Davis
+35,687,Camera,151.0,Director of Photography,Roger Deakins
+35,687,Writing,504.0,Screenplay,Tim Robbins
+35,687,Directing,504.0,Director,Tim Robbins
+35,687,Production,504.0,Producer,Tim Robbins
+35,687,Crew,1204.0,Thanks,Julia Roberts
+35,687,Production,2236.0,Executive Producer,Tim Bevan
+35,687,Production,2238.0,Executive Producer,Eric Fellner
+35,687,Production,3264.0,Producer,Rudd Simmons
+35,687,Production,3264.0,Unit Production Manager,Rudd Simmons
+35,687,Crew,3284.0,Thanks,Bruce Springsteen
+35,687,Crew,6574.0,Thanks,Clancy Brown
+35,687,Production,4446.0,Producer,Jon Kilik
+35,687,Editing,4849.0,Dialogue Editor,Anthony J. Ciccolini III
+35,687,Art,10576.0,Art Direction,Tom Warren
+35,687,Costume & Make-Up,5332.0,Costume Design,Renee Ehrlich Kalfus
+35,687,Production,5669.0,Casting,Douglas Aibel
+35,687,Writing,10298.0,Screenplay,Helen Prejean
+35,687,Sound,10364.0,Original Music Composer,David Robbins
+35,687,Sound,10364.0,Music Supervisor,David Robbins
+35,687,Art,10365.0,Production Design,Richard Hoover
+35,687,Editing,11625.0,Editor,Lisa Zeno Churgin
+35,687,Crew,13050.0,Dialect Coach,Tim Monich
+35,687,Crew,15308.0,Thanks,Sharon Boyle
+35,687,Sound,17992.0,Sound Mixer,Tod A. Maitland
+35,687,Sound,17993.0,Boom Operator,T.J. O'Mara
+35,687,Sound,17994.0,Supervising Sound Editor,Dan Sable
+35,687,Sound,17995.0,Sound Editor,Lynn Sable
+35,687,Crew,10917.0,Thanks,Simon Abkarian
+35,687,Directing,30601.0,Assistant Director,Allan F. Nicholls
+35,687,Production,30601.0,Associate Producer,Allan F. Nicholls
+35,687,Crew,46590.0,Thanks,Eddie Vedder
+35,687,Directing,52991.0,Assistant Director,Sam Hoffman
+35,687,Crew,39624.0,Thanks,Peter Gabriel
+35,687,Crew,73772.0,Thanks,Barry Levine
+35,687,Costume & Make-Up,91061.0,Set Dressing Artist,Lawrence Amanuel
+35,687,Writing,91069.0,Storyboard,Brick Mason
+35,687,Crew,94313.0,Thanks,Suzanne Weinert
+35,687,Crew,126929.0,Thanks,Jack Snyder
+35,687,Art,548849.0,Assistant Art Director,David Stein
+35,687,Crew,938427.0,Post Production Assistant,Allison R. Hebble
+35,687,Editing,957760.0,Editor,Ray Hubley
+35,687,Sound,1039164.0,Foley,George A. Lara
+35,687,Costume & Make-Up,1171522.0,Assistant Costume Designer,Kim Marie Druce
+35,687,Crew,1276530.0,Thanks,Malcolm Ritchie
+35,687,Production,1287559.0,Associate Producer,Mark Seldis
+35,687,Costume & Make-Up,1320551.0,Makeup Designer,Ma Kalaadevi Ananda
+35,687,Crew,1393372.0,Carpenter,Chuck Stringer
+35,687,Directing,1393455.0,Script Supervisor,Eva Z. Cabrera
+35,687,Art,1399957.0,Construction Coordinator,Martin Bernstein
+35,687,Lighting,1401997.0,Gaffer,Bill O'Leary
+35,687,Costume & Make-Up,1412081.0,Makeup Artist,Michal Bigger
+35,687,Camera,1412113.0,Still Photographer,Demmie Todd
+35,687,Sound,1434615.0,Dolby Consultant,Bradford L. Hohle
+35,687,Production,1441122.0,Associate Producer,R.A. White
+35,687,Costume & Make-Up,1445469.0,Key Hair Stylist,Aaron F. Quarles
+35,687,Lighting,1464521.0,Rigging Gaffer,Richie Ford
+35,687,Production,1472378.0,Location Manager,Barbara Heller
+35,687,Lighting,1530326.0,Electrician,Lance Shepherd
+35,687,Sound,1532409.0,Music Editor,Patrick Mullins
+35,687,Costume & Make-Up,1535440.0,Hairstylist,Michael Kriston
+35,687,Lighting,1537431.0,Electrician,Greg Addison
+35,687,Sound,1551815.0,Orchestrator,David Campbell
+35,687,Camera,1573081.0,First Assistant Camera,Andy Harris
+35,687,Camera,1573082.0,Key Grip,Mitchell Andrew Lillian
+35,687,Crew,1667091.0,Post Production Supervisor,Graham Stumpf
+35,687,Camera,1667289.0,Grip,Tony Arnaud
+35,687,Editing,1680639.0,Color Timer,Tom Salvatore
+35,687,Production,1711218.0,Production Coordinator,Michele Giordano
+35,687,Camera,1771830.0,Camera Operator,Robin Brown
+35,687,Art,1773951.0,Art Department Coordinator,Christie Alexander
+35,687,Art,1773953.0,Construction Foreman,Michael Curry Sr.
+35,687,Art,1773954.0,Leadman,Patrick McGuire
+35,687,Art,1773955.0,Painter,Patrick K. Coppinger
+35,687,Crew,1773956.0,Additional Music,David Spinozza
+35,687,Crew,1773957.0,Chef,Brad 'Mo' Gremillion
+35,687,Crew,1773958.0,Craft Service,Kayla Chaillot
+35,687,Crew,1773959.0,Driver,Pete Aquino
+35,687,Crew,1773960.0,Mixing Engineer,Gary Chester
+35,687,Crew,1773961.0,Production Intern,Barry Gastelu
+35,687,Art,1773962.0,Property Master,Thomas Wright
+35,687,Crew,1773963.0,Scenic Artist,Lucian Baran
+35,687,Crew,1773964.0,Security,Greg Cattano
+35,687,Crew,1773965.0,Set Medic,Susie Blanchard
+35,687,Crew,1773966.0,Set Production Assistant,Scott August
+35,687,Sound,1773967.0,Sound Recordist,Scott Dior
+35,687,Crew,1773968.0,Telecine Colorist,John Dowdell
+35,687,Crew,1773969.0,Transportation Coordinator,Jerry Everett
+35,687,Editing,1774044.0,First Assistant Editor,Clare Larson
+35,687,Lighting,1774046.0,Best Boy Electric,William Moore
+35,687,Lighting,1774047.0,Rigging Grip,Jonathan Graham
+35,687,Production,1774049.0,Production Accountant,Mindy Sheldon
+35,687,Production,1774052.0,Production Supervisor,Nancy Kriegel
+35,687,Sound,1774053.0,Assistant Sound Editor,Yvette Nabel
+35,687,Costume & Make-Up,1774060.0,Set Dressing Production Assistant,Morgan Miller
+35,687,Production,1774061.0,Finance,Rashid Chinchanwala
+36,139405,Production,2952.0,Casting,Avy Kaufman
+36,139405,Sound,2289.0,Music,John Barry
+36,139405,Art,56697.0,Production Design,Charley Beal
+36,139405,Directing,77867.0,Director,Stephen Low
+36,139405,Production,77867.0,Producer,Stephen Low
+36,139405,Costume & Make-Up,91050.0,Costume Design,Cynthia Flynt
+36,139405,Editing,1173111.0,Editor,James Lahti
+36,139405,Directing,1395701.0,Script Supervisor,Joe Gonzalez
+36,139405,Writing,1439903.0,Writer,Andrew Gellis
+36,139405,Camera,1439907.0,Director of Photography,Andrew Kitzanuk
+36,139405,Art,1467083.0,Set Decoration,Kate Yatsko
+37,33689,Directing,17167.0,Director,Andy Tennant
+37,33689,Writing,147476.0,Writer,Deborah Dean Davis
+38,9603,Directing,57434.0,Director,Amy Heckerling
+38,9603,Writing,57434.0,Screenplay,Amy Heckerling
+38,9603,Production,2997.0,Producer,Scott Rudin
+38,9603,Camera,9341.0,Director of Photography,Bill Pope
+38,9603,Editing,57426.0,Editor,Debra Chiate
+38,9603,Production,1460574.0,Producer,Robert Lawrence
+38,9603,Art,38411.0,Production Design,Steven J. Jordan
+38,9603,Sound,25143.0,Original Music Composer,David Kitay
+38,9603,Costume & Make-Up,42909.0,Costume Design,Mona May
+38,9603,Sound,6940.0,Music Supervisor,Karyn Rachtman
+38,9603,Production,51557.0,Casting,Marcia Ross
+39,34615,Directing,16730.0,Director,Darrell James Roodt
+39,34615,Writing,3558.0,Writer,Ronald Harwood
+39,34615,Writing,123828.0,Novel,Alan Paton
+39,34615,Writing,3774.0,Writer,Joshua Sinclair
+40,31174,Directing,33315.0,Director,Richard Loncraine
+40,31174,Writing,6210.0,Theatre Play,William Shakespeare
+40,31174,Writing,1327.0,Writer,Ian McKellen
+40,31174,Writing,33315.0,Writer,Richard Loncraine
+41,11443,Sound,531.0,Original Music Composer,Danny Elfman
+41,11443,Camera,5271.0,Director of Photography,Lisa Rinzler
+41,11443,Directing,11447.0,Director,Albert Hughes
+41,11443,Production,11447.0,Producer,Albert Hughes
+41,11443,Directing,11448.0,Director,Allen Hughes
+41,11443,Production,11448.0,Producer,Allen Hughes
+41,11443,Editing,11455.0,Editor,Dan Lebental
+41,11443,Writing,69448.0,Screenplay,Michael Henry Brown
+41,11443,Production,69449.0,Executive Producer,Darryl Porter
+42,35196,Directing,52405.0,Director,Michael Hoffman
+42,35196,Writing,227501.0,Writer,Rose Termain
+42,35196,Writing,114886.0,Writer,Rupert Walters
+42,35196,Production,150352.0,Producer,Sarah Blackburn
+42,35196,Production,141474.0,Producer,Mark Bentley
+42,35196,Costume & Make-Up,11386.0,Costume Design,James Acheson
+43,9312,Directing,4014.0,Director,Paul W.S. Anderson
+43,9312,Editing,3961.0,Editor,Martin Hunter
+43,9312,Sound,9204.0,Original Music Composer,George S. Clinton
+43,9312,Camera,26714.0,Director of Photography,John R. Leonetti
+43,9312,Production,10809.0,Executive Producer,Robert Engelman
+43,9312,Production,43518.0,Producer,Lawrence Kasanoff
+43,9312,Writing,57256.0,Screenplay,Ed Boon
+43,9312,Crew,57256.0,Creator,Ed Boon
+43,9312,Writing,57257.0,Screenplay,John Tobias
+43,9312,Crew,57257.0,Creator,John Tobias
+43,9312,Writing,57258.0,Screenplay,Kevin Droney
+43,9312,Production,57259.0,Producer,Lauri Apelian
+43,9312,Production,57260.0,Producer,Alison Savitch
+43,9312,Production,34652.0,Executive Producer,Danny Simon
+43,9312,Directing,1158477.0,Script Supervisor,Jules Stewart
+44,577,Directing,5216.0,Director,Gus Van Sant
+44,577,Writing,7794.0,Author,Joyce Maynard
+44,577,Writing,7795.0,Screenplay,Buck Henry
+44,577,Production,7627.0,Producer,Laura Ziskin
+44,577,Production,2553.0,Executive Producer,Jonathan T. Taplin
+44,577,Production,7797.0,Producer,Leslie Morgan
+44,577,Production,7798.0,Producer,Sandy Isaac
+44,577,Sound,531.0,Original Music Composer,Danny Elfman
+44,577,Camera,6389.0,Director of Photography,Eric Alan Edwards
+44,577,Editing,6390.0,Editor,Curtiss Clayton
+44,577,Production,7800.0,Casting,Deirdre Bowen
+44,577,Art,6628.0,Production Design,Missy Stewart
+44,577,Art,7802.0,Set Decoration,Carol Lavoie
+44,577,Costume & Make-Up,6392.0,Costume Design,Beatrix Aruna Pasztor
+44,577,Production,1530.0,Casting,Howard Feuer
+44,577,Production,10570.0,Executive Producer,Joseph M. Caracciolo Jr.
+45,11861,Directing,3047.0,Director,Jocelyn Moorhouse
+45,11861,Production,28714.0,Producer,Sarah Pillsbury
+45,11861,Writing,59670.0,Screenplay,Jane Anderson
+45,11861,Editing,3050.0,Editor,Jill Bilcock
+45,11861,Sound,153.0,Original Music Composer,Thomas Newman
+45,11861,Camera,492.0,Director of Photography,Janusz Kamiński
+45,11861,Writing,1788045.0,Novel,Whitney Otto
+45,11861,Production,90559.0,Producer,Midge Sanford
+45,11861,Production,8703.0,Co-Producer,Patricia Whitcher
+45,11861,Production,2212.0,Executive Producer,Walter F. Parkes
+45,11861,Production,67390.0,Executive Producer,Deborah Jelin Newmyer
+45,11861,Production,8701.0,Executive Producer,Laurie MacDonald
+45,11861,Production,3191.0,Casting,Risa Bramon Garcia
+45,11861,Production,5914.0,Casting,Mary Vernieu
+45,11861,Art,5059.0,Production Design,Leslie Dilley
+45,11861,Art,4953.0,Art Direction,Ed Verreaux
+45,11861,Art,8867.0,Set Decoration,Marvin March
+45,11861,Costume & Make-Up,19310.0,Costume Design,Ruth Myers
+46,807,Production,4023.0,Casting,Suzanne Smith
+46,807,Sound,117.0,Original Music Composer,Howard Shore
+46,807,Costume & Make-Up,605.0,Costume Design,Michael Kaplan
+46,807,Art,4197.0,Set Decoration,Clay A. Griffith
+46,807,Art,944.0,Production Design,Arthur Max
+46,807,Editing,2122.0,Additional Editing,William Hoy
+46,807,Camera,2240.0,Director of Photography,Darius Khondji
+46,807,Production,3192.0,Casting,Billy Hopkins
+46,807,Editing,6581.0,Editor,Richard Francis-Bruce
+46,807,Production,4768.0,Co-Executive Producer,Lynn Harris
+46,807,Production,5290.0,Casting Assistant,Kim Coleman
+46,807,Production,5328.0,Casting,Kerry Barden
+46,807,Crew,6955.0,Thanks,Vincent Landay
+46,807,Directing,7467.0,Director,David Fincher
+46,807,Crew,7537.0,Sound Design Assistant,Steve Boeddeker
+46,807,Crew,7475.0,Thanks,Ceán Chaffin
+46,807,Sound,7763.0,Sound Designer,Ren Klyce
+46,807,Sound,7763.0,Sound Effects Editor,Ren Klyce
+46,807,Production,11420.0,Executive Producer,Gianni Nunnari
+46,807,Production,11815.0,Executive Producer,Dan Kolsrud
+46,807,Production,10764.0,Producer,Arnold Kopelson
+46,807,Writing,12047.0,Screenplay,Andrew Kevin Walker
+46,807,Production,12048.0,Producer,Phyllis Carlyle
+46,807,Production,12050.0,Executive Producer,Anne Kopelson
+46,807,Art,12051.0,Art Direction,Gary Wissner
+46,807,Visual Effects,14046.0,Special Effects Supervisor,Danny Cangemi
+46,807,Art,12639.0,Set Designer,Hugo Santiago
+46,807,Production,12775.0,Executive In Charge Of Post Production,Joe Fineman
+46,807,Sound,15315.0,Music Editor,Ellen Segal
+46,807,Crew,14660.0,Special Effects Coordinator,Peter Albiez
+46,807,Art,10820.0,Assistant Art Director,Barry Chusid
+46,807,Camera,16563.0,Additional Photography,Charles A. Tamburro
+46,807,Production,27039.0,Casting Associate,Aisha Coley
+46,807,Production,18782.0,Associate Producer,Michele Platt
+46,807,Editing,19747.0,Dialogue Editor,John Nutt
+46,807,Camera,37925.0,Camera Operator,Conrad W. Hall
+46,807,Production,65753.0,Co-Executive Producer,Richard Saperstein
+46,807,Production,57076.0,Co-Producer,Stephen Joel Brown
+46,807,Production,69895.0,Co-Producer,Nana Greenwald
+46,807,Art,79783.0,Leadman,Chris Gibbin
+46,807,Crew,91056.0,Post Production Supervisor,Ric Keeley
+46,807,Production,91057.0,Executive In Charge Of Production,Ted Zachary
+46,807,Crew,91133.0,Post Production Supervisor,Mark Graziano
+46,807,Production,112526.0,Unit Production Manager,Allan Wertheim
+46,807,Crew,101608.0,Makeup Effects,Rob Bottin
+46,807,Production,950637.0,Line Producer,William C. Gerrity
+46,807,Sound,957581.0,Supervising Sound Editor,Patrick Dodd
+46,807,Costume & Make-Up,957990.0,Makeup Artist,Monty Westmore
+46,807,Art,1025337.0,Construction Foreman,William Davidson
+46,807,Costume & Make-Up,1313815.0,Set Costumer,Larry Velasco
+46,807,Costume & Make-Up,1325234.0,Makeup Department Head,Jean Ann Black
+46,807,Art,1325650.0,Set Designer,Elizabeth Lapp
+46,807,Costume & Make-Up,1325655.0,Costume Supervisor,Elinor Bardach
+46,807,Crew,1377235.0,Transportation Coordinator,Russell McEntyre
+46,807,Crew,1378207.0,Transportation Captain,Wayne Stone
+46,807,Sound,1378229.0,Boom Operator,Marvin E. Lewis
+46,807,Costume & Make-Up,1392142.0,Set Costumer,Marsha Bozeman
+46,807,Camera,1398970.0,Steadicam Operator,David Emmerichs
+46,807,Sound,1399996.0,Sound Re-Recording Mixer,Robert J. Litt
+46,807,Sound,1399997.0,Sound Re-Recording Mixer,Elliot Tyson
+46,807,Art,1400364.0,Set Designer,Lori Rowbotham
+46,807,Production,1401354.0,Production Coordinator,Wendy Cox
+46,807,Costume & Make-Up,1404878.0,Hair Designer,Becky Ochoa
+46,807,Camera,1406124.0,Camera Operator,Michael A. Chavez
+46,807,Camera,1411293.0,Still Photographer,Peter Sorel
+46,807,Camera,1412204.0,Steadicam Operator,Dale Myrand
+46,807,Crew,1442535.0,Stunt Coordinator,Chuck Picerni Jr.
+46,807,Costume & Make-Up,1458993.0,Makeup Artist,Michael Hancock
+46,807,Production,1522742.0,Casting Assistant,Jennifer McNamara
+46,807,Art,1537103.0,Art Department Coordinator,Jan O'Connell
+46,807,Editing,1542917.0,Color Timer,Yvan Lucas
+46,807,Sound,1544639.0,Music Editor,Angie Rubin
+46,807,Sound,1546115.0,Production Sound Mixer,Willie D. Burton
+46,807,Sound,1549263.0,Orchestrator,John Lissauer
+46,807,Crew,1551320.0,Sound Recordist,Jack Keller
+46,807,Production,1558238.0,Unit Production Manager,Robert S. Mendelsohn
+46,807,Production,1558240.0,Location Manager,Paul Hargrave
+46,807,Camera,1558241.0,First Assistant Camera,Brad Edmiston
+46,807,Visual Effects,1558242.0,Visual Effects Supervisor,Greg Kimble
+46,807,Editing,1558250.0,First Assistant Editor,Robert C. Lusted
+46,807,Editing,1558253.0,Dialogue Editor,Francesca Dodd
+46,807,Sound,1558254.0,Sound Effects Editor,Kim B. Christensen
+46,807,Sound,1558255.0,Sound Effects Editor,Jennifer L. Ware
+46,807,Sound,1558256.0,Sound Re-Recording Mixer,Rick Hart
+46,807,Crew,1558257.0,Sound Recordist,David Behle
+46,807,Sound,1558258.0,Orchestrator,Bert Dovo
+46,807,Production,1558267.0,Co-Producer,Sanford Panitch
+46,807,Lighting,1588279.0,Rigging Grip,Larry J. Aube
+46,807,Crew,1595467.0,Driver,George Alden
+46,807,Editing,1598650.0,Color Timer,Andrea Gargano
+46,807,Crew,1629423.0,Sound Recordist,Philip Rogers
+47,10530,Writing,6340.0,Screenplay,Susannah Grant
+47,10530,Sound,15813.0,Original Music Composer,Alan Menken
+47,10530,Editing,15815.0,Editor,H. Lee Peterson
+47,10530,Writing,37078.0,Screenplay,Philip LaZebnik
+47,10530,Crew,15774.0,Supervising Animator,Chris Buck
+47,10530,Writing,15774.0,Story,Chris Buck
+47,10530,Directing,65530.0,Director,Mike Gabriel
+47,10530,Directing,65531.0,Director,Eric Goldberg
+47,10530,Writing,65532.0,Screenplay,Carl Binder
+47,10530,Production,65533.0,Producer,James Pentecost
+47,10530,Camera,65534.0,Director of Photography,Andreas Deja
+47,10530,Visual Effects,1113194.0,Animation,Dave Kupczyk
+47,10530,Visual Effects,1397792.0,Visual Effects,Marlon West
+47,10530,Visual Effects,1447301.0,Animation,Trevor Tamboline
+47,10530,Visual Effects,1447368.0,Animation,Randy Sanchez
+47,10530,Visual Effects,1447370.0,Animation,Tim Allen
+47,10530,Visual Effects,1447376.0,Animation Supervisor,Anthony DeRosa
+47,10530,Visual Effects,1447380.0,Animation,Craig R. Maras
+47,10530,Directing,1447483.0,Layout,Rick Moore
+47,10530,Visual Effects,1447547.0,Animation Manager,Brendan Harris
+47,10530,Visual Effects,1447573.0,Color Designer,Maria Gonzalez
+47,10530,Visual Effects,1447576.0,Visual Effects,David 'Joey' Mildenberger
+47,10530,Directing,1447587.0,Layout,Peter J. Deluca
+47,10530,Visual Effects,1448084.0,Animation,Dan Lund
+47,10530,Visual Effects,1451677.0,Visual Effects,John Huey
+47,10530,Visual Effects,1452488.0,Animation Manager,Pat Sito
+47,10530,Visual Effects,1452489.0,Visual Effects,Thomas Baker
+47,10530,Visual Effects,1453513.0,Visual Effects,Rob Bekuhrs
+47,10530,Visual Effects,1455541.0,Animation,Larry White
+47,10530,Visual Effects,1457930.0,Animation,James Baker
+47,10530,Visual Effects,1459611.0,Visual Effects,Brice Mallier
+48,8391,Directing,55439.0,Director,Patricia Rozema
+48,8391,Writing,55439.0,Screenplay,Patricia Rozema
+48,8391,Production,55660.0,Producer,Barbara Tranter
+48,8391,Production,20182.0,Executive Producer,Robert Lantos
+48,8391,Sound,39827.0,Original Music Composer,Lesley Barber
+48,8391,Camera,55661.0,Director of Photography,Douglas Koch
+48,8391,Editing,35332.0,Editor,Susan Shipton
+48,8391,Production,7800.0,Casting,Deirdre Bowen
+49,629,Directing,9032.0,Director,Bryan Singer
+49,629,Production,9032.0,Producer,Bryan Singer
+49,629,Production,9034.0,Producer,Michael McDonnell
+49,629,Production,4584.0,Executive Producer,Robert Jones
+49,629,Production,9036.0,Executive Producer,Art Horan
+49,629,Production,9037.0,Executive Producer,François Duplat
+49,629,Production,9038.0,Executive Producer,Hans Brockmann
+49,629,Camera,9040.0,Director of Photography,Newton Thomas Sigel
+49,629,Editing,9039.0,Editor,John Ottman
+49,629,Production,6410.0,Casting,Francine Maisler
+49,629,Art,9041.0,Production Design,Howard Cummings
+49,629,Art,8221.0,Art Direction,David Lazan
+49,629,Art,9042.0,Set Decoration,Sara Andrews
+49,629,Costume & Make-Up,9043.0,Costume Design,Louise Mingenbach
+49,629,Production,9044.0,Production Supervisor,Vicky Herman
+49,629,Sound,9039.0,Music,John Ottman
+49,629,Production,9035.0,Co-Producer,Kenneth Kokin
+49,629,Writing,9033.0,Writer,Christopher McQuarrie
+49,629,Camera,1017376.0,Steadicam Operator,Chris Squires
+49,629,Sound,1511737.0,Sound Mixer,Geoffrey Patterson
+49,629,Sound,1732486.0,Boom Operator,Craig Woods
+49,629,Camera,1568646.0,First Assistant Camera,Robert C. Carlson
+49,629,Camera,38579.0,Additional Photography,Bruce Douglas Johnson
+49,629,Camera,1357066.0,Steadicam Operator,P. Scott Sakamoto
+49,629,Directing,1431027.0,Script Supervisor,Wendy Dallas
+49,629,Crew,1341776.0,Property Master,Tony Bonaventura
+49,629,Writing,111893.0,Storyboard,John Coven
+49,629,Crew,98542.0,Makeup Effects,David P. Barton
+49,629,Lighting,1406261.0,Gaffer,Reinhart Peschke
+49,629,Crew,80298.0,Stunt Coordinator,Gary Jensen
+49,629,Sound,1732503.0,Music Editor,Lia Vollack
+49,629,Directing,1402170.0,Script Supervisor,Haley McLane
+49,629,Art,1732490.0,Art Department Coordinator,Mark Meloccaro
+49,629,Costume & Make-Up,1732491.0,Costume Supervisor,Lori Eskowitz
+49,629,Costume & Make-Up,1732492.0,Set Costumer,Tara Spurlock
+49,629,Costume & Make-Up,143893.0,Makeup Department Head,Michelle Bühler
+49,629,Costume & Make-Up,1433996.0,Key Hair Stylist,Barbara Olvera
+49,629,Production,1732494.0,Location Manager,Chanel Salzer
+49,629,Production,1732495.0,Location Manager,Ashley Friedman
+49,629,Crew,14100.0,Special Effects Coordinator,Roy L. Downey
+49,629,Crew,1397737.0,Transportation Coordinator,Geno Hart
+49,629,Crew,1552019.0,Transportation Captain,Joe Cosentino
+49,629,Crew,1732496.0,Transportation Captain,Ken Plumlee
+49,629,Crew,1552008.0,Transportation Co-Captain,Joseph Aroesti
+49,629,Crew,1732498.0,Craft Service,Ellen Francisco
+49,629,Crew,1529600.0,Unit Publicist,David Pollack
+49,629,Camera,1534236.0,Still Photographer,Linda R. Chen
+49,629,Camera,1732499.0,Still Photographer,Caroline Burton
+49,629,Camera,1415109.0,Still Photographer,John Johnson
+49,629,Production,19156.0,Casting Associate,Kathy Driscoll
+49,629,Production,1527280.0,Casting Associate,Lisa Miller Katz
+49,629,Crew,1531492.0,Post Production Supervisor,Michael Tinger
+49,629,Editing,1049330.0,Assistant Editor,Roger Fenton
+49,629,Sound,113075.0,Supervising Sound Editor,Chuck Michael
+49,629,Editing,1732501.0,Dialogue Editor,David Spence
+49,629,Editing,1550072.0,Dialogue Editor,Sukey Fontelieu
+49,629,Sound,1732502.0,Sound Effects Editor,Nash Michael
+49,629,Sound,1446545.0,Sound Effects Editor,Karen G. Wilson
+49,629,Sound,1406242.0,Sound Effects Editor,Richard Burton
+49,629,Sound,37038.0,Orchestrator,Larry Groupé
+49,629,Sound,1399996.0,Sound Re-Recording Mixer,Robert J. Litt
+49,629,Sound,1399997.0,Sound Re-Recording Mixer,Elliot Tyson
+49,629,Sound,42034.0,Sound Re-Recording Mixer,Greg P. Russell
+49,629,Editing,1732504.0,Color Timer,Gloria Kaiser
+50,117164,Directing,100505.0,Director,Richard W. Munchkin
+51,11448,Production,1046.0,Casting,Juliet Taylor
+51,11448,Writing,1243.0,Screenplay,Woody Allen
+51,11448,Directing,1243.0,Director,Woody Allen
+51,11448,Production,1265.0,Co-Executive Producer,Letty Aronson
+51,11448,Production,3658.0,Producer,Robert Greenhut
+51,11448,Art,10576.0,Art Direction,Tom Warren
+51,11448,Costume & Make-Up,6348.0,Costume Design,Jeffrey Kurland
+51,11448,Production,6990.0,Production Manager,Helen Robin
+51,11448,Production,6990.0,Co-Producer,Helen Robin
+51,11448,Production,6993.0,Co-Executive Producer,Charles H. Joffe
+51,11448,Production,6994.0,Co-Executive Producer,Jack Rollins
+51,11448,Editing,10440.0,Editor,Susan E. Morse
+51,11448,Sound,15432.0,Supervising Sound Editor,Robert Hein
+51,11448,Camera,15194.0,Director of Photography,Carlo Di Palma
+51,11448,Art,17221.0,Set Decoration,Susan Bode
+51,11448,Sound,20967.0,Original Music Composer,Dick Hyman
+51,11448,Art,23966.0,Production Design,Santo Loquasto
+51,11448,Production,27562.0,Executive Producer,Jean Doumanian
+51,11448,Production,67094.0,Executive Producer,J.E. Beaucaire
+51,11448,Sound,92377.0,Sound Re-Recording Mixer,Lee Dichter
+51,11448,Production,578324.0,Associate Producer,Thomas A. Reilly
+51,11448,Camera,1194262.0,Still Photographer,Brian Hamill
+51,11448,Camera,1459590.0,Camera Operator,Dick Mingalone
+51,11448,Directing,1459591.0,Script Supervisor,Kay Chapin
+51,11448,Editing,1531576.0,Dialogue Editor,Sylvia Menno
+51,11448,Sound,1535541.0,Production Sound Mixer,Gary Alper
+51,11448,Production,1551185.0,Production Coordinator,Scott Kordish
+51,11448,Lighting,1561296.0,Gaffer,Michael Proscia Jr.
+51,11448,Sound,1561297.0,Boom Operator,Micah Solomon
+51,11448,Art,1561298.0,Art Department Coordinator,Glenn Lloyd
+52,49133,Directing,128107.0,Director,Gianni Amelio
+52,49133,Writing,128107.0,Screenplay,Gianni Amelio
+52,49133,Writing,35096.0,Screenplay,Andrea Porporati
+52,49133,Writing,567786.0,Screenplay,Alessandro Sermoneta
+53,26441,Directing,71338.0,Director,Holly Goldberg Sloan
+53,26441,Writing,71338.0,Writer,Holly Goldberg Sloan
+54,97406,Directing,140354.0,Director,Ulu Grosbard
+54,97406,Writing,72583.0,Screenplay,Barbara Turner
+55,124057,Directing,30586.0,Director,Robert Tinnell
+55,124057,Writing,30589.0,Screenplay,David Sherman
+55,124057,Writing,30586.0,Original Story,Robert Tinnell
+56,9089,Directing,1038.0,Director,Jodie Foster
+56,9089,Writing,56945.0,Screenplay,Chris Radant
+56,9089,Writing,18179.0,Screenplay,W.D. Richter
+56,9089,Production,1038.0,Producer,Jodie Foster
+56,9089,Production,56947.0,Producer,Peggy Rajski
+56,9089,Sound,4140.0,Music,Mark Isham
+56,9089,Camera,47275.0,Director of Photography,Lajos Koltai
+56,9089,Editing,3394.0,Editor,Lynzee Klingman
+56,9089,Production,2952.0,Casting,Avy Kaufman
+56,9089,Production,56946.0,Executive Producer,Stuart Kleinman
+56,9089,Art,19872.0,Production Design,Andrew McAlpine
+56,9089,Art,9025.0,Art Direction,James E. Tocci
+56,9089,Art,8648.0,Set Decoration,Barbara Drake
+56,9089,Costume & Make-Up,20172.0,Costume Design,Susan Lyall
+56,9089,Costume & Make-Up,1413197.0,Costume Supervisor,Taryn Weaver
+56,9089,Directing,958273.0,Script Supervisor,Dianne Dreyer
+56,9089,Crew,1467165.0,Unit Publicist,Anne S. Reilly
+57,11010,Directing,28898.0,Director,Michael Radford
+57,11010,Writing,67789.0,Novel,Antonio Skármeta
+57,11010,Writing,5812.0,Screenplay,Furio Scarpelli
+57,11010,Writing,67790.0,Screenplay,Giacomo Scarpelli
+57,11010,Production,32309.0,Producer,Mario Cecchi Gori
+57,11010,Production,57301.0,Producer,Vittorio Cecchi Gori
+57,11010,Production,67791.0,Producer,Gaetano Daniele
+57,11010,Sound,66675.0,Original Music Composer,Luis Bacalov
+57,11010,Camera,66641.0,Director of Photography,Franco Di Giacomo
+57,11010,Editing,18333.0,Editor,Roberto Perpignani
+58,99040,Directing,38527.0,Director,Robert Lepage
+58,99040,Writing,38527.0,Writer,Robert Lepage
+59,11359,Directing,7908.0,Director,Frank Oz
+59,11359,Production,489.0,Producer,Kathleen Kennedy
+59,11359,Writing,9964.0,Screenplay,Melissa Mathison
+59,11359,Camera,8523.0,Director of Photography,Russell Carpenter
+59,11359,Sound,14712.0,Original Music Composer,Randy Edelman
+59,11359,Editing,10935.0,Editor,Ian Crafford
+59,11359,Production,1246837.0,Producer,Jane Startz
+59,11359,Production,664.0,Producer,Frank Marshall
+59,11359,Production,1176290.0,Casting,Kate Kennedy
+59,11359,Production,6347.0,Casting,Margery Simkin
+60,17182,Directing,19304.0,Director,John Schlesinger
+60,17182,Writing,1594448.0,Novel,Erika Holzer
+60,17182,Editing,6875.0,Editor,Peter Honess
+60,17182,Camera,1043831.0,Director of Photography,Amir Mokri
+60,17182,Production,1262.0,Casting,Mali Finn
+60,17182,Art,10220.0,Production Design,Stephen Hendrickson
+60,17182,Art,437.0,Art Direction,David J. Bomba
+60,17182,Production,60065.0,Producer,Michael I. Levy
+60,17182,Production,5626.0,Co-Producer,Michael Polaire
+60,17182,Production,1594449.0,Associate Producer,Kathryn Knowlton
+60,17182,Costume & Make-Up,59710.0,Costume Design,Bobbie Read
+60,17182,Art,19309.0,Set Decoration,Jan K. Bergstrom
+60,17182,Directing,1341865.0,Script Supervisor,Ana Maria Quintana
+60,17182,Camera,1324652.0,Still Photographer,Melinda Sue Gordon
+60,17182,Editing,58088.0,First Assistant Editor,Beth Jochem Besterveld
+60,17182,Sound,8653.0,Sound Mixer,Edward Tise
+60,17182,Crew,1261679.0,Stunt Coordinator,Bobby J. Foxworth
+60,17182,Sound,1378226.0,Sound Re-Recording Mixer,Michael Herbick
+60,17182,Sound,1378170.0,Sound Re-Recording Mixer,Donald O. Mitchell
+60,17182,Sound,1394130.0,Sound Re-Recording Mixer,Frank A. Montaño
+60,17182,Sound,1402250.0,Supervising Sound Editor,Martin Maryska
+60,17182,Sound,1407354.0,Supervising Sound Editor,Terry Rodman
+60,17182,Sound,1594450.0,Boom Operator,Todd O. Russell
+60,17182,Sound,1213.0,Music,James Newton Howard
+60,17182,Production,5626.0,Unit Production Manager,Michael Polaire
+60,17182,Editing,1327842.0,Assistant Editor,Michael Trent
+60,17182,Writing,67803.0,Writer,Amanda Silver
+60,17182,Writing,67802.0,Writer,Rick Jaffa
+61,2054,Directing,18356.0,Director,Stephen Herek
+61,2054,Writing,21101.0,Screenplay,Patrick Sheane Duncan
+61,2054,Production,18389.0,Producer,Robert W. Cort
+61,2054,Production,9196.0,Producer,Ted Field
+61,2054,Production,21102.0,Producer,Michael Nolin
+61,2054,Sound,7714.0,Original Music Composer,Michael Kamen
+61,2054,Camera,11409.0,Director of Photography,Oliver Wood
+61,2054,Art,1521767.0,Production Design,David Nichols
+61,2054,Costume & Make-Up,14713.0,Makeup Artist,Ken Chase
+61,2054,Production,71245.0,Production Supervisor,Jeffrey Downer
+61,2054,Sound,21103.0,Supervising Sound Editor,Tim Chau
+61,2054,Sound,15308.0,Music Supervisor,Sharon Boyle
+61,2054,Directing,1397738.0,Script Supervisor,Adrienne Hamalian-Mangine
+61,2054,Production,1536538.0,Production Coordinator,Valerie Mickaelian Kucera
+61,2054,Crew,72258.0,Stunt Coordinator,Steve Boyum
+61,2054,Costume & Make-Up,8428.0,Costume Design,Aggie Guerard Rodgers
+61,2054,Editing,58720.0,Editor,Trudy Ship
+61,2054,Art,19309.0,Set Decoration,Jan K. Bergstrom
+61,2054,Production,6479.0,Casting,Sharon Bialy
+61,2054,Art,11373.0,Art Direction,Dina Lipton
+61,2054,Costume & Make-Up,1456487.0,Key Hair Stylist,Werner Sherer
+61,2054,Costume & Make-Up,1424151.0,Makeup Artist,Gerald Quist
+61,2054,Costume & Make-Up,1536540.0,Hairstylist,Mary L. Pyanowski
+61,2054,Costume & Make-Up,1415329.0,Hairstylist,Susan V. Kalinowski
+61,2054,Costume & Make-Up,1536541.0,Makeup Artist,Martin 'Vinnie' Hagood
+61,2054,Camera,1536542.0,Still Photographer,Gemma La Mana
+61,2054,Camera,1377132.0,Steadicam Operator,David Luckenbach
+61,2054,Camera,1398127.0,Camera Operator,William D. Barber
+61,2054,Production,42357.0,Unit Production Manager,William Teitler
+61,2054,Production,42357.0,Co-Producer,William Teitler
+61,2054,Production,1536543.0,Co-Producer,Judith James
+61,2054,Production,21101.0,Executive Producer,Patrick Sheane Duncan
+61,2054,Production,9184.0,Executive Producer,Scott Kroopf
+61,2054,Sound,8708.0,Supervising Sound Editor,Richard C. Franklin
+61,2054,Directing,957353.0,First Assistant Director,Jeffrey Wetzel
+61,2054,Art,1881500.0,Set Designer,Alan Locke
+61,2054,Art,1401255.0,Set Designer,Alan Manzer
+61,2054,Art,1395016.0,Construction Coordinator,Brian Markey
+61,2054,Art,1434894.0,Property Master,Greg McMickle
+61,2054,Sound,83085.0,Sound Editor,Albert Gasser
+61,2054,Sound,1406616.0,ADR Editor,Chris Jargo
+61,2054,Sound,1456476.0,Sound Editor,Nils C. Jensen
+61,2054,Sound,122464.0,Sound Editor,David Kern
+61,2054,Sound,1415618.0,Sound Editor,Donald J. Malouf
+61,2054,Sound,55228.0,Boom Operator,Earl Sampson
+61,2054,Sound,1409270.0,Supervising ADR Editor,Thomas Whiting
+61,2054,Crew,1789398.0,Special Effects Coordinator,Bob Riggs
+61,2054,Lighting,1594987.0,Chief Lighting Technician,James B. Crawford
+61,2054,Camera,1657664.0,Dolly Grip,Gene Kearney
+61,2054,Lighting,1602876.0,Best Boy Electric,Michael Laws
+61,2054,Camera,1568647.0,Key Grip,Bob Munoz
+61,2054,Camera,1881503.0,Dolly Grip,Nick Papanickolas
+61,2054,Costume & Make-Up,1628600.0,Costume Supervisor,Linda Henrikson
+61,2054,Editing,38412.0,First Assistant Editor,Tara Timpone
+61,2054,Production,1442519.0,Location Manager,Joanna Guzzetta
+61,2054,Sound,1458533.0,Supervising Music Editor,Christopher Brooks
+61,2054,Crew,1881504.0,Choreographer,Bruce McDonald
+62,10607,Directing,45649.0,Director,Paris Barclay
+62,10607,Writing,35690.0,Screenplay,Shawn Wayans
+62,10607,Writing,9562.0,Screenplay,Marlon Wayans
+62,10607,Writing,35693.0,Screenplay,Phil Beauman
+62,10607,Production,35696.0,Producer,Eric L. Gold
+62,10607,Production,35689.0,Producer,Keenen Ivory Wayans
+62,10607,Production,2145.0,Executive Producer,Mark Burg
+62,10607,Production,66133.0,Executive Producer,Dan Genetti
+62,10607,Sound,66134.0,Original Music Composer,John Barnes
+62,10607,Camera,30873.0,Director of Photography,Russ Brandt
+62,10607,Editing,44993.0,Editor,Marshall Harvey
+62,10607,Editing,66135.0,Editor,William Young
+63,19760,Directing,49361.0,Director,Bill Bennett
+63,19760,Writing,5724.0,Writer,Denis Leary
+63,19760,Writing,87137.0,Writer,Mike Armstrong
+64,9536,Production,57871.0,Producer,Bradley Jenkel
+64,9536,Production,51702.0,Producer,Brad Krevoy
+64,9536,Production,51703.0,Producer,Steven Stabler
+64,9536,Writing,57872.0,Author,Adam Leff
+64,9536,Writing,57873.0,Author,Mitchell Peck
+64,9536,Sound,57874.0,Music,Andrew Gross
+64,9536,Camera,432.0,Director of Photography,Phedon Papamichael
+64,9536,Editing,7414.0,Editor,Christopher Greenbury
+64,9536,Directing,57870.0,Director,Jason Bloom
+65,11525,Directing,69721.0,Director,Farhad Mann
+65,11525,Writing,69721.0,Screenplay,Farhad Mann
+65,11525,Production,69723.0,Producer,Keith Fox
+65,11525,Production,12526.0,Executive Producer,Avram Butch Kaplan
+65,11525,Production,64052.0,Executive Producer,Steven A. Lane
+65,11525,Production,69724.0,Executive Producer,Peter A. McRae
+65,11525,Production,64053.0,Executive Producer,Robert Pringle
+65,11525,Production,64054.0,Producer,Edward Simons
+65,11525,Production,64055.0,Executive Producer,Clive Turner
+65,11525,Sound,43393.0,Original Music Composer,Robert Folk
+65,11525,Camera,12634.0,Director of Photography,Ward Russell
+65,11525,Editing,64196.0,Editor,Joel Goodman
+65,11525,Writing,3027.0,Writer,Stephen King
+66,40628,Writing,7300.0,Writer,Joseph Stefano
+66,40628,Directing,15890.0,Director,James Foley
+67,4482,Art,18496.0,Production Design,Carlos Conti
+67,4482,Production,20718.0,Producer,Claude Berri
+67,4482,Writing,35137.0,Screenplay,Josiane Balasko
+67,4482,Directing,35137.0,Director,Josiane Balasko
+67,4482,Writing,38401.0,Screenplay,Patrick Aubrée
+67,4482,Writing,38403.0,Novel,Telsche Boorman
+67,4482,Camera,38492.0,Director of Photography,Gérard de Battista
+67,4482,Costume & Make-Up,38493.0,Costume Design,Fabienne Katany
+68,10634,Directing,37932.0,Director,F. Gary Gray
+68,10634,Writing,65134.0,Screenplay,DJ Pooh
+68,10634,Writing,9778.0,Author,Ice Cube
+68,10634,Sound,61654.0,Music,Frank Fitzpatrick
+68,10634,Sound,9778.0,Music,Ice Cube
+69,755,Directing,2294.0,Director,Robert Rodriguez
+69,755,Writing,138.0,Screenplay,Quentin Tarantino
+69,755,Production,138.0,Executive Producer,Quentin Tarantino
+69,755,Production,11420.0,Producer,Gianni Nunnari
+69,755,Production,2294.0,Executive Producer,Robert Rodriguez
+69,755,Production,2545.0,Executive Producer,Lawrence Bender
+69,755,Sound,5912.0,Original Music Composer,Graeme Revell
+69,755,Camera,3113.0,Director of Photography,Guillermo Navarro
+69,755,Editing,2294.0,Editor,Robert Rodriguez
+69,755,Production,7731.0,Casting,Elaine J. Huzzar
+69,755,Production,3686.0,Casting,Johanna Ray
+69,755,Art,11422.0,Production Design,Cecilia Montiel
+69,755,Art,11423.0,Art Direction,Mayne Berke
+69,755,Art,11424.0,Set Decoration,Felipe Fernández del Paso
+69,755,Costume & Make-Up,11425.0,Costume Design,Graciela Mazón
+69,755,Production,5911.0,Co-Producer,Elizabeth Avellan
+69,755,Production,11421.0,Co-Producer,John Esposito
+69,755,Writing,11419.0,Story,Robert Kurtzman
+69,755,Production,37334.0,Co-Producer,Paul Hellerman
+69,755,Production,11419.0,Co-Producer,Robert Kurtzman
+69,755,Production,68802.0,Producer,Meir Teper
+69,755,Sound,10630.0,Supervising Sound Editor,Dean Beville
+69,755,Sound,1596321.0,Sound Recordist,Matthew C. Beville
+69,755,Sound,1851719.0,Sound Editor,Allan Bromberg
+69,755,Crew,1851720.0,Loader,Carrie Cashman
+69,755,Sound,1851721.0,Boom Operator,Gloria Cooper
+69,755,Sound,1851722.0,Boom Operator,Gloria Cooper
+69,755,Sound,1341339.0,Boom Operator,Patrushkha Mierzwa
+69,755,Sound,113043.0,Foley Editor,Scott Curtis
+69,755,Sound,1415966.0,Foley Editor,Solange S. Schwalbe
+69,755,Sound,1232529.0,Sound Re-Recording Mixer,Tom Gerard
+69,755,Sound,1398123.0,Sound Re-Recording Mixer,Sergio Reyes
+69,755,Sound,2294.0,Sound Re-Recording Mixer,Robert Rodriguez
+69,755,Sound,1433718.0,Assistant Sound Editor,Dana Gustafson
+69,755,Sound,1269306.0,Sound Editor,Warren Hamilton Jr.
+69,755,Sound,1395022.0,Sound Editor,Greg Hedgepath
+69,755,Sound,1341404.0,Sound Editor,Patricio A. Libenson
+69,755,Sound,554888.0,Sound Editor,Charles Maynes
+69,755,Sound,1440822.0,Sound Editor,John Pospisil
+69,755,Sound,1564584.0,Sound Editor,Charles Ewing Smith
+69,755,Sound,1433719.0,Sound Effects Editor,William Jacobs
+69,755,Sound,1424130.0,Sound Re-Recording Mixer,B. Tennyson Sebastian III
+69,755,Editing,1404838.0,Dialogue Editor,Frank Smathers
+69,755,Sound,1547309.0,Production Sound Mixer,Mark Ulano
+69,755,Costume & Make-Up,1039595.0,Makeup Effects Designer,John Bisson
+69,755,Crew,1851723.0,Tattooist,Gill Montie
+69,755,Costume & Make-Up,144146.0,Key Hair Stylist,Ermahn Ospina
+69,755,Costume & Make-Up,144146.0,Key Makeup Artist,Ermahn Ospina
+69,755,Production,37334.0,Production Manager,Paul Hellerman
+69,755,Crew,57112.0,Post Production Supervisor,Tamara Smith
+69,755,Directing,71901.0,First Assistant Director,Douglas Aarniokoski
+69,755,Directing,1685556.0,Second Assistant Director,Brian Bettwy
+69,755,Art,16493.0,Construction Foreman,Michael Atwell
+69,755,Art,1851724.0,Painter,James C. Beeson
+69,755,Art,1851725.0,Painter,Carlos A. Chavez
+69,755,Art,1851726.0,Painter,Jennifer Flynn
+69,755,Art,1851727.0,Painter,Wendy Jerde
+69,755,Art,1851728.0,Painter,Adam Markey
+69,755,Art,1851729.0,Painter,Pedro V. Suchite
+69,755,Art,1851730.0,Sculptor,Alex Bogartz
+69,755,Art,1443060.0,Sculptor,Robert Clark
+69,755,Art,1851731.0,Sculptor,Larry McCauley
+69,755,Art,1851732.0,Sculptor,David Shwartz
+69,755,Art,1783637.0,Leadman,Chris Carriveau
+69,755,Art,1851733.0,Set Dresser,Kenneth Carriveau
+69,755,Art,1851734.0,Set Dresser,Paul Dowler
+69,755,Art,1851736.0,Set Dresser,Gregg M. Hartman
+69,755,Art,1662324.0,Set Dresser,Jeff Hay
+69,755,Art,1851737.0,Set Dresser,Howard Payne Miller
+69,755,Art,1558414.0,Set Dresser,Michael Whetstone
+69,755,Art,1358149.0,Set Designer,Colin De Rouin
+69,755,Art,1538213.0,Assistant Art Director,Adam Lustig
+69,755,Art,1395016.0,Construction Coordinator,Brian Markey
+69,755,Art,1851738.0,Assistant Property Master,Martin Milligan
+69,755,Art,1423747.0,Art Department Coordinator,Abigail Sheiner
+69,755,Crew,1897884.0,Set Production Assistant,Jay Beattie
+69,755,Crew,1391697.0,Stunt Coordinator,Steve M. Davison
+69,755,Camera,1897875.0,Camera Intern,Patrick Yackett
+69,755,Camera,3113.0,Camera Operator,Guillermo Navarro
+69,755,Camera,1647714.0,First Assistant Camera,Alan Cohen
+69,755,Camera,1708344.0,Key Grip,Rick Stribling
+69,755,Camera,1897876.0,Grip,Young Vance Cohen
+69,755,Camera,2294.0,Steadicam Operator,Robert Rodriguez
+69,755,Camera,74992.0,Still Photographer,Joyce Rudolph
+69,755,Costume & Make-Up,1547239.0,Costume Supervisor,Jacqueline Aronson
+69,755,Costume & Make-Up,1897877.0,Seamstress,Mary Kay Jensen
+69,755,Costume & Make-Up,29928.0,Set Costumer,Jillian Kreiner
+69,755,Crew,1797178.0,Additional Music,Craig Braginsky
+69,755,Crew,1462603.0,CGI Supervisor,Antoine Durr
+69,755,Crew,1897881.0,Craft Service,Ken Bondy
+69,755,Crew,1599642.0,Driver,Bruce Callahan
+69,755,Crew,1897882.0,Post Production Assistant,Laura Rush
+69,755,Art,1401122.0,Property Master,Caylah Eddleblute
+69,755,Crew,1877362.0,Security,Nick Roberts
+69,755,Crew,1897886.0,Stand In,William Atwell
+69,755,Crew,1897883.0,Set Medic,Taylor A. Cummings
+69,755,Crew,1897886.0,Stunts,William Atwell
+69,755,Crew,1389625.0,Transportation Coordinator,Derek Raser
+69,755,Production,954600.0,Unit Production Manager,Luz María Rojas
+69,755,Directing,1438430.0,Script Supervisor,Lou Ann Quast
+69,755,Editing,1552549.0,Color Timer,David Orr
+69,755,Editing,1767016.0,First Assistant Editor,Daniel Fort
+69,755,Lighting,1897888.0,Best Boy Electric,Nathan Hathaway
+69,755,Lighting,1897889.0,Electrician,Lennon Bass Jr.
+69,755,Lighting,1897890.0,Gaffer,Eric S. Foster
+69,755,Production,1401374.0,Location Manager,Robert Earl Craft
+69,755,Production,1897891.0,Production Accountant,Steev Beeson
+69,755,Production,1402054.0,Production Coordinator,Dawn Todd Curfman
+69,755,Sound,95842.0,Music Editor,Joshua Winget
+69,755,Sound,28241.0,Orchestrator,Tim Simonec
+69,755,Sound,74811.0,Scoring Mixer,Dan Wallin
+69,755,Visual Effects,1573106.0,Digital Compositors,Steven J. Scott
+69,755,Visual Effects,1897892.0,Visual Effects Coordinator,Rochelle Gross
+69,755,Visual Effects,1400564.0,Visual Effects Producer,Josh R. Jaggars
+69,755,Visual Effects,1897893.0,Visual Effects Supervisor,Diana Dru Botsford
+69,755,Crew,1877415.0,Studio Teachers,Jan D. Tys
+69,755,Sound,1412242.0,Dolby Consultant,Thom 'Coach' Ehle
+70,11859,Directing,70850.0,Director,Andrew Sipes
+70,11859,Production,1091.0,Producer,Joel Silver
+70,11859,Writing,61572.0,Screenplay,Charlie Fletcher
+70,11859,Sound,9989.0,Original Music Composer,Mark Mancina
+70,11859,Camera,67391.0,Director of Photography,Richard Bowen
+70,11859,Editing,6668.0,Editor,Christian Wagner
+70,11859,Writing,59951.0,Novel,Paula Gosling
+70,11859,Editing,18387.0,Editor,David Finfer
+70,11859,Editing,11410.0,Editor,Steven Kemper
+70,11859,Production,1097.0,Casting,Jackie Burch
+70,11859,Art,10064.0,Production Design,James H. Spencer
+70,11859,Art,1127497.0,Art Direction,William F. Matthews
+70,11859,Art,1525315.0,Set Decoration,Don K. Ivey
+70,11859,Costume & Make-Up,4061.0,Costume Design,Louise Frogley
+71,28387,Directing,5656.0,Director,Noah Baumbach
+71,28387,Writing,5656.0,Writer,Noah Baumbach
+71,28387,Writing,5656.0,Story,Noah Baumbach
+71,28387,Writing,125504.0,Story,Oliver Berkman
+72,48750,Directing,16862.0,Director,Claude Lelouch
+72,48750,Writing,37127.0,Writer,Victor Hugo
+72,48750,Writing,16862.0,Writer,Claude Lelouch
+73,20927,Directing,10296.0,Director,Michael Goldenberg
+73,20927,Writing,10296.0,Writer,Michael Goldenberg
+73,20927,Production,18274.0,Producer,Michael Haley
+73,20927,Production,59970.0,Executive Producer,Joseph Hartwick
+73,20927,Production,91046.0,Producer,Allan Mindel
+73,20927,Production,91047.0,Producer,Kim Moarefi
+73,20927,Production,91048.0,Producer,Denise Shaw
+73,20927,Editing,6900.0,Editor,Jane Kurson
+73,20927,Production,91049.0,Casting,Meg Simon
+73,20927,Art,20825.0,Production Design,Stephen McCabe
+73,20927,Art,20838.0,Set Decoration,Carolyn Cartwright
+73,20927,Art,17951.0,Set Decoration,Debra Schutt
+73,20927,Costume & Make-Up,91050.0,Costume Design,Cynthia Flynt
+73,20927,Costume & Make-Up,91051.0,Hairstylist,Colleen Callaghan
+73,20927,Costume & Make-Up,91052.0,Makeup Artist,Kymbra Callaghan
+73,20927,Costume & Make-Up,91053.0,Hairstylist,Wayne Herndon
+73,20927,Costume & Make-Up,91054.0,Makeup Artist,Sharon Ilson
+73,20927,Production,91055.0,Unit Production Manager,Jan Foster
+73,20927,Production,75625.0,Unit Production Manager,Chrisann Verges
+73,20927,Production,91057.0,Executive In Charge Of Production,Ted Zachary
+73,20927,Crew,91060.0,Property Master,Wally Adee
+73,20927,Art,91061.0,Greensman,Lawrence Amanuel
+73,20927,Art,91062.0,Greensman,Jacqueline Arnot
+73,20927,Art,91063.0,Greensman,Christopher Bassett
+73,20927,Production,91064.0,Producer,James Dearlove
+73,20927,Art,91065.0,Construction Coordinator,Robert DiGrigoli
+73,20927,Crew,91066.0,Scenic Artist,Rossana Fiore
+73,20927,Costume & Make-Up,91067.0,Set Dressing Artist,Daniel Kenney
+73,20927,Camera,91068.0,Grip,Edward T. Kerwick
+73,20927,Writing,91069.0,Storyboard,Brick Mason
+73,20927,Crew,91070.0,Property Master,Tom McDermott
+73,20927,Costume & Make-Up,58718.0,Set Dressing Artist,Ray Murphy Jr.
+73,20927,Art,91071.0,Construction Foreman,Ron Petagna
+73,20927,Art,91072.0,Art Department Coordinator,Carla Raij
+73,20927,Art,91073.0,Leadman,Scott Rosenstock
+73,20927,Crew,91075.0,Scenic Artist,Margot Therre
+73,20927,Crew,91074.0,Scenic Artist,James Sorice
+73,20927,Costume & Make-Up,91076.0,Set Dressing Artist,Mitch Towse
+73,20927,Costume & Make-Up,91077.0,Set Dressing Artist,Peter von Bartheld
+73,20927,Art,91078.0,Greensman,Stephanie Waldren
+73,20927,Crew,74109.0,Property Master,Travis Wright
+73,20927,Crew,91079.0,Set Production Assistant,Tom Yeager
+73,20927,Costume & Make-Up,91080.0,Set Dressing Artist,Jeffrey Rollins
+73,20927,Sound,91081.0,ADR & Dubbing,Dana Austin
+73,20927,Crew,91083.0,Sound Recordist,Steven Brimmer
+73,20927,Crew,91084.0,Cableman,O.J. Connell III
+73,20927,Sound,9349.0,Supervising Sound Editor,Dane A. Davis
+73,20927,Sound,13172.0,ADR & Dubbing,Robert Deschaine
+73,20927,Sound,13172.0,Foley,Robert Deschaine
+73,20927,Sound,91085.0,Sound Re-Recording Mixer,Robert W. Glass Jr.
+73,20927,Sound,91087.0,Sound Re-Recording Mixer,Stanley Kastner
+73,20927,Sound,91086.0,Foley,Tom Hammond
+73,20927,Editing,83087.0,Dialogue Editor,John Kwiatkowski
+73,20927,Sound,91088.0,Sound Engineer,Frank Long
+73,20927,Sound,91090.0,Sound Re-Recording Mixer,Brian D. Lucas
+73,20927,Sound,91091.0,Sound Editor,David McRell
+73,20927,Sound,91092.0,Sound mixer,Danny Michael
+73,20927,Editing,91093.0,Dialogue Editor,Charles W. Ritter
+73,20927,Sound,91094.0,Foley,Joan Rowe
+73,20927,Sound,91095.0,Foley,Sean Rowe
+73,20927,Sound,91096.0,Boom Operator,Andrew Schmetterling
+73,20927,Sound,91097.0,Sound Editor,F. Thomas Simpson
+73,20927,Crew,91098.0,Loader,Tom Steel
+73,20927,Sound,83090.0,Sound Effects Editor,Todd Toon
+73,20927,Sound,91099.0,ADR & Dubbing,Randy Vandegrift
+73,20927,Sound,74811.0,Sound Re-Recording Mixer,Dan Wallin
+73,20927,Sound,91100.0,ADR & Dubbing,Marty Church
+73,20927,Camera,91101.0,Camera Operator,Stuart Allen
+73,20927,Camera,18084.0,Camera Operator,Craig DiBona
+73,20927,Lighting,91103.0,Rigging Gaffer,Richard Dolan
+73,20927,Camera,91104.0,Grip,John Donohue
+73,20927,Lighting,91105.0,Best Boy Electric,Thomas Ford
+73,20927,Camera,91106.0,Still Photographer,Louis Goldman
+73,20927,Camera,91108.0,Camera Operator,Todd Hotaling
+73,20927,Crew,91109.0,Video Assist Operator,Nils Johnson
+73,20927,Lighting,91111.0,Electrician,Richie Montgomery
+73,20927,Camera,91112.0,Additional Camera,Peter Norman
+73,20927,Camera,91113.0,Grip,Tom Popola
+73,20927,Camera,91114.0,Grip,Geoffrey D. Pound
+73,20927,Camera,91115.0,Steadicam Operator,Kyle Rudolph
+73,20927,Lighting,91116.0,Gaffer,Robert Sciretta
+73,20927,Camera,91117.0,Grip,Kevin Smyth
+73,20927,Lighting,91118.0,Electrician,Brian Stocklin
+73,20927,Lighting,91119.0,Electrician,Robert Stocklin
+73,20927,Camera,91120.0,Grip,Dan Vranesich
+73,20927,Camera,91121.0,Grip,Nina Zarnett
+73,20927,Camera,91123.0,Additional Camera,Michael Kelem
+73,20927,Camera,91122.0,Additional Camera,Dylan Goss
+73,20927,Production,54489.0,Casting,Stephanie Corsalini
+73,20927,Production,91125.0,Casting,Bill Tripician
+73,20927,Production,91124.0,Casting,Karen E. Etcoff
+73,20927,Costume & Make-Up,4190.0,Co-Costume Designer,David C. Robinson
+73,20927,Costume & Make-Up,91130.0,Costume Supervisor,Deirdre N. Williams
+73,20927,Production,12775.0,Executive In Charge Of Post Production,Joe Fineman
+73,20927,Crew,91133.0,Post-Production Manager,Mark Graziano
+73,20927,Editing,91134.0,Color Timer,Bob La Rossa
+73,20927,Editing,91136.0,First Assistant Editor,Laura Rindner
+73,20927,Sound,91140.0,Music,Sandy DeCrescent
+73,20927,Sound,91141.0,Sound Editor,Greg Dennen
+73,20927,Sound,91142.0,Music,Bonnie Greenberg
+73,20927,Sound,91143.0,Music,Julie Glaze Houlihan
+73,20927,Sound,59355.0,Music,Artie Kane
+73,20927,Sound,60027.0,Music,Mark Kaufman
+73,20927,Sound,91144.0,Music Editor,Shawn Murphy
+73,20927,Crew,91148.0,Additional Music,Steven L. Smith
+73,20927,Sound,66142.0,Music Editor,Kenneth Wannberg
+73,20927,Crew,91151.0,Transportation Co-Captain,James Fanning
+73,20927,Crew,91152.0,Transportation Coordinator,Delroy Hunter
+73,20927,Crew,91153.0,Transportation Captain,Edward O'Donnell
+73,20927,Production,91154.0,Producer,Robert C. Albertell
+73,20927,Production,17491.0,Production Manager,Alexis Alexanian
+73,20927,Production,91155.0,Production Accountant,David Bonsukan
+73,20927,Production,91156.0,Producer,Joan G. Bostwick
+73,20927,Art,91157.0,Other,Ronald C. Briggs Jr.
+73,20927,Camera,91042.0,Helicopter Camera,Al Cerullo
+73,20927,Crew,91158.0,Legal Services,Erik Ellner
+73,20927,Production,91055.0,Location Manager,Jan Foster
+73,20927,Production,22077.0,Production Supervisor,Carla Fry
+73,20927,Production,91159.0,Producer,Lisann Gould
+73,20927,Directing,91160.0,Script Supervisor,Anne Gyory
+73,20927,Production,91162.0,Producer,Heidi Herman
+73,20927,Crew,91163.0,Other,Tony Hoffman
+73,20927,Production,91164.0,Location Manager,Trish Hofman
+73,20927,Crew,91165.0,Actor's Assistant,Tina Hong
+73,20927,Crew,91166.0,Craft Service,Judy Janelli
+73,20927,Crew,91167.0,Actor's Assistant,Patricia LaMagna
+73,20927,Crew,91168.0,Actor's Assistant,Amy London
+73,20927,Art,91169.0,Other,Ginny Martino
+73,20927,Crew,75305.0,Legal Services,Peter McManus
+73,20927,Production,91170.0,Producer,Debra Mintz
+73,20927,Production,91171.0,Location Manager,Deborah Parker
+73,20927,Crew,91172.0,Actor's Assistant,Lori Patterson
+73,20927,Art,91173.0,Other,Deborah Ricketts
+73,20927,Production,91174.0,Production Manager,Dawn Murphy Riley
+73,20927,Production,91175.0,Location Manager,Alexander Rooks
+73,20927,Crew,91176.0,Legal Services,Phillip L. Rosen
+73,20927,Production,60246.0,Production Accountant,Steven Shareshian
+73,20927,Production,91177.0,Location Manager,Katja Shaye
+73,20927,Crew,91178.0,Craft Service,Mary Tormey
+73,20927,Production,91179.0,Location Manager,Zachary Tucker
+73,20927,Production,91180.0,Publicist,Valerie Van Galder
+73,20927,Production,91181.0,Producer,Adolfo Vasquez
+73,20927,Production,91182.0,Producer,Joe Vernon
+73,20927,Crew,91183.0,Actor's Assistant,Mark Winsten
+73,20927,Production,60206.0,Producer,Eric Yellin
+73,20927,Production,91184.0,Location Manager,Jon Zeidman
+73,20927,Crew,91185.0,Set Production Assistant,Peter Soldo
+73,20927,Production,91186.0,Production Manager,Douglas Tirola
+73,20927,Crew,91187.0,Thanks,Tracy Adler
+73,20927,Crew,91188.0,Thanks,Betty Ayeroff
+73,20927,Crew,1484.0,Thanks,Ellen Chenoweth
+73,20927,Crew,4055.0,Thanks,Michael Convertino
+73,20927,Crew,4767.0,Thanks,Michael De Luca
+73,20927,Crew,91127.0,Thanks,Irene Ferrari
+73,20927,Crew,91189.0,Thanks,Brett Foy
+73,20927,Crew,91191.0,Thanks,Joey Grill
+73,20927,Crew,91190.0,Thanks,Frances Grill
+73,20927,Crew,2242.0,Thanks,Ellen Lewis
+73,20927,Crew,91192.0,Thanks,John Lyons
+73,20927,Crew,91193.0,Thanks,Esther Pearlstone
+73,20927,Crew,91194.0,Thanks,Michael Spatt
+73,20927,Crew,91195.0,Thanks,Reneé Thomas
+73,20927,Crew,65379.0,Thanks,Ruth Vitale
+73,20927,Lighting,18087.0,Electrician,Petr Hlinomaz
+73,20927,Editing,83088.0,Dialogue Editor,Kimberly Ellen Lowe
+73,20927,Sound,91081.0,Foley,Dana Austin
+73,20927,Sound,91145.0,Orchestrator,Bobby Muzingo
+73,20927,Crew,91056.0,Post Production Supervisor,Ric Keeley
+73,20927,Costume & Make-Up,91128.0,Costume Supervisor,Lisa R. Frucht
+73,20927,Costume & Make-Up,91126.0,Set Costumer,Daniel J. Adkins
+73,20927,Art,41081.0,Art Direction,Jefferson Sage
+73,20927,Editing,91139.0,Assistant Editor,Liv Torgerson
+73,20927,Editing,91132.0,Assistant Editor,Elizabeth Gazzara
+73,20927,Sound,4055.0,Original Music Composer,Michael Convertino
+73,20927,Camera,5360.0,Director of Photography,Adam Kimmel
+73,20927,Crew,91147.0,Executive Music Producer,Dana Sano
+73,20927,Sound,91146.0,Orchestrator,John Neufeld
+73,20927,Sound,43592.0,Orchestrator,Conrad Pope
+73,20927,Directing,91059.0,Assistant Director,Daniel M. Stillman
+73,20927,Directing,18274.0,Assistant Director,Michael Haley
+73,20927,Crew,1647465.0,Production Controller,Paul Prokop
+74,36929,Directing,58712.0,Director,Steve Miner
+74,36929,Writing,16837.0,Writer,Mark Steven Johnson
+74,36929,Crew,1007395.0,Stunt Coordinator,J.J. Makaro
+75,9102,Writing,584.0,Story,Philip K. Dick
+75,9102,Production,6997.0,Casting,Lucie Robitaille
+75,9102,Writing,5045.0,Screenplay,Dan O'Bannon
+75,9102,Sound,17212.0,Music,Normand Corbeil
+75,9102,Directing,25735.0,Director,Christian Duguay
+75,9102,Camera,25735.0,Camera Operator,Christian Duguay
+75,9102,Editing,52093.0,Editor,Yves Langlois
+75,9102,Writing,56980.0,Screenplay,Miguel Tejada-Flores
+75,9102,Production,56981.0,Producer,Franco Battista
+75,9102,Production,56982.0,Producer,Tom Berry
+75,9102,Camera,56983.0,Director of Photography,Rodney Gibbons
+75,9102,Production,60056.0,Casting,Mary Margiotta
+75,9102,Production,60055.0,Casting,Karen Margiotta
+75,9102,Lighting,92240.0,Gaffer,Walter Klymkiw
+75,9102,Crew,90354.0,Stunt Coordinator,Michael Scherer
+75,9102,Visual Effects,102339.0,Visual Effects Supervisor,Ernest D. Farino
+75,9102,Sound,128484.0,Boom Operator,François Guérin
+75,9102,Art,960077.0,Production Design,Perri Gorrara
+75,9102,Production,1126724.0,Casting,Anne Tait
+75,9102,Art,1178908.0,Set Designer,Jean-Andre Carriere
+75,9102,Editing,1192793.0,Color Timer,Michel Proulx
+75,9102,Costume & Make-Up,1304747.0,Costume Design,Trixi Rittenhouse
+75,9102,Art,1318146.0,Art Direction,Michael Devine
+75,9102,Art,1318148.0,Set Decoration,David Jaquest
+75,9102,Art,1380378.0,Set Designer,Raymond Larose
+75,9102,Art,1380380.0,Set Designer,Stuart Zsombor-Murray
+75,9102,Art,1380382.0,Set Designer,David Gaucher
+75,9102,Crew,1380383.0,Property Master,Elise de Blois
+75,9102,Sound,1380384.0,Sound Designer,Tim Archer
+75,9102,Sound,1380385.0,Foley,Gary Daprato
+75,9102,Sound,1380386.0,Sound Effects Editor,Anthony Lancett
+75,9102,Editing,1380387.0,Dialogue Editor,Clive Turner
+75,9102,Camera,1380390.0,Still Photographer,Abe Perlstein
+75,9102,Crew,1380391.0,Security,Alain Caporicci
+75,9102,Production,1380392.0,Location Manager,Johanne Caporicci
+76,124626,Directing,1080309.0,Director,Susanne Ofteringer
+76,124626,Crew,24076.0,Cinematography,Judith Kaufmann
+76,124626,Crew,1858636.0,Cinematography,Katarzyna Remin
+76,124626,Crew,1858637.0,Cinematography,Sibylle Stürmer
+76,124626,Editing,1858638.0,Editor,Elfe Brandenburger
+76,124626,Editing,1858640.0,Editor,Guido Krajewski
+77,27526,Production,98101.0,Production Manager,David Hamburger
+77,27526,Directing,2228.0,Director,Sean Penn
+77,27526,Writing,2228.0,Writer,Sean Penn
+77,27526,Production,2228.0,Producer,Sean Penn
+77,27526,Production,59839.0,Executive Producer,Harvey Weinstein
+77,27526,Sound,7066.0,Original Music Composer,Jack Nitzsche
+77,27526,Editing,13227.0,Editor,Jay Cassidy
+77,27526,Production,1307.0,Executive Producer,Bob Weinstein
+77,27526,Production,12997.0,Executive Producer,Richard N. Gladstein
+77,27526,Production,98101.0,Producer,David Hamburger
+77,27526,Camera,12235.0,Director of Photography,Vilmos Zsigmond
+78,9623,Directing,18069.0,Director,Brian Gibson
+78,9623,Writing,58203.0,Novel,George Dawes Green
+78,9623,Writing,57862.0,Screenplay,Ted Tally
+78,9623,Production,18330.0,Producer,Rob Cowan
+78,9623,Production,11472.0,Producer,Irwin Winkler
+78,9623,Production,57465.0,Executive Producer,Patrick McCormick
+78,9623,Sound,1213.0,Original Music Composer,James Newton Howard
+78,9623,Camera,13622.0,Director of Photography,Jamie Anderson
+78,9623,Editing,12926.0,Editor,Robert M. Reitano
+78,9623,Costume & Make-Up,557.0,Costume Design,Colleen Atwood
+79,46785,Writing,119294.0,Writer,Abbas Kiarostami
+79,46785,Directing,120229.0,Director,Jafar Panahi
+80,400,Directing,5501.0,Director,Gary Fleder
+80,400,Writing,3228.0,Screenplay,Scott Rosenberg
+80,400,Production,5505.0,Producer,Cary Woods
+80,400,Sound,4055.0,Original Music Composer,Michael Convertino
+80,400,Camera,5506.0,Director of Photography,Elliot Davis
+80,400,Editing,3175.0,Editor,Richard Marks
+80,400,Production,5507.0,Casting,Ronnie Yeskel
+80,400,Art,5508.0,Production Design,Nelson Coates
+81,880,Directing,13496.0,Director,Marleen Gorris
+81,880,Writing,13496.0,Screenplay,Marleen Gorris
+81,880,Production,13498.0,Producer,Gerard Cornelisse
+81,880,Production,13499.0,Producer,Hans de Weers
+81,880,Production,13500.0,Producer,Hans de Wolf
+81,880,Sound,13502.0,Music,Ilona Sekacz
+81,880,Camera,13503.0,Director of Photography,Willy Stassen
+81,880,Editing,13504.0,Editor,Wim Louwrier
+81,880,Editing,13505.0,Editor,Michiel Reichwein
+82,146599,Directing,27771.0,Director,Tim Reid
+82,146599,Writing,1216926.0,Screenplay,Paul W. Cooper
+82,146599,Writing,1384900.0,Novel,Clifton L. Taulbert
+83,188588,Directing,117075.0,Director,Henry Jaglom
+84,8447,Directing,55038.0,Director,Philip Haas
+84,8447,Writing,55038.0,Screenplay,Philip Haas
+84,8447,Writing,55039.0,Screenplay,Belinda Haas
+84,8447,Camera,19168.0,Director of Photography,Bernard Zitzermann
+84,8447,Writing,55040.0,Story,A.S. Byatt
+84,8447,Production,55039.0,Producer,Belinda Haas
+84,8447,Production,11381.0,Producer,Joyce Herlihy
+84,8447,Production,38082.0,Producer,Kerry Orent
+84,8447,Editing,55039.0,Editor,Belinda Haas
+84,8447,Production,970.0,Casting,Celestia Fox

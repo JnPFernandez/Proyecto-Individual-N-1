@@ -1,0 +1,2001 @@
+,movie_id,cast_id,cast_character,actor_id,cast_name
+0,862,14.0,Woody (voice),31.0,Tom Hanks
+1,862,15.0,Buzz Lightyear (voice),12898.0,Tim Allen
+2,862,16.0,Mr. Potato Head (voice),7167.0,Don Rickles
+3,862,17.0,Slinky Dog (voice),12899.0,Jim Varney
+4,862,18.0,Rex (voice),12900.0,Wallace Shawn
+5,862,19.0,Hamm (voice),7907.0,John Ratzenberger
+6,862,20.0,Bo Peep (voice),8873.0,Annie Potts
+7,862,26.0,Andy (voice),1116442.0,John Morris
+8,862,22.0,Sid (voice),12901.0,Erik von Detten
+9,862,23.0,Mrs. Davis (voice),12133.0,Laurie Metcalf
+10,862,24.0,Sergeant (voice),8655.0,R. Lee Ermey
+11,862,25.0,Hannah (voice),12903.0,Sarah Freeman
+12,862,27.0,TV Announcer (voice),37221.0,Penn Jillette
+13,8844,1.0,Alan Parrish,2157.0,Robin Williams
+14,8844,8.0,Samuel Alan Parrish / Van Pelt,8537.0,Jonathan Hyde
+15,8844,2.0,Judy Sheperd,205.0,Kirsten Dunst
+16,8844,24.0,Peter Shepherd,145151.0,Bradley Pierce
+17,8844,10.0,Sarah Whittle,5149.0,Bonnie Hunt
+18,8844,25.0,Nora Shepherd,10739.0,Bebe Neuwirth
+19,8844,26.0,Carl Bentley,58563.0,David Alan Grier
+20,8844,11.0,Carol Anne Parrish,1276.0,Patricia Clarkson
+21,8844,14.0,Alan Parrish (young),46530.0,Adam Hann-Byrd
+22,8844,13.0,Sarah Whittle (young),56523.0,Laura Bell Bundy
+23,8844,31.0,Exterminator,51551.0,James Handy
+24,8844,12.0,Mrs. Thomas the Realtor,56522.0,Gillian Barber
+25,8844,28.0,Benjamin,1000304.0,Brandon Obray
+26,8844,29.0,Caleb,188949.0,Cyrus Thiedeke
+27,8844,30.0,Billy Jessup,1076551.0,Gary Joseph Thorup
+28,8844,32.0,Cop,1480246.0,Leonard Zola
+29,8844,33.0,Bum,25024.0,Lloyd Berry
+30,8844,34.0,Jim Shepherd,27110.0,Malcolm Stewart
+31,8844,35.0,Martha Shepherd,53715.0,Annabel Kershaw
+32,8844,36.0,Gun Salesman,1379424.0,Darryl Henriques
+33,8844,37.0,Paramedic,1235504.0,Robyn Driscoll
+34,8844,50.0,Paramedic,25389.0,Peter Bryant
+35,8844,39.0,Girl,1483449.0,Sarah Gilson
+36,8844,40.0,Girl,1483450.0,Florica Vlad
+37,8844,41.0,Baker,1483451.0,June Lion
+38,8844,42.0,Pianist,1483452.0,Brenda Lockmuller
+39,15602,2.0,Max Goldman,6837.0,Walter Matthau
+40,15602,3.0,John Gustafson,3151.0,Jack Lemmon
+41,15602,4.0,Ariel Gustafson,13567.0,Ann-Margret
+42,15602,5.0,Maria Sophia Coletta Ragetti,16757.0,Sophia Loren
+43,15602,6.0,Melanie Gustafson,589.0,Daryl Hannah
+44,15602,9.0,Grandpa Gustafson,16523.0,Burgess Meredith
+45,15602,10.0,Jacob Goldman,7166.0,Kevin Pollak
+46,31357,1.0,Savannah 'Vannah' Jackson,8851.0,Whitney Houston
+47,31357,2.0,Bernadine 'Bernie' Harris,9780.0,Angela Bassett
+48,31357,3.0,Gloria 'Glo' Matthews,18284.0,Loretta Devine
+49,31357,4.0,Robin Stokes,51359.0,Lela Rochon
+50,31357,5.0,Marvin King,66804.0,Gregory Hines
+51,31357,6.0,Kenneth Dawkins,352.0,Dennis Haysbert
+52,31357,8.0,"John Harris, Sr.",87118.0,Michael Beach
+53,31357,10.0,Troy,34.0,Mykelti Williamson
+54,31357,20.0,Joseph,1276777.0,Lamont Johnson
+55,31357,21.0,James Wheeler,10814.0,Wesley Snipes
+56,11862,1.0,George Banks,67773.0,Steve Martin
+57,11862,2.0,Nina Banks,3092.0,Diane Keaton
+58,11862,3.0,Franck Eggelhoffer,519.0,Martin Short
+59,11862,4.0,Annie Banks-MacKenzie,70696.0,Kimberly Williams-Paisley
+60,11862,13.0,Bryan MacKenzie,59222.0,George Newbern
+61,11862,14.0,Matty Banks,18793.0,Kieran Culkin
+62,11862,15.0,Howard Weinstein,14592.0,BD Wong
+63,11862,16.0,John MacKenzie,20906.0,Peter Michael Goetz
+64,11862,17.0,Joanna MacKenzie,54348.0,Kate McGregor-Stewart
+65,11862,18.0,Dr. Megan Eisenberg,209.0,Jane Adams
+66,11862,19.0,Mr. Habib,26510.0,Eugene Levy
+67,11862,20.0,Wife Mrs. Habib,24358.0,Lori Alan
+68,949,25.0,Lt. Vincent Hanna,1158.0,Al Pacino
+69,949,26.0,Neil McCauley,380.0,Robert De Niro
+70,949,27.0,Chris Shiherlis,5576.0,Val Kilmer
+71,949,28.0,Nate,10127.0,Jon Voight
+72,949,29.0,Michael Cheritto,3197.0,Tom Sizemore
+73,949,30.0,Justine Hanna,6200.0,Diane Venora
+74,949,31.0,Eady,15851.0,Amy Brenneman
+75,949,32.0,Charlene Shiherlis,15852.0,Ashley Judd
+76,949,33.0,Sergeant Drucker,34.0,Mykelti Williamson
+77,949,38.0,Lauren Gustafson,524.0,Natalie Portman
+78,949,35.0,Bosko,15854.0,Ted Levine
+79,949,39.0,Kelso,119232.0,Tom Noonan
+80,949,41.0,Richard Torena,31004.0,Tone Loc
+81,949,42.0,Alan Marciano,5587.0,Hank Azaria
+82,949,34.0,Detective Casals,15853.0,Wes Studi
+83,949,36.0,Donald Breedan,352.0,Dennis Haysbert
+84,949,46.0,Trejo,11160.0,Danny Trejo
+85,949,47.0,Hugh Benny,9290.0,Henry Rollins
+86,949,37.0,Roger Van Zant,886.0,William Fichtner
+87,949,43.0,Waingro,34839.0,Kevin Gage
+88,949,44.0,Elaine Cheritto,4158.0,Susan Traylor
+89,949,48.0,Schwartz,86602.0,Jerry Trimble
+90,949,50.0,Albert Torena,158452.0,Ricky Harris
+91,949,54.0,Dr. Bob,12799.0,Jeremy Piven
+92,949,55.0,Ralph,3982.0,Xander Berkeley
+93,949,51.0,Anna Trejo,181343.0,Begonya Plaza
+94,949,56.0,Armoured Guard,81687.0,Rick Avery
+95,949,52.0,Hooker's Mother,91756.0,Hazelle Goodman
+96,949,53.0,Timmons,160970.0,Ray Buktenica
+97,949,59.0,Shooter at Drive-in,175600.0,Max Daniels
+98,949,60.0,Driver at Drive-in,12879.0,Vince Deadrick Jr.
+99,949,96.0,Officer Bruce,9258.0,Steven Ford
+100,949,97.0,Claudia,167501.0,Farrah Forke
+101,949,99.0,Bosko's Date,95145.0,Patricia Healy
+102,949,100.0,Sergeant Heinz,58535.0,Paul Herman
+103,949,101.0,Rachel,161939.0,Cindy Katz
+104,949,102.0,Captain Jackson,6580.0,Brian Libby
+105,949,104.0,Harry Dieter,95796.0,Dan Martin
+106,949,109.0,Bank Guard,166543.0,Mario Roberts
+107,949,110.0,Armoured Truck Driver,43010.0,"Thomas Rosales, Jr."
+108,949,112.0,Hostage Girl,37252.0,Yvonne Zima
+109,949,116.0,1st SIS Detective in the hallway (uncredited),1457709.0,Mick Gould
+110,949,115.0,"Solenko, Restaurant Manager (uncredited)",4971.0,Bud Cort
+111,949,123.0,Castilian Woman (uncredited),941147.0,Viviane Vives
+112,949,45.0,Lillian,17358.0,Kim Staunton
+113,949,49.0,Construction Clerk,4790.0,Martin Ferrero
+114,949,57.0,Children's Hospital Doctor,1090464.0,Brad Baldridge
+115,949,58.0,Dominick,1090465.0,Andrew Camuccio
+116,949,94.0,Bartender,1576419.0,Kenny Endoso
+117,949,95.0,Casals' Date,106714.0,Kimberly Flynn
+118,949,98.0,Marcia Drucker,116153.0,Niki Harris
+119,949,103.0,Armoured Guard,237923.0,Bill McIntosh
+120,949,105.0,Basketball Player,4047.0,Rick Marzan
+121,949,106.0,Children's Hospital Nurse,57347.0,Terry Miller
+122,949,107.0,Detective,1576553.0,Daniel O'Haco
+123,949,111.0,Prostitute,218094.0,Kai Soremekun
+124,949,113.0,Bar Couple (uncredited),1491009.0,Peter Blackwell
+125,949,114.0,Restaurant Patron (uncredited),1137847.0,Trevor Coppola
+126,949,118.0,Police Woman (uncredited),1504112.0,Mary Kircher
+127,949,119.0,Grocery Store Employee (uncredited),1504568.0,Darin Mangan
+128,949,120.0,Cusamano (uncredited),20625.0,Robert Miranda
+129,949,121.0,Grocery Store Cop (uncredited),1502517.0,Manny Perry
+130,949,122.0,Waitress (uncredited),114625.0,Iva Franks Singer
+131,949,124.0,Bank Guard (uncredited),1576562.0,Tim Werner
+132,949,133.0,Ellis (uncredited),1584544.0,Philip Ettington
+133,11860,1.0,Linus Larrabee,3.0,Harrison Ford
+134,11860,2.0,Sabrina Fairchild,15887.0,Julia Ormond
+135,11860,3.0,David Larrabee,17141.0,Greg Kinnear
+136,11860,4.0,Mrs. Ingrid Tyson,4301.0,Angie Dickinson
+137,11860,11.0,Maude Larrabee,12957.0,Nancy Marchand
+138,11860,12.0,Fairchild,8937.0,John Wood
+139,11860,13.0,Patrick Tyson,16554.0,Richard Crenna
+140,11860,14.0,Elizabeth Tyson,34485.0,Lauren Holly
+141,11860,15.0,Mack,13314.0,Dana Ivey
+142,11860,16.0,Irene,20234.0,Fanny Ardant
+143,11860,17.0,Louis,73827.0,Patrick Bruel
+144,11860,56.0,Scott,13242.0,Paul Giamatti
+145,11860,57.0,Rosa,1163.0,Miriam Colón
+146,11860,58.0,Joanna,138242.0,Elizabeth Franz
+147,11860,59.0,Martine,62531.0,Valérie Lemercier
+148,11860,60.0,Linda,59206.0,Becky Ann Baker
+149,11860,61.0,Ron,163775.0,John C. Vennema
+150,11860,62.0,Nurse,452.0,Margo Martindale
+151,11860,63.0,Carol,52475.0,J. Smith-Cameron
+152,11860,64.0,Ticket Taker,1853632.0,Christine Luneau-Lipton
+153,11860,65.0,Singer at Larrabee Party,1853633.0,Michael Dees
+154,11860,66.0,Butler,153226.0,Denis Holmes
+155,11860,67.0,Red Head,1853634.0,Jo-Jo Lowe
+156,11860,68.0,Bartender,28029.0,Ira Wheeler
+157,11860,69.0,Kelly,1853638.0,Philippa Cooper
+158,11860,70.0,India,97364.0,Ayako Kawahara
+159,11860,71.0,Make-Up Assistant,1317065.0,François Genty
+160,11860,72.0,Assistant,6554.0,Guillaume Gallienne
+161,11860,73.0,Model,37918.0,Inés Sastre
+162,11860,74.0,Model,1217813.0,Phina Oruche
+163,11860,75.0,Model,1853644.0,Andrea Behalikova
+164,11860,76.0,Model,1115935.0,Jennifer Herrera
+165,11860,77.0,Model,1853645.0,Kristina Kumlin
+166,11860,78.0,Model,1853646.0,Eva Linderholm
+167,11860,79.0,Paris Friend,76093.0,Carmen Chaplin
+168,11860,80.0,Paris Friend,1853647.0,Micheline Van de Velde
+169,11860,81.0,Paris Friend,1853651.0,Joanna Rhodes
+170,11860,82.0,Paris Friend,1853653.0,Alan Boone
+171,11860,83.0,Paris Friend,1460738.0,Patrick Forster-Delmas
+172,11860,84.0,Paris Friend,1853654.0,Kentaro Matsuo
+173,11860,85.0,Helicopter Pilot,1632066.0,Peter McKernan
+174,11860,86.0,Gulf Stream Pilot,1853655.0,Ed Connelly
+175,11860,87.0,Sheik,4184.0,Ronald L. Schwary
+176,11860,88.0,Tyson Butler,1853657.0,Alvin Lum
+177,11860,89.0,Mother in Hospital,1853658.0,Siching Song
+178,11860,90.0,Father in Hospital,1357100.0,Phil Nee
+179,11860,91.0,Trainer,157428.0,Randy Becker
+180,11860,92.0,Secretary,1211979.0,Susan Browning
+181,11860,93.0,Moroccan Waiter,1853660.0,Anthony Mondal
+182,11860,94.0,Senator,1853661.0,Peter Parks
+183,11860,95.0,Japanese Businessman (uncredited),1548251.0,Woodrow Asai
+184,11860,96.0,Airport Employee (uncredited),1221663.0,Eric Bruno Borgman
+185,11860,97.0,Head Butler (uncredited),1811338.0,Michael Cline
+186,11860,98.0,Businessman in Window (uncredited),1853663.0,Christopher Del Gaudio
+187,11860,99.0,Wedding Guest (uncredited),1099770.0,Philippe Hartmann
+188,11860,100.0,Pizza Patron (uncredited),1853664.0,Jerry Quinn
+189,11860,101.0,Ballroom Dancer (uncredited),1853665.0,Dori Rosenthal
+190,45325,2.0,Tom Sawyer,53283.0,Jonathan Taylor Thomas
+191,45325,3.0,Huck Finn,51214.0,Brad Renfro
+192,45325,4.0,Becky Thatcher,38581.0,Rachael Leigh Cook
+193,45325,5.0,Muff Potter,8316.0,Michael McShane
+194,45325,6.0,Aunt Polly,87007.0,Amy Wright
+195,45325,7.0,Injun Joe,57448.0,Eric Schweig
+196,45325,11.0,Townsperson,102313.0,Tamara Mello
+197,9091,1.0,Darren Francis Thomas McCord,15111.0,Jean-Claude Van Damme
+198,9091,2.0,Joshua Foss,6280.0,Powers Boothe
+199,9091,4.0,Matthew Hallmark,8656.0,Dorian Harewood
+200,9091,15.0,Vizepräsident Daniel Bender,10361.0,Raymond J. Barry
+201,9091,16.0,Tyler,12928.0,Ross Malinger
+202,9091,17.0,Emily McCord,79088.0,Whittni Wright
+203,710,1.0,James Bond,517.0,Pierce Brosnan
+204,710,2.0,Alec Trevelyan,48.0,Sean Bean
+205,710,3.0,Natalya Fyodorovna Simonova,10695.0,Izabella Scorupco
+206,710,4.0,Xenia Onatopp,10696.0,Famke Janssen
+207,710,5.0,Jack Wade,10671.0,Joe Don Baker
+208,710,6.0,M,5309.0,Judi Dench
+209,710,7.0,General Arkady Grigorovich Ourumov,3757.0,Gottfried John
+210,710,8.0,Valentin Dmitrovich Zukovsky,1923.0,Robbie Coltrane
+211,710,9.0,Boris Grishenko,10697.0,Alan Cumming
+212,710,10.0,Defense Minister Dmitri Mishkin,10698.0,Tchéky Karyo
+213,710,11.0,Q,9906.0,Desmond Llewelyn
+214,710,12.0,Miss Moneypenny,10699.0,Samantha Bond
+215,710,13.0,Bill Tanner,10648.0,Michael Kitchen
+216,710,14.0,Caroline,10700.0,Serena Gordon
+217,710,15.0,Severnaya Duty Officer,10701.0,Simon Kunz
+218,710,37.0,Admiral Chuck Farrell,55911.0,Billy J. Mitchell
+219,710,38.0,Computer Store Manager,27425.0,Constantine Gregory
+220,710,39.0,Irina,6613.0,Minnie Driver
+221,710,40.0,Anna,29054.0,Michelle Arthur
+222,710,41.0,Mig Pilot,41742.0,Ravil Isyanov
+223,9087,1.0,Andrew Shepherd,3392.0,Michael Douglas
+224,9087,2.0,Sydney Ellen Wade,516.0,Annette Bening
+225,9087,3.0,Lewis Rothschild,521.0,Michael J. Fox
+226,9087,4.0,A.J. MacInerney,8349.0,Martin Sheen
+227,9087,11.0,Robin McCall,63279.0,Anna Deavere Smith
+228,9087,12.0,Lucy Shepherd,112080.0,Shawna Waldron
+229,9087,13.0,Janie Basdin,20767.0,Samantha Mathis
+230,9087,14.0,Leon Kodak,19839.0,David Paymer
+231,9087,15.0,Senator Bob Rumson,3037.0,Richard Dreyfuss
+232,9087,16.0,Beth Wade,42133.0,Nina Siemaszko
+233,9087,17.0,Susan Sloan,61980.0,Wendie Malick
+234,9087,18.0,Agent Cooper,78494.0,Beau Billingslea
+235,9087,19.0,Esther MacInerney,42003.0,Gail Strickland
+236,9087,20.0,David,131642.0,Joshua Malina
+237,9087,21.0,President René Jean D'Astier,43115.0,Clement von Franckenstein
+238,9087,22.0,Leo Solomon,4251.0,John Mahoney
+239,9087,23.0,Chairman of the Joint Chiefs,43978.0,John Mahon
+240,9087,24.0,Jeff,92808.0,Gabriel Jarret
+241,12110,9.0,Count Dracula,7633.0,Leslie Nielsen
+242,12110,10.0,Prof. Abraham Van Helsing,14639.0,Mel Brooks
+243,12110,11.0,Mina Seward,1219.0,Amy Yasbeck
+244,12110,12.0,Thomas Renfield,12688.0,Peter MacNicol
+245,12110,13.0,Lucy Westenra,12812.0,Lysette Anthony
+246,12110,14.0,Dr. Jack Seward,13640.0,Harvey Korman
+247,12110,15.0,Jonathan Harker,6106.0,Steven Weber
+248,12110,17.0,Martin,29709.0,Mark Blankfield
+249,12110,18.0,Essie,53570.0,Megan Cavanagh
+250,12110,19.0,Woodbridge,170185.0,Gregg Binkley
+251,12110,20.0,Madame Ouspenskaya,10774.0,Anne Bancroft
+252,21032,1.0,Balto (voice),4724.0,Kevin Bacon
+253,21032,2.0,Boris the Goose (voice),382.0,Bob Hoskins
+254,21032,8.0,Jenna (voice),2233.0,Bridget Fonda
+255,21032,9.0,Steele the Sled Dog (voice),12077.0,Jim Cummings
+256,21032,10.0,Muk and Luk (voice),110001.0,Phil Collins
+257,21032,19.0,Young Rosy (voice),67386.0,Juliette Brewer
+258,21032,20.0,Nikki (voice),19545.0,Jack Angel
+259,21032,21.0,Kaltag (voice),52699.0,Danny Mann
+260,21032,22.0,Star (voice),77157.0,Robbie Rist
+261,21032,23.0,Dixie / Sylvie (voice),176254.0,Sandra Dickinson
+262,21032,24.0,Grizzly Bear (voice),15831.0,Frank Welker
+263,21032,11.0,Grandma Rosy,6199.0,Miriam Margolyes
+264,21032,25.0,Rosie's granddaughter,1592266.0,Lola Bates-Campbell
+265,10858,1.0,Richard Nixon,4173.0,Anthony Hopkins
+266,10858,2.0,Pat Nixon,11148.0,Joan Allen
+267,10858,16.0,Alexander Haig,6280.0,Powers Boothe
+268,10858,13.0,E. Howard Hunt,228.0,Ed Harris
+269,10858,14.0,J. Edgar Hoover,382.0,Bob Hoskins
+270,10858,15.0,John Mitchell,5249.0,E.G. Marshall
+271,10858,17.0,Ron Ziegler,19839.0,David Paymer
+272,10858,18.0,John Dean,11076.0,David Hyde Pierce
+273,10858,4.0,Henry Kissinger,7004.0,Paul Sorvino
+274,10858,20.0,Hannah Nixon,2453.0,Mary Steenburgen
+275,10858,3.0,John Ehrlichman,22131.0,J.T. Walsh
+276,10858,21.0,H.R. Haldeman,4512.0,James Woods
+277,10858,22.0,Clyde Tolson,70843.0,Brian Bedford
+278,10858,23.0,Charles Colson,14721.0,Kevin Dunn
+279,10858,24.0,Murray Chotiner,56687.0,Fyvush Finkel
+280,10858,25.0,Julie Nixon Eisenhower,49425.0,Annabeth Gish
+281,10858,26.0,"""Jack Jones""",6840.0,Larry Hagman
+282,10858,27.0,Martha Mitchell,29803.0,Madeline Kahn
+283,10858,28.0,Trini Cardoza,6486.0,Dan Hedaya
+284,10858,29.0,Sandy,20751.0,Bridgette Wilson
+285,10858,30.0,Frank Nixon,19453.0,Tom Bower
+286,10858,31.0,Harold Nixon,3417.0,Tony Goldwyn
+287,10858,32.0,Nelson Rockefeller,52995.0,Edward Herrmann
+288,10858,33.0,Johnny Roselli,15183.0,Tony Lo Bianco
+289,10858,34.0,Herb Klein,3712.0,Saul Rubinek
+290,10858,35.0,Frank Sturgis,50880.0,Robert Beltran
+291,10858,36.0,Bob,167561.0,John Cunningham
+292,10858,37.0,Gordon Liddy,4942.0,John Diehl
+293,10858,38.0,Earl in Training Film,11885.0,John C. McGinley
+294,10858,39.0,TV Director,19654.0,Michael Chiklis
+295,10858,40.0,Mao Tse-Tung,11397.0,Ric Young
+296,10858,41.0,Leonid Brezhnev,230280.0,Boris Sichkin
+297,10858,42.0,Richard Helms,8975.0,Sam Waterston
+298,10858,43.0,Tricia Nixon Cox,6407.0,Marley Shelton
+299,1408,1.0,Morgan Adams,16935.0,Geena Davis
+300,1408,2.0,William Shaw,8654.0,Matthew Modine
+301,1408,3.0,Dawg,8924.0,Frank Langella
+302,1408,4.0,John Reed,7868.0,Maury Chaykin
+303,1408,5.0,Ainstee,8979.0,Patrick Malahide
+304,1408,6.0,Glasspoole,16936.0,Stan Shaw
+305,1408,7.0,Mr. Blair,16937.0,Rex Linn
+306,1408,8.0,Snelgrave,13925.0,Paul Dillon
+307,1408,26.0,Bowen,35769.0,Christopher Masterson
+308,1408,27.0,Scully,133771.0,Jimmie F. Skaggs
+309,1408,28.0,Black Harry,1166.0,Harris Yulin
+310,1408,29.0,Bishop,127166.0,Carl Chase
+311,1408,30.0,Fiddler Pirate,1220350.0,Peter Geeves
+312,1408,31.0,Captain Trotter,1252814.0,Angus Wright
+313,1408,32.0,Toussant,91662.0,Ken Bones
+314,1408,33.0,Lady,31294.0,Mary Peach
+315,1408,34.0,Lieutenant,17202.0,Thomas Lockyer
+316,1408,35.0,Auctioneer,1649736.0,Roger Booth
+317,1408,36.0,Mordachai Fingers,90625.0,George Murcell
+318,1408,37.0,Bartender,1117347.0,Simon Atherton
+319,1408,38.0,Executioner,1495190.0,Dickey Beer
+320,1408,39.0,Hastings,1466675.0,Christopher Halliday
+321,1408,40.0,Helmsman,1420324.0,Chris Johnston
+322,1408,41.0,Snake the Lookout,16792.0,Richard Leaf
+323,1408,42.0,Fleming,2480.0,Tam White
+324,1408,43.0,Captain Perkins,2479.0,Rupert Vansittart
+325,1408,44.0,Dawg's Pirate,19704.0,Nick Bartlett
+326,1408,45.0,Dawg's Pirate,1715.0,David Bailie
+327,1408,46.0,Dawg's Pirate,1221761.0,Kwame Kwei-Armah
+328,1408,47.0,Dawg's Pirate,178622.0,Ramon Tikaram
+329,1408,48.0,Dawg's Pirate,64102.0,Christopher Adamson
+330,524,4.0,Sam 'Ace' Rothstein,380.0,Robert De Niro
+331,524,5.0,Ginger McKenna,4430.0,Sharon Stone
+332,524,6.0,Nicky Santoro,4517.0,Joe Pesci
+333,524,7.0,Lester Diamond,4512.0,James Woods
+334,524,11.0,Billy Sherbert,7167.0,Don Rickles
+335,524,13.0,Andy Stone,7169.0,Alan King
+336,524,10.0,Phillip Green,7166.0,Kevin Pollak
+337,524,9.0,Remo Gaggi,7165.0,Pasquale Cajano
+338,524,27.0,Pat Webb,8262.0,L.Q. Jones
+339,524,28.0,Sénateur,166789.0,Dick Smothers
+340,524,8.0,Frank Marino,7164.0,Frank Vincent
+341,524,20.0,Oscar Goodman,7424.0,Oscar Goodman
+342,524,29.0,Charlie Clark,18262.0,Richard Riehle
+343,524,31.0,Mme Piscano,11483.0,Catherine Scorsese
+344,524,12.0,Artie Piscano,7168.0,Vinny Vella
+345,524,21.0,Ichikawa,7425.0,Nobu Matsuhisa
+346,524,19.0,Amy,7423.0,Erika von Tagen
+347,524,22.0,Black Jack-Groupier,7444.0,Nick Mazzola
+348,524,32.0,David,107020.0,David Rose
+349,524,33.0,Don Ward,99906.0,John Bloom
+350,524,34.0,Vincent Borelli,13605.0,Joseph Rigano
+351,524,35.0,Dominick Santoro,14332.0,Philip Suriano
+352,524,36.0,Jennifer Santoro,105623.0,Melissa Prophet
+353,524,37.0,John Nance,1574239.0,Bill Allison
+354,524,38.0,Signaller,96901.0,Joe La Due
+355,524,39.0,Winner,7531.0,Joseph P. Reidy
+356,524,40.0,Cowboy,1738942.0,Craig Vincent
+357,524,41.0,Tony Dogs,42824.0,Carl Ciarfalio
+358,524,42.0,Vinny Forlano,39599.0,Gene Ruffini
+359,524,43.0,Americo Capelli,1204013.0,Dominick Grieco
+360,524,44.0,Sal Fusco,17921.0,Clem Caserta
+361,524,45.0,Doctor Dan,120303.0,Daniel P. Conte
+362,524,46.0,Stabbed Gambler,583419.0,Joey DePinto
+363,524,47.0,Baker,122124.0,Jack Orend
+364,524,48.0,Gambler in Phone Booth,58535.0,Paul Herman
+365,524,49.0,Jack Hardy,1219275.0,Jed Mills
+366,524,50.0,Trudy,553774.0,Claudia Haro
+367,524,51.0,Anna Scott,1892328.0,Ffolliott Le Coque
+368,524,52.0,Wiseguy Eddie,1888770.0,John Manca
+369,524,53.0,Wiseguy Jerry,233121.0,Ronald Maccone
+370,524,54.0,Moosh,1888773.0,Joseph Bono
+371,524,55.0,Rocky,4692.0,Frank Adonis
+372,524,56.0,Bookie,58474.0,Anthony Russell
+373,524,57.0,LA Banker,1183497.0,Stuart Nisbet
+374,524,58.0,Chastised Gambler,1644894.0,Alfred Nittoli
+375,4584,6.0,Marianne Dashwood,204.0,Kate Winslet
+376,4584,7.0,Elinor Dashwood,7056.0,Emma Thompson
+377,4584,8.0,Edward Ferrars,3291.0,Hugh Grant
+378,4584,9.0,Mr. Dashwood,207.0,Tom Wilkinson
+379,4584,10.0,Col. Christopher Brandon,4566.0,Alan Rickman
+380,4584,11.0,Lucy Steele,20769.0,Imogen Stubbs
+381,4584,12.0,John Willoughby,16700.0,Greg Wise
+382,4584,13.0,Mr. Palmer,41419.0,Hugh Laurie
+383,4584,14.0,Charlotte Jennings Palmer,11356.0,Imelda Staunton
+384,4584,15.0,Sir John Middleton,23076.0,Robert Hardy
+385,4584,16.0,Doctor Harris,31923.0,Oliver Ford Davies
+386,4584,17.0,John Dashwood,10726.0,James Fleet
+387,4584,18.0,Fanny Ferrars Dashwood,17477.0,Harriet Walter
+388,4584,19.0,Mrs. Dashwood,9138.0,Gemma Jones
+389,4584,20.0,Margaret Dashwood,937907.0,Emilie François
+390,4584,21.0,Mrs. Jennings,1220119.0,Elizabeth Spriggs
+391,4584,22.0,Robert Ferrars,141551.0,Richard Lumsden
+392,5,42.0,Ted the Bellhop,3129.0,Tim Roth
+393,5,31.0,Man,3131.0,Antonio Banderas
+394,5,29.0,Angela,3130.0,Jennifer Beals
+395,5,25.0,Elspeth,3125.0,Madonna
+396,5,41.0,Margaret,3141.0,Marisa Tomei
+397,5,43.0,Leo,62.0,Bruce Willis
+398,5,38.0,Chester Rush,138.0,Quentin Tarantino
+399,5,22.0,Jezebel,3122.0,Sammi Davis
+400,5,23.0,Diana,3123.0,Amanda de Cadenet
+401,5,24.0,Athena,3124.0,Valeria Golino
+402,5,27.0,Raven,3127.0,Lili Taylor
+403,5,39.0,Long Hair Yuppy Scum,2545.0,Lawrence Bender
+404,5,26.0,Eva,3126.0,Ione Skye
+405,5,28.0,Kiva,3128.0,Alicia Witt
+406,5,30.0,Siegfried,2555.0,David Proval
+407,5,32.0,Sarah,3132.0,Lana McKissack
+408,5,34.0,Wife,3134.0,Tamlyn Tomita
+409,5,40.0,Betty,3138.0,Kathy Griffin
+410,5,37.0,Norman,3137.0,Paul Calderon
+411,5,36.0,TV Dancing Girl,3136.0,Salma Hayek
+412,5,33.0,Corpse,3133.0,Patricia Vonne
+413,5,35.0,Juancho,3135.0,Danny Verduzco
+414,5,44.0,Hooker,37336.0,Kimberly Blair
+415,5,45.0,Sam the Bellhop,3140.0,Marc Lawrence
+416,9273,1.0,Ace Ventura,206.0,Jim Carrey
+417,9273,2.0,Fulton Greenwall,3547.0,Ian McNeice
+418,9273,3.0,Vincent Cadby,4001.0,Simon Callow
+419,9273,4.0,Ouda,57096.0,Maynard Eziashi
+420,9273,15.0,Burton Quinn,4029.0,Bob Gunton
+421,9273,16.0,The Wachati Princess,2598.0,Sophie Okonedo
+422,9273,17.0,The Tiny Warrior,88059.0,Tommy Davidson
+423,9273,18.0,Hitu,31164.0,Adewale Akinnuoye-Agbaje
+424,9273,19.0,Wachootoo Witch Doctor,1080060.0,Danny D. Daniels
+425,9273,20.0,Wachootoo Chief,1080061.0,Sam Motoana Phillips
+426,9273,21.0,Wachati Chief,172354.0,Damon Standifer
+427,9273,22.0,Mick Katie,158324.0,Andrew Steel
+428,9273,23.0,Gahjii,27752.0,Bruce Spence
+429,9273,24.0,Derrick McCane,171303.0,Tom Grunke
+430,9273,25.0,Ashram Monk,1080062.0,Arsenio 'Sonny' Trinidad
+431,11517,1.0,John,10814.0,Wesley Snipes
+432,11517,3.0,Charlie,57755.0,Woody Harrelson
+433,11517,4.0,Grace Santiago,16866.0,Jennifer Lopez
+434,11517,5.0,Donald Patterson,9287.0,Robert Blake
+435,11517,17.0,Torch,2955.0,Chris Cooper
+436,11517,18.0,Riley,4887.0,Joe Grifasi
+437,11517,19.0,Mr. Brown,32287.0,Scott Sowers
+438,11517,20.0,Kowalski,33658.0,Skipp Sudduth
+439,11517,21.0,Woman on Platform,106791.0,Aida Turturro
+440,11517,22.0,Gambler,47774.0,Vincent Pastore
+441,11517,23.0,Dooley,15029.0,Enrico Colantoni
+442,11517,24.0,Crash Train Motorman,5502.0,Bill Nunn
+443,11517,59.0,Crosswalk Child,203801.0,Katie Gill
+444,11517,60.0,Guard,15372.0,Jeremy Roberts
+445,11517,61.0,Decoy Cop,1811956.0,Joe Bacino
+446,8012,1.0,Chili Palmer,8891.0,John Travolta
+447,8012,2.0,Harry Zimm,193.0,Gene Hackman
+448,8012,3.0,Karen Flores,14343.0,Rene Russo
+449,8012,4.0,Martin Weir,518.0,Danny DeVito
+450,8012,5.0,Ray 'Bones' Barboni,1117.0,Dennis Farina
+451,8012,6.0,Bo Catlett,18792.0,Delroy Lindo
+452,8012,7.0,Bear,4691.0,James Gandolfini
+453,8012,8.0,Ronnie Wingate,9629.0,Jon Gries
+454,8012,9.0,Nicki,53600.0,Renee Props
+455,8012,10.0,Leo Devoe,19839.0,David Paymer
+456,8012,11.0,Tommy Carlo,4790.0,Martin Ferrero
+457,8012,12.0,Mr. Escobar,30488.0,Miguel Sandoval
+458,8012,13.0,Yayo Portillo,16429.0,Jacob Vargas
+459,8012,14.0,Dick Allen,53601.0,Bobby Slayton
+460,8012,15.0,Fay Devoe,53602.0,Linda Hart
+461,8012,25.0,Bones' Buddy,141582.0,Jeffrey J. Stephen
+462,1710,8.0,Helen Hudson,10205.0,Sigourney Weaver
+463,1710,9.0,M.J. Monahan,18686.0,Holly Hunter
+464,1710,10.0,Nico Letti,883.0,Will Patton
+465,1710,11.0,Peter Foley,18687.0,William McNamara
+466,1710,12.0,Doryll Lee Cullum,18688.0,Harry Connick Jr.
+467,1710,13.0,Lt. Quinn,5169.0,J.E. Freeman
+468,1710,20.0,Ruben Goetz,20212.0,Dermot Mulroney
+469,1710,32.0,Andy,60205.0,John Rothman
+470,1710,25.0,Susan Schiffer,154691.0,Shannon O'Hurley
+471,1710,26.0,Pachulski,95838.0,Bob Greene
+472,1710,27.0,Kerby,215904.0,Tony Haney
+473,1710,28.0,Kostas,1074167.0,Danny Kovacs
+474,1710,29.0,Landis,167781.0,Tahmus Rounds
+475,1710,30.0,Cop #1,1074168.0,Scott Devenney
+476,1710,31.0,Mike,1074169.0,David Michael Silverman
+477,9691,1.0,Robert Rath,16483.0,Sylvester Stallone
+478,9691,2.0,Miguel Bain,3131.0,Antonio Banderas
+479,9691,3.0,Electra,1231.0,Julianne Moore
+480,9691,4.0,Nicolai Tashlinkov,58556.0,Anatoli Davydov
+481,9691,5.0,Ketcham,17348.0,Muse Watson
+482,9691,6.0,Alan Branch,14328.0,Steve Kahan
+483,9691,7.0,"Jennifer, Electra's Neighbor",47757.0,Kelly Rowan
+484,9691,8.0,Bob,31508.0,Reed Diamond
+485,9691,9.0,Remy,42146.0,Kai Wulff
+486,9691,10.0,Buyer with Remy,58557.0,Kerry Skalsky
+487,9691,11.0,Buyer with Remy,58558.0,James Douglas Haskins
+488,9691,12.0,Cop,58559.0,Stephen Liska
+489,9691,13.0,Cop,58560.0,John Harms
+490,9691,14.0,Cemetery Caretaker,58561.0,Edward J. Rosen
+491,9691,15.0,Dowager,58562.0,Christina Orchid
+492,9691,90.0,Cementary woman,1611202.0,Choco Orta
+493,9691,91.0,Kid in plaza,543847.0,Germán Legarreta
+494,12665,1.0,Jessie Caldwell,2453.0,Mary Steenburgen
+495,12665,2.0,Jeremy 'Powder' Reed,54789.0,Sean Patrick Flanery
+496,12665,3.0,Sheriff Doug Barnum,2714.0,Lance Henriksen
+497,12665,4.0,Donald Ripley,4785.0,Jeff Goldblum
+498,12665,5.0,Deputy Harley Duncan,36637.0,Brandon Smith
+499,451,1.0,Ben Sanderson,2963.0,Nicolas Cage
+500,451,2.0,Sera,1951.0,Elisabeth Shue
+501,451,3.0,Yuri,6104.0,Julian Sands
+502,451,4.0,Peter,6105.0,Richard Lewis
+503,451,5.0,Marc Nussbaum,6106.0,Steven Weber
+504,451,6.0,Sheila,6107.0,Kim Adams
+505,451,7.0,Debbie,6108.0,Emily Procter
+506,451,8.0,Man At Bar,6109.0,Stuart Reynolds 
+507,451,9.0,Terri,3124.0,Valeria Golino
+508,451,10.0,L.A. Bartender,6110.0,Graham Beckel
+509,451,23.0,Hooker at bar,6240.0,Mariska Hargitay
+510,451,24.0,Landlady,12133.0,Laurie Metcalf
+511,451,25.0,Biker Girl,2138.0,Shawnee Smith
+512,451,27.0,Hotel Manager,52418.0,David Kriegel
+513,16420,2.0,Othello,2975.0,Laurence Fishburne
+514,16420,3.0,Desdemona,1350.0,Irène Jacob
+515,16420,4.0,Iago,11181.0,Kenneth Branagh
+516,16420,5.0,Cassio,27631.0,Nathaniel Parker
+517,16420,6.0,Bianca,232174.0,Indra Ové
+518,16420,9.0,Roderigo,17483.0,Michael Maloney
+519,16420,10.0,Emilia,1227643.0,Anna Patrick
+520,16420,11.0,Montano,32357.0,Nicholas Farrell
+521,16420,12.0,Lodovico,3968.0,Michael Sheen
+522,9263,9.0,Young Roberta Martin,6886.0,Christina Ricci
+523,9263,10.0,Dr. Roberta Martin,12929.0,Rosie O'Donnell
+524,9263,11.0,Teeny,2155.0,Thora Birch
+525,9263,12.0,Tina 'Teeny' Tercell,29369.0,Melanie Griffith
+526,9263,13.0,Young Samantha Albertson,12930.0,Gaby Hoffmann
+527,9263,14.0,Samantha Albertson,3416.0,Demi Moore
+528,9263,15.0,Young Chrissy DeWitt,114471.0,Ashleigh Aston Moore
+529,9263,16.0,Chrissy DeWitt Williams,12931.0,Rita Wilson
+530,9263,17.0,Crazy Pete,141521.0,Walter Sparrow
+531,9263,18.0,Scott Wormer,50398.0,Devon Sawa
+532,9263,19.0,Grandma Albertson,9599.0,Cloris Leachman
+533,9263,20.0,Wiladene,21197.0,Janeane Garofalo
+534,9263,21.0,Bud Kent,5587.0,Hank Azaria
+535,9263,22.0,"Mrs. DeWitt, Chrissy's Mom",5149.0,Bonnie Hunt
+536,9263,23.0,"Mrs. Albertson, Samatha's Mom",12139.0,Lolita Davidovich
+537,9263,24.0,Vietnam veteran,18269.0,Brendan Fraser
+538,17015,1.0,Anne Elliott,30318.0,Amanda Root
+539,17015,2.0,Captain Frederick Wentworth,8785.0,Ciarán Hinds
+540,17015,6.0,Lady Russell,87415.0,Susan Fleetwood
+541,17015,8.0,Mrs. Croft,10981.0,Fiona Shaw
+542,17015,9.0,Admiral Croft,14465.0,John Woodvine
+543,17015,10.0,Elizabeth Elliot,3930.0,Phoebe Nicholls
+544,17015,11.0,Mr. Elliot,54447.0,Samuel West
+545,17015,12.0,Mary Musgrave,32990.0,Sophie Thompson
+546,17015,13.0,Mrs. Musgrove,45455.0,Judy Cornwell
+547,17015,14.0,Charles Musgrove,57461.0,Simon Russell Beale
+548,17015,15.0,Mrs. Clay,42645.0,Felicity Dean
+549,17015,16.0,Mr. Musgrove,27660.0,Roger Hammond
+550,17015,18.0,Henrietta Musgrove,55645.0,Victoria Hamilton
+551,17015,19.0,Sir Walter Elliot,13328.0,Corin Redgrave
+552,17015,20.0,Louisa Musgrove,1487246.0,Emma Roberts
+553,17015,21.0,Captain Harvile,25665.0,Robert Glenister
+554,17015,22.0,Captain Benwick,7025.0,Richard McCabe
+555,17015,23.0,Mrs. Smith,1229181.0,Helen Schlesinger
+556,17015,24.0,Nurse Rooke,1246598.0,Jane Wood
+557,17015,25.0,Mr. Shepherd,1227492.0,David Collings
+558,17015,26.0,Lady Dairympie,217100.0,Darlene Johnson
+559,17015,27.0,Miss Carteret,1840472.0,Cinnamon Faye
+560,17015,28.0,Henry Hayter,1840473.0,Isaac Maxwell-Hunt
+561,17015,29.0,Sir Henry Willoughby,1073272.0,Roger Llewellyn
+562,17015,30.0,Mrs. Harville,1241523.0,Sally George
+563,17015,31.0,Jemima,1840474.0,Lonnie James
+564,902,24.0,One,2372.0,Ron Perlman
+565,902,25.0,Scaphandrier / Les Clones,2413.0,Dominique Pinon
+566,902,26.0,Miette,13842.0,Judith Vittet
+567,902,27.0,Krank,13843.0,Daniel Emilfork
+568,902,28.0,Marcello,13687.0,Jean-Claude Dreyfus
+569,902,29.0,la Pieuvre,13845.0,Geneviève Brunet
+570,902,30.0,la Pieuvre,13846.0,Odile Mallet
+571,902,31.0,Mademoiselle Bismuth,4394.0,Mireille Mossé
+572,902,32.0,Gabriel Marie,2410.0,Serge Merlin
+573,902,33.0,Peeler,2407.0,Rufus
+574,902,34.0,Ex-acrobat,13689.0,Ticky Holgado
+575,902,39.0,Father,100861.0,Cris Huerta
+576,902,40.0,L'oncle Irvin (voice),1352.0,Jean-Louis Trintignant
+577,902,41.0,Denree,1653016.0,Joseph Lucien
+578,902,42.0,Lune,103119.0,Mapi Galán
+579,902,43.0,Bottle,1653017.0,Briac Barthélémy
+580,902,44.0,Pipo,1653018.0,Pierre-Quentin Faesch
+581,902,45.0,Tadpole,131998.0,Alexis Pivot
+582,902,46.0,Killer,77904.0,François Hadji-Lazaro
+583,902,47.0,Bogdan,28462.0,Dominique Bettenfeld
+584,902,48.0,Melchior,77905.0,Lotfi Yahya Jedidi
+585,902,49.0,Brutus,240388.0,Thierry Gibault
+586,902,50.0,Brother Ange-Joseph,13680.0,Marc Caro
+587,902,51.0,Tattoo Artist,992717.0,Ham-Chau Luong
+588,902,52.0,Barmaid,17618.0,Frankie Pain
+589,902,53.0,Spainard,1323011.0,Enrique Villanueva
+590,902,54.0,Tied-up Guard,97062.0,Dominique Chevalier
+591,902,55.0,Woman at her,2409.0,Lorella Cravotta
+592,902,56.0,Soldier,580580.0,Éric Houzelot
+593,902,57.0,Double Clones,1176105.0,Philippe Beautier
+594,902,58.0,Double Clones,1336073.0,Marc Amyot
+595,902,59.0,Double Clones,566292.0,Jean-Philippe Labadie
+596,902,60.0,"Miette, age",1048762.0,Raphaèle Bouchard
+597,902,61.0,"Miette, age 37",1330767.0,Elisabeth Etienne
+598,902,62.0,"Miette, age 43",1529774.0,Rachel Boulenger
+599,902,63.0,"Krank, age 45",1242620.0,Michel Motu
+600,902,64.0,"Miette, age 82",9745.0,Nane Germon
+601,37557,2.0,Xiao Jingbao,643.0,Gong Li
+602,37557,9.0,"Tang, the Gang Boss",146097.0,Li Bao-Tian
+603,37557,10.0,"Shuisheng, the boy",150151.0,Wang Xiaoxiao
+604,37557,11.0,"Liu, 6th Uncle",143358.0,Li Xuejian
+605,37557,12.0,"Song, Tang's No. 2",150152.0,Chun Sung
+606,37557,13.0,"Zheng, Tang's No.3",150153.0,Fu Biao
+607,9909,13.0,Louanne Johnson,1160.0,Michelle Pfeiffer
+608,9909,14.0,Hal Griffith,10477.0,George Dzundza
+609,9909,15.0,George Grandey,24047.0,Courtney B. Vance
+610,9909,16.0,Carla Nichols,11902.0,Robin Bartlett
+611,9909,18.0,Waiter,12642.0,John Neville
+612,9909,19.0,Mary Benton,168638.0,Beatrice Winde
+613,9909,20.0,Irene Roberts,81726.0,Lorraine Toussaint
+614,9909,21.0,Raul Sanchero,28863.0,Renoly Santiago
+615,9909,22.0,Emilio Ramirez,975133.0,Wade Dominguez
+616,9909,23.0,Callie Roberts,188642.0,Bruklin Harris
+617,9909,24.0,Cornelius Bates,1074671.0,Mercello Thedford
+618,9909,25.0,Gusmaro Rivera,156637.0,Roberto Alvarez
+619,9909,26.0,Durrell Benton,190913.0,Richard Grant
+620,9909,27.0,Angela,1074672.0,Marisela Gonzales
+621,9909,28.0,Nikki,1074673.0,Toni Nichelle Buzhardt
+622,63,41.0,James Cole,62.0,Bruce Willis
+623,63,42.0,Dr. Kathryn Railly,289.0,Madeleine Stowe
+624,63,43.0,Jeffrey Goines,287.0,Brad Pitt
+625,63,44.0,Dr. Goines,290.0,Christopher Plummer
+626,63,45.0,Dr. Peters,52.0,David Morse
+627,63,46.0,Jose,288.0,Jon Seda
+628,63,47.0,Dr. Fletcher,291.0,Frank Gorshin
+629,63,48.0,junger Cole,975569.0,Joseph Melito
+630,63,49.0,WWI Sergeant,1273540.0,Aaron Michael Lacey
+631,63,50.0,Lt. Halperin,22227.0,Christopher Meloni
+632,63,51.0,Det. Franki,1318900.0,Joey Perillo
+633,63,52.0,Teddy,534231.0,LisaGay Hamilton
+634,63,53.0,Bee,11154.0,Matt Ross
+635,63,54.0,Taxifahrerin,66094.0,Annie Golden
+636,63,175.0,Scarface,1077231.0,Michael Chance
+637,63,176.0,Tiny,1571784.0,Vernon Campbell
+638,63,177.0,Botaniker,1571785.0,H. Michael Walls
+639,63,178.0,Geologe,1328063.0,Bob Adrian
+640,63,179.0,Zoologe,37891.0,Simon Jones
+641,63,180.0,Wissenschaftlerin / Jones,1077235.0,Carol Florence
+642,63,181.0,Mikrobiologe,7576.0,Bill Raymond
+643,63,182.0,Engineer,59112.0,Ernest Abuba
+644,63,183.0,Poet,155573.0,Irma St. Paule
+645,63,186.0,Billings,1571787.0,Rozwill Young
+646,63,187.0,Ward Nurse,1571788.0,Nell Johnson
+647,63,188.0,L.J. Washington,292.0,Frederick Strother
+648,63,189.0,Professor,127069.0,Charles Techman
+649,63,191.0,Dr. Casey,163795.0,Rick Warner
+650,63,192.0,Dr. Goodin,1387844.0,Anthony 'Chip' Brienza
+651,63,184.0,Polizeimann Nr. 1,1217615.0,Bruce Kirkpatrick
+652,63,185.0,Polizeimann Nr. 2,1571786.0,Wilfred Williams
+653,63,193.0,Harassed Mother,1607131.0,Joilet Harris
+654,63,194.0,Waltzing Woman Patient,32800.0,Drucie McDaniel
+655,63,195.0,Old Man Patient,1607135.0,John Blaisse
+656,63,196.0,Patient at Gate,1607137.0,Louis Lippa
+657,63,197.0,X-Ray Doctor,1607142.0,Stan Kang
+658,63,198.0,WWI Captain,1607143.0,Pat Dias
+659,63,199.0,Fale,1542805.0,Felix Pire
+660,63,200.0,Pompous Man,1607146.0,Karl Warren
+661,63,201.0,Wallace,141458.0,Joseph McKenna
+662,63,202.0,Airport Detective,81692.0,Stephen Bridgewater
+663,63,203.0,Plump Businessman,1607153.0,Ray Huffman
+664,63,204.0,Impatient Traveler,1218075.0,Charley Scalies
+665,63,205.0,Wayne,1607159.0,Robert O'Neill
+666,63,206.0,Detective Dalva,1607160.0,Paul Meshejian
+667,63,207.0,Kweskin,171294.0,Kevin Thigpen
+668,63,208.0,Louie / Raspy Voice,1039871.0,Harry O'Toole
+669,63,220.0,Marilou,1611167.0,Jann Ellis
+670,63,224.0,Weller,131007.0,Michael Ryan Segal
+671,63,209.0,Thug No. 1,1607168.0,Korchenko
+672,63,210.0,Thug No. 2,933507.0,Chuck Jeffreys
+673,63,218.0,Agent No. 1,1611166.0,Barry Price
+674,63,219.0,Agent No. 2,60569.0,John Panzarella
+675,63,221.0,Anchorwoman,1611170.0,Janet Zappala
+676,63,223.0,Ticket Agent,568367.0,Lisa Talerico
+677,63,211.0,Student in Airport (uncredited),1607174.0,Tiffany Baldwin
+678,63,212.0,Psychiatric Patient (uncredited),7528.0,C.J. Byrnes
+679,63,213.0,FBI Agent (uncredited),1298410.0,Tom Detrik
+680,63,214.0,Sprayer (uncredited),1611142.0,Joe Gerety
+681,63,215.0,Demon (uncredited),1611143.0,Renee Spei
+682,63,216.0,Time Portal Nurse (uncredited),1611164.0,Bonnie Loev
+683,63,217.0,Travler (uncredited),1106629.0,Raymond Mamrak
+684,63,222.0,Prisoner Joey (uncredited),127620.0,Sal Mazzotta
+685,63,225.0,Inpatient (uncredited),2696.0,Allelon Ruggiero
+686,63,226.0,Monkey Member (uncredited),1611197.0,Thang
+687,78802,2.0,Henri Guillaumet,4138.0,Craig Sheffer
+688,78802,3.0,Noëlle Guillaumet,4513.0,Elizabeth McGovern
+689,78802,4.0,Antoine de Saint-Exupery,3999.0,Tom Hulce
+690,78802,6.0,Pierre Deley,58406.0,Ken Pogue
+691,78802,7.0,Jean-René Lefèbvre,554094.0,Ron Sauvé
+692,78802,10.0,Jean Mermoz,5576.0,Val Kilmer
+693,78802,11.0,Young Pilot,156330.0,Freddy Andreiuci
+694,9598,1.0,Babe the Gallant Pig (voice),58136.0,Christine Cavanaugh
+695,9598,2.0,Fly the Female Sheepdog (voice),6199.0,Miriam Margolyes
+696,9598,3.0,Ferdinand the Duck (voice),52699.0,Danny Mann
+697,9598,4.0,Rex the Male Sheepdog (voice),1331.0,Hugo Weaving
+698,9598,5.0,Maa the Very Old Ewe (voice),35109.0,Miriam Flynn
+699,9598,6.0,Farmer Arthur Hoggett,2505.0,James Cromwell
+700,9598,7.0,Dutchess the Cat (voice),6035.0,Russi Taylor
+701,9598,19.0,Old Ewe (voice),1080206.0,Evelyn Krape
+702,9598,20.0,Horse (voice),1080207.0,Michael Edward-Stevens
+703,9598,30.0,Cow (voice),1229258.0,Charles Bartlett
+704,9598,22.0,Rooster (voice),61351.0,Paul Livingston
+705,9598,23.0,Narrator (voice),24368.0,Roscoe Lee Browne
+706,9598,24.0,Esme Hoggett,45586.0,Magda Szubanski
+707,9598,25.0,The Hoggetts' daughter,1080208.0,Zoe Burton
+708,9598,26.0,The Hoggetts' son-in-Law,9380.0,Paul Goddard
+709,9598,27.0,The Hoggets' grandson,1080209.0,Wade Hayward
+710,9598,28.0,The Hoggetts' granddaughter,210276.0,Brittany Byrnes
+711,9598,29.0,Valda,75934.0,Mary Acres
+712,47018,1.0,Dora Carrington,7056.0,Emma Thompson
+713,47018,2.0,Lytton Strachey,378.0,Jonathan Pryce
+714,47018,9.0,Ralph Partridge,27764.0,Steven Waddington
+715,47018,6.0,Gerald Brenan,54447.0,Samuel West
+716,47018,10.0,Mark Gertler,17328.0,Rufus Sewell
+717,47018,4.0,Lady Ottoline Morrell,1249.0,Penelope Wilton
+718,47018,5.0,Vanessa Bell,47627.0,Janet McTeer
+719,47018,11.0,Beacus Penrose,18325.0,Jeremy Northam
+720,47018,12.0,Frances Partridge,83701.0,Alex Kingston
+721,47018,13.0,Clive Bell,186389.0,Richard Clifford
+722,47018,14.0,Mayor,27822.0,David Ryall
+723,47018,15.0,Military Rep,47943.0,Stephen Boxer
+724,687,7.0,Sister Helen Prejean,4038.0,Susan Sarandon
+725,687,8.0,Matthew Poncelet,2228.0,Sean Penn
+726,687,9.0,Hilton Barber,10360.0,Robert Prosky
+727,687,10.0,Earl Delacroix,10361.0,Raymond J. Barry
+728,687,11.0,Clyde Percy,8655.0,R. Lee Ermey
+729,687,12.0,Mary Beth Percy,1989.0,Celia Weston
+730,687,13.0,Helen's Mother,2207.0,Lois Smith
+731,687,14.0,Kaplan Farlely,6914.0,Scott Wilson
+732,687,15.0,Lucille Poncelet,10362.0,Roberta Maxwell
+733,687,17.0,Sister Colleen,452.0,Margo Martindale
+734,687,21.0,Craig Poncelet,70851.0,Jack Black
+735,687,22.0,Luis Montoya,10366.0,Ray Aranha
+736,687,25.0,Walter Delacroix,133.0,Peter Sarsgaard
+737,687,32.0,Captain Beliveau,79732.0,Barton Heyman
+738,687,33.0,Sgt. Neal Trapp,1183429.0,Steve Boles
+739,687,34.0,Warden Hartman,21152.0,Nesbitt Blaisdell
+740,687,35.0,Guy Gilardi,19511.0,Larry Pine
+741,687,36.0,Governor Benedict,25711.0,Kevin Cooney
+742,687,37.0,State Trooper,6574.0,Clancy Brown
+743,687,38.0,Carl Vitello,1232566.0,Michael Cullen
+744,687,39.0,Hope Percy,51384.0,Missy Yager
+745,687,40.0,Emily Percy,1237883.0,Jenny Krochmal
+746,687,41.0,Sonny Poncelet,17866.0,Jon Abrahams
+747,687,42.0,Troy Poncelet,1223451.0,Arthur Bridgers
+748,687,43.0,Helen's Brother,95940.0,Steve Carlisle
+749,687,44.0,9-Year-Old Helen,56757.0,Eva Amurri Martino
+750,687,45.0,Opossum Kid #1,1366946.0,Jack Henry Robbins
+751,687,46.0,Henry,93679.0,Dennis Neal
+752,687,47.0,Nellie,62570.0,Molly Bryant
+753,687,63.0,Nurse,1591178.0,Adele Robbins
+754,687,48.0,Parent #1,1371000.0,Pete Burris
+755,687,49.0,Parent #2,1407052.0,Joan Glover
+756,687,50.0,Parent #4,20765.0,Lenore Banks
+757,687,51.0,Guard #2,32287.0,Scott Sowers
+758,687,52.0,Guard #3,75611.0,Cortez Nance Jr.
+759,687,53.0,Guard #4,4732.0,Adam Nelson
+760,687,54.0,Guard #7,108147.0,Jeremy Knaster
+761,687,55.0,Parole Board Member (uncredited),16460.0,Marcus Lyle Brown
+762,687,56.0,Trustee (uncredited),1411679.0,Anthony Michael Frederick
+763,687,57.0,ER Doctor (uncredited),1191341.0,Thomas McGowan
+764,687,58.0,Cop (uncredited),1463362.0,Codie Scott
+765,687,59.0,Woman at Vigil (uncredited),10298.0,Helen Prejean
+766,139405,12.0,Tomas Minton,1467084.0,Peter Reznick
+767,139405,13.0,Freighter Chief,1467085.0,John McDonough
+768,139405,14.0,Seaman,1467086.0,Avi Hoffman
+769,139405,15.0,Wall Street Businessman,19208.0,Matt Malloy
+770,139405,16.0,Julia Minton,1218074.0,Abby Lewis
+771,33689,1.0,Diane Barrows,1796.0,Kirstie Alley
+772,33689,2.0,Roger Callaway,26472.0,Steve Guttenberg
+773,33689,3.0,Alyssa Callaway / Amanda Lemmon,67848.0,Ashley Olsen
+774,33689,4.0,Amanda Lemmon / Alyssa Callaway,67849.0,Mary-Kate Olsen
+775,33689,5.0,Clarice Kensington,92255.0,Jane Sibbett
+776,33689,6.0,Vincenzo,6541.0,Philip Bosco
+777,33689,9.0,Carmen,1331570.0,Michelle Grisom
+778,33689,10.0,Frankie,1329538.0,Desmond Robertson
+779,33689,11.0,Tiny,1331571.0,Tiny Mills
+780,33689,12.0,Patty,1331572.0,Shanelle Henry
+781,33689,13.0,Michelle,1331573.0,Michèle Lonsdale Smith
+782,33689,14.0,Jerry,1331574.0,Sean Orr
+783,33689,15.0,Emily,1331575.0,Elizabeth Walsh
+784,9603,8.0,Cher Horowitz,5588.0,Alicia Silverstone
+785,9603,9.0,Dionne,58150.0,Stacey Dash
+786,9603,10.0,Tai,328.0,Brittany Murphy
+787,9603,11.0,Josh,22226.0,Paul Rudd
+788,9603,12.0,Murray,49002.0,Donald Faison
+789,9603,13.0,Amber,58151.0,Elisa Donovan
+790,9603,15.0,Travis,33654.0,Breckin Meyer
+791,9603,16.0,Elton,23958.0,Jeremy Sisto
+792,9603,17.0,Mel Horowitz,6486.0,Dan Hedaya
+793,9603,18.0,Mr. Wendell Hall,12900.0,Wallace Shawn
+794,9603,19.0,Miss Toby Geist,66160.0,Twink Caplan
+795,9603,20.0,Christian,30881.0,Justin Walker
+796,9603,27.0,Miss Stoeger,40680.0,Julie Brown
+797,9603,28.0,Summer,17775.0,Nicole Bilderback
+798,34615,4.0,Rev. Stephen Kumalo,15152.0,James Earl Jones
+799,34615,6.0,John Kumalo,17764.0,Charles S. Dutton
+800,34615,8.0,Ian Jarvis,123831.0,Jack Robinson
+801,34615,10.0,Child,123833.0,Tsholofelo Wechoemang
+802,34615,11.0,Ramalao Makhene,123834.0,Ramalao Makhene
+803,34615,12.0,James Jarvis,194.0,Richard Harris
+804,34615,13.0,Mrs. Kumalo,89307.0,Dolly Rathebe
+805,34615,14.0,Mary Jarvis,111179.0,Jennifer Steyn
+806,34615,15.0,Evans,1035098.0,Ian Roberts
+807,34615,16.0,Clerk of the court,1073473.0,David Clatworthy
+808,31174,1.0,Richard III,1327.0,Ian McKellen
+809,31174,2.0,Elizabeth,516.0,Annette Bening
+810,31174,3.0,The Duke of Buckingham,388.0,Jim Broadbent
+811,31174,4.0,Lady Anne,5470.0,Kristin Scott Thomas
+812,31174,9.0,James Tyrrell,42566.0,Adrian Dunbar
+813,31174,10.0,Duchess of York,10978.0,Maggie Smith
+814,31174,11.0,William Catesby,41043.0,Tim McInnerny
+815,31174,12.0,Earl Rivers,3223.0,Robert Downey Jr.
+816,31174,13.0,Lord Stanley,3545.0,Edward Hardwicke
+817,31174,14.0,The Duke of Clarence,15788.0,Nigel Hawthorne
+818,31174,15.0,Lord Hastings,20070.0,Jim Carter
+819,31174,16.0,The Earl of Richmond,17287.0,Dominic West
+820,31174,20.0,King Edward IV,8937.0,John Wood
+821,31174,21.0,Archbishop Thomas,27660.0,Roger Hammond
+822,31174,22.0,Sir Richard Ratcliffe,104795.0,Bill Paterson
+823,31174,23.0,Brackenbury,20425.0,Donald Sumpter
+824,31174,24.0,1st Subaltern,7027.0,James Dreyfus
+825,31174,25.0,Ballroom Dancer (uncredited),1271092.0,Derek Lyons
+826,11443,1.0,Anthony Curtis,18291.0,Larenz Tate
+827,11443,2.0,Kirby,65827.0,Keith David
+828,11443,3.0,Skip,66.0,Chris Tucker
+829,11443,4.0,Jose,6862.0,Freddy Rodríguez
+830,11443,5.0,Juanita Benson,69447.0,Rose Jackson
+831,11443,16.0,Deliah Benson,10824.0,N'Bushe Wright
+832,11443,17.0,Cutty,58924.0,Clifton Powell
+833,11443,18.0,Cowboy,18288.0,Terrence Howard
+834,11443,19.0,Cleon,71913.0,Bokeem Woodbine
+835,11443,20.0,Martin,1277051.0,Sticky Fingaz
+836,11443,21.0,Betancourt,5365.0,Clifton Collins Jr
+837,11443,22.0,Marisol,65421.0,Elizabeth Rodriguez
+838,11443,23.0,D'ambrosio,11486.0,Michael Imperioli
+839,35196,1.0,Robert Merivel,3223.0,Robert Downey Jr.
+840,35196,2.0,Katharine,5344.0,Meg Ryan
+841,35196,3.0,King Charles II,4783.0,Sam Neill
+842,35196,4.0,John Pearce,11207.0,David Thewlis
+843,35196,5.0,Elias Finn,3291.0,Hugh Grant
+844,35196,11.0,Celia Clemence,6416.0,Polly Walker
+845,35196,12.0,Will Gates,1327.0,Ian McKellen
+846,35196,13.0,Ambrose,27762.0,Ian McDiarmid
+847,35196,14.0,Midwife,97170.0,Mary MacLeod
+848,35196,16.0,Man with Visible Heart,1229022.0,Willie Ross
+849,9312,1.0,Lord Rayden,38559.0,Christopher Lambert
+850,9312,2.0,Liu Kang,57250.0,Robin Shou
+851,9312,3.0,Johnny Cage,57251.0,Linden Ashby
+852,9312,4.0,Shang Tsung,11398.0,Cary-Hiroyuki Tagawa
+853,9312,5.0,Sonya Blade,20751.0,Bridgette Wilson
+854,9312,6.0,Princess Kitana,10680.0,Talisa Soto
+855,9312,7.0,Kano,57252.0,Trevor Goddard
+856,9312,8.0,Scorpion,57253.0,Chris Casamassa
+857,9312,9.0,Sub-Zero,57254.0,François Petit
+858,9312,10.0,Reptile,57255.0,Keith Cooke
+859,9312,23.0,Scorpion (Voice),57256.0,Ed Boon
+860,577,4.0,Suzanne Stone Maretto,2227.0,Nicole Kidman
+861,577,5.0,Larry Maretto,2876.0,Matt Dillon
+862,577,6.0,Jimmy Emmett,73421.0,Joaquin Phoenix
+863,577,7.0,Russel Hines,1893.0,Casey Affleck
+864,577,8.0,Janice Maretto,7796.0,Illeana Douglas
+865,577,9.0,Lydia Mertz,2841.0,Alison Folland
+866,577,21.0,Joe Maretto,6486.0,Dan Hedaya
+867,577,22.0,Ed Grant,4201.0,Wayne Knight
+868,577,23.0,Man at Lake,224.0,David Cronenberg
+869,577,26.0,Earl Stone,2115.0,Kurtwood Smith
+870,577,27.0,Carol Stone,11318.0,Holland Taylor
+871,577,28.0,Faye Stone,4158.0,Susan Traylor
+872,577,29.0,Angela Maretto,1185405.0,Maria Tucci
+873,577,30.0,Mike Warden,33835.0,Tim Hopper
+874,11861,1.0,Finn Dodd,1920.0,Winona Ryder
+875,11861,2.0,Glady Joe Cleary,10774.0,Anne Bancroft
+876,11861,3.0,Hy Dodd,9560.0,Ellen Burstyn
+877,11861,4.0,Constance Saunders,18794.0,Kate Nelligan
+878,11861,11.0,Em,14500.0,Jean Simmons
+879,11861,12.0,Anna,54424.0,Maya Angelou
+880,11861,13.0,Marianna,1981.0,Alfre Woodard
+881,11861,14.0,Sam,20212.0,Dermot Mulroney
+882,11861,15.0,Sophia,2207.0,Lois Smith
+883,11861,16.0,Sally,689.0,Kate Capshaw
+884,11861,17.0,Arthur,9626.0,Rip Torn
+885,11861,18.0,Leon,51670.0,Johnathon Schaech
+886,11861,19.0,Young Sophia,20767.0,Samantha Mathis
+887,11861,20.0,Young Em,59662.0,Joanna Going
+888,11861,21.0,Aunt Pauline,5700.0,Esther Rolle
+889,11861,22.0,Beck,7499.0,Jared Leto
+890,11861,23.0,Young Glady Joe,6194.0,Claire Danes
+891,11861,24.0,Young Hy,78788.0,Lecy Goranson
+892,11861,25.0,Mrs. Rubens,11318.0,Holland Taylor
+893,11861,26.0,Young Dean,40275.0,Tim Guinee
+894,11861,27.0,Dean,14325.0,Derrick O'Connor
+895,11861,28.0,Preston,11628.0,Loren Dean
+896,11861,29.0,Mrs. Darling,4778.0,Melinda Dillon
+897,11861,30.0,Howell,28633.0,Richard Jenkins
+898,11861,31.0,James,10480.0,Denis Arndt
+899,11861,44.0,Finn's Father,2059.0,Adam Baldwin
+900,11861,45.0,Baby Pres,1848887.0,Michael McElroy
+901,11861,46.0,Duff,465117.0,Ari Meyers
+902,11861,47.0,Em's Mother,33497.0,Jane Alden
+903,11861,48.0,Anna's Great Grandmother,59154.0,Tamala Jones
+904,11861,49.0,Little Anna,18346.0,Rae'Ven Larrymore Kelly
+905,11861,50.0,Young Hy,1346644.0,Alicia Goranson
+906,11861,51.0,Boy at Party,32363.0,Will Estes
+907,11861,52.0,Winston,34.0,Mykelti Williamson
+908,807,17.0,Detective David Mills,287.0,Brad Pitt
+909,807,18.0,Detective Lt. William Somerset,192.0,Morgan Freeman
+910,807,19.0,Tracy Mills,12052.0,Gwyneth Paltrow
+911,807,27.0,California,11885.0,John C. McGinley
+912,807,22.0,John Doe,1979.0,Kevin Spacey
+913,807,20.0,Police Captain,8655.0,R. Lee Ermey
+914,807,26.0,Dist. Atty. Martin Talbot,6487.0,Richard Roundtree
+915,807,88.0,Mark Swarr,31028.0,Richard Schiff
+916,807,82.0,Mrs. Gould,1558263.0,Julie Araskog
+917,807,83.0,Greasy F.B.I. Man,534.0,Mark Boone Junior
+918,807,24.0,Officer Davis,12055.0,John Cassini
+919,807,84.0,Dr. Santiago,38951.0,Reg E. Cathey
+920,807,85.0,Dr. O'Neill,30487.0,Peter Crombie
+921,807,25.0,"George, Library Night Guard",12056.0,Hawthorne James
+922,807,87.0,Man in Booth at Massage Parlor,9289.0,Michael Massee
+923,807,86.0,Crazed Man in Massage Parlor,2221.0,Leland Orser
+924,807,30.0,Dr. Beardsley,4255.0,Richard Portnow
+925,807,23.0,Detective Taylor,12054.0,Daniel Zacapa
+926,807,106.0,Fingerprint Technician,52603.0,Alfonso Freeman
+927,807,116.0,911 Operator,10688.0,Harris Savides
+928,807,21.0,Dead Man,12047.0,Andrew Kevin Walker
+929,807,123.0,Delivery Man,7472.0,Richmond Arquette
+930,807,89.0,Thin Vagrant,128203.0,Pamala Tyson
+931,807,31.0,Detective Sara,157434.0,Emily Wagner
+932,807,96.0,Woman Cop Behind Desk,95469.0,Shannon Wilcox
+933,807,97.0,Workman at Door of Somerset's Office,1583695.0,George Christy
+934,807,98.0,Cab Driver,43461.0,Endre Hules
+935,807,99.0,First Guard at the Library,1025337.0,William Davidson
+936,807,101.0,Second Guard at the Library,1055173.0,Bob Collins
+937,807,102.0,TV News Reporter,95200.0,Dominique Jennings
+938,807,103.0,First Forensic Man in the Law Office,31533.0,Allan Kolman
+939,807,104.0,Eli Gould - Greed Victim,152638.0,Gene Borkan
+940,807,105.0,Fingerprint Forensic Man in Law Office,176969.0,Mario Di Donato
+941,807,107.0,Cop on SWAT Team,1487328.0,Harrison White
+942,807,108.0,Cop on SWAT Team,17449.0,Bob Stephenson
+943,807,109.0,Victor - Sloth Victim,174037.0,Michael Reid MacKay
+944,807,110.0,Policeman Who Takes Statement from Vagrant,42200.0,Lennie Loftin
+945,807,111.0,Wild Bill,1107809.0,Martin Serene
+946,807,112.0,First Cop at Massage Parlor,91843.0,David Correia
+947,807,113.0,Sweating Cop at Massage Parlor,9783.0,Lexie Bigham
+948,807,114.0,Paramedic at Massage Parlor,175120.0,Evan Mirand
+949,807,115.0,Paramedic at Massage Parlor,1492029.0,Paul Eckstein
+950,807,117.0,Additional 911 Operator,1114784.0,Rachel Flanagan
+951,807,118.0,Pride Victim,11321.0,Heidi Schanz
+952,807,139.0,Duty Sergeant,168162.0,Brian Evers
+953,807,120.0,Helicopter Pilot,54433.0,James Deeth
+954,807,121.0,SWAT Helicopter Pilot,16563.0,Charles A. Tamburro
+955,807,124.0,Cop (uncredited),17764.0,Charles S. Dutton
+956,807,125.0,Man in Library (uncredited),944.0,Arthur Max
+957,10530,1.0,Pocahontas (voice),65529.0,Irene Bedard
+958,10530,2.0,John Smith (voice),2461.0,Mel Gibson
+959,10530,3.0,Governor Ratcliffe (voice),28010.0,David Ogden Stiers
+960,10530,4.0,Meeko (voice),31365.0,John Kassir
+961,10530,5.0,Powhatan (voice),3203.0,Russell Means
+962,10530,6.0,Thomas (voice),3894.0,Christian Bale
+963,10530,16.0,Pocahontas (singing voice),110316.0,Judy Kuhn
+964,10530,17.0,Grandmother Willow (voice),12516.0,Linda Hunt
+965,10530,18.0,Percy (voice),52699.0,Danny Mann
+966,10530,19.0,Ben (voice),9188.0,Billy Connolly
+967,10530,20.0,Lon (voice),181486.0,Joe Baker
+968,10530,21.0,Flit (voice),15831.0,Frank Welker
+969,10530,22.0,Nakoma (voice),163070.0,Michelle St. John
+970,10530,23.0,Kocoum (voice),950126.0,James Apaumut Fall
+971,10530,24.0,Kekata (voice),37430.0,Gordon Tootoosis
+972,10530,25.0,Powhatan / Kekata (singing voice),12077.0,Jim Cummings
+973,8391,1.0,Camille Baker,54818.0,Pascale Bussières
+974,8391,2.0,Petra,54819.0,Rachael Crawford
+975,8391,11.0,Martin,15319.0,Henry Czerny
+976,8391,12.0,Timothy,20173.0,Don McKellar
+977,629,19.0,Michael McManus,9045.0,Stephen Baldwin
+978,629,20.0,Dean Keaton,5168.0,Gabriel Byrne
+979,629,24.0,US Customs Agent Dave Kujan,9046.0,Chazz Palminteri
+980,629,22.0,Todd Hockney,7166.0,Kevin Pollak
+981,629,25.0,Kobayashi,4935.0,Pete Postlethwaite
+982,629,23.0,Roger 'Verbal' Kint,1979.0,Kevin Spacey
+983,629,27.0,Edie Finneran,2179.0,Suzy Amis
+984,629,26.0,FBI Agent Jack Baer,4808.0,Giancarlo Esposito
+985,629,21.0,Fred Fenster,1121.0,Benicio del Toro
+986,629,28.0,"Sgt. Jeffrey ""Jeff"" Rabin",6486.0,Dan Hedaya
+987,629,32.0,Smuggler,101377.0,Paul Bartel
+988,629,38.0,Saul Berg,56166.0,Carl Bressler
+989,629,29.0,Dr. Plummer,9047.0,Christine Estabrook
+990,629,30.0,Dr. Walters,9048.0,Clark Gregg
+991,629,39.0,Arkosh Kovash,156227.0,Morgan Hunter
+992,629,31.0,Agent Strausz,3218.0,Louis Lombardi
+993,629,40.0,Agent Rizzi,1216752.0,Frank Medrano
+994,629,41.0,"Daniel ""Dan"" Metzheiser",1235937.0,Ron Gilbert
+995,117164,1.0,Cynthia Mckay,74375.0,Cynthia Rothrock
+996,117164,3.0,,63941.0,Marshall R. Teague
+997,117164,4.0,,1093379.0,Daniel McVicar
+998,117164,5.0,,42137.0,Lydie Denier
+999,117164,6.0,,53552.0,John O'Leary
+1000,117164,7.0,,112159.0,Art Camacho
+1001,117164,8.0,,62715.0,Robert Miano
+1002,11448,1.0,Lenny,1243.0,Woody Allen
+1003,11448,2.0,Linda Ash,23931.0,Mira Sorvino
+1004,11448,3.0,Amanda,1283.0,Helena Bonham Carter
+1005,11448,4.0,Chorleiter,1164.0,F. Murray Abraham
+1006,11448,17.0,Amanda's Father,10560.0,Donald Symington
+1007,11448,18.0,Amanda's Mother,29545.0,Claire Bloom
+1008,11448,19.0,Jocasta,3019.0,Olympia Dukakis
+1009,11448,20.0,Kevin,4688.0,Michael Rapaport
+1010,11448,21.0,Laius,28010.0,David Ogden Stiers
+1011,11448,22.0,Tiresias,5251.0,Jack Warden
+1012,11448,23.0,Jerry Bender,27811.0,Peter Weller
+1013,11448,25.0,Cassandra,1161048.0,Danielle Ferland
+1014,49133,2.0,Gino,27392.0,Enrico Lo Verso
+1015,49133,6.0,Fiore,25819.0,Michele Placido
+1016,49133,7.0,Selimi,1149435.0,Piro Milkani
+1017,49133,8.0,Spiro,1180060.0,Carmelo Di Mazzarelli
+1018,49133,9.0,Factory's manager,1904515.0,Marjeta Ljarja
+1019,26441,1.0,Sheriff Tom Palmer,26472.0,Steve Guttenberg
+1020,26441,2.0,Miss Anna Mongomery,46423.0,Olivia d'Abo
+1021,26441,3.0,Coach Jay Huffer,6067.0,Jay O. Sanders
+1022,26441,4.0,Edwin V. Douglas,8659.0,John Terry
+1023,26441,7.0,Newt Shaw,69395.0,Bug Hall
+1024,26441,8.0,Kate Douglas,148587.0,Jessica Robertson
+1025,26441,9.0,Larry Musgrove,69740.0,Patrick Renna
+1026,26441,10.0,Jeffrey Luttrell,21735.0,Billy L. Sullivan
+1027,26441,11.0,Evan Schiff,88599.0,Chauncey Leopardi
+1028,26441,12.0,Nick Anderssen,137391.0,Jordan Brower
+1029,26441,13.0,Sophia Convertino,148591.0,Hayley Kolb
+1030,26441,14.0,Polly Neilson,148593.0,Haley Miller
+1031,26441,15.0,Lou Gates,148594.0,Ashley Welch
+1032,97406,2.0,Sadie Flood,10431.0,Jennifer Jason Leigh
+1033,97406,3.0,Georgia Flood,51544.0,Mare Winningham
+1034,97406,4.0,Jake,15854.0,Ted Levine
+1035,97406,5.0,Axel Goldman,7268.0,Max Perlich
+1036,97406,6.0,Bobby,42746.0,John Doe
+1037,97406,7.0,Herman,4764.0,John C. Reilly
+1038,97406,8.0,Trucker,590356.0,Jimmy Witherspoon
+1039,97406,9.0,Chasman,52308.0,Jason Carter
+1040,124057,1.0,Alex Cole,198643.0,Johnny Morina
+1041,124057,2.0,Merlin,56890.0,Malcolm McDowell
+1042,124057,3.0,Jenny,41743.0,Maggie Castle
+1043,124057,4.0,Sheriff Ferguson,1569328.0,James Rae
+1044,124057,5.0,Butch Scarsdale,11086.0,Michael Ironside
+1045,9089,10.0,Claudia Larson,18686.0,Holly Hunter
+1046,9089,11.0,Tommy Larson,3223.0,Robert Downey Jr.
+1047,9089,12.0,Adele Larson,10774.0,Anne Bancroft
+1048,9089,13.0,Henry Larson,1466.0,Charles Durning
+1049,9089,14.0,Kitt Larson,6194.0,Claire Danes
+1050,9089,15.0,Leo Fish,32597.0,Dylan McDermott
+1051,9089,16.0,Aunt Glady,400.0,Geraldine Chaplin
+1052,9089,17.0,Walter Wedman,26472.0,Steve Guttenberg
+1053,9089,18.0,Russell Terziak,11064.0,David Strathairn
+1054,9089,19.0,Joanne Larson Wedman,65528.0,Cynthia Stevenson
+1055,11010,11.0,Pablo Neruda,24366.0,Philippe Noiret
+1056,11010,12.0,Mario Ruoppolo,67792.0,Massimo Troisi
+1057,11010,13.0,Beatrice Russo,10777.0,Maria Grazia Cucinotta
+1058,11010,14.0,Telegrapher,14149.0,Renato Scarpa
+1059,11010,15.0,Donna Rosa,538696.0,Linda Moretti
+1060,11010,16.0,Di Cosimo,24290.0,Mariano Rigillo
+1061,11010,17.0,Matilde,225301.0,Anna Bonaiuto
+1062,11010,18.0,Elsa Morante,1351952.0,Simona Caparrini
+1063,11010,20.0,,1352578.0,Carlo Di Maio
+1064,11010,21.0,,1352580.0,Nando Neri
+1065,11010,22.0,,1352582.0,Vincenzo Di Sauro
+1066,11010,23.0,,1189964.0,Orazio Stracuzzi
+1067,11010,24.0,,1151165.0,Sergio Solli
+1068,11010,25.0,,1352583.0,Alfredo Cozzolino
+1069,99040,3.0,Pierre Lamontagne,38524.0,Lothaire Bluteau
+1070,99040,4.0,Marc Lamontagne,1019878.0,Patrick Goyette
+1071,99040,5.0,Raymond Massicotte,1019879.0,Jean-Louis Millette
+1072,99040,6.0,Assistant to Hitchcock,5470.0,Kristin Scott Thomas
+1073,99040,7.0,Alfred Hitchcock,223877.0,Ron Burrage
+1074,11359,1.0,Omri,69301.0,Hal Scardino
+1075,11359,2.0,Little Bear,69302.0,Litefoot
+1076,11359,3.0,Jane,32225.0,Lindsay Crouse
+1077,11359,4.0,Victor,28633.0,Richard Jenkins
+1078,11359,15.0,Patrick,1318612.0,Rishi Bhat
+1079,11359,11.0,,4581.0,Steve Coogan
+1080,11359,14.0,Boone,18181.0,David Keith
+1081,11359,16.0,Lucy,34200.0,Sakina Jaffrey
+1082,11359,12.0,,52646.0,Vincent Kartheiser
+1083,11359,13.0,,14331.0,Nestor Serrano
+1084,17182,1.0,Karen McCann,35.0,Sally Field
+1085,17182,5.0,Robert Doob,2628.0,Kiefer Sutherland
+1086,17182,2.0,Mack McCann,228.0,Ed Harris
+1087,17182,9.0,Dolly Green,821.0,Beverly D'Angelo
+1088,17182,39.0,Angel Kosinsky,33689.0,Charlayne Woodard
+1089,17182,8.0,Detective Sergeant Denillo,3266.0,Joe Mantegna
+1090,17182,3.0,Julie McCann,27261.0,Olivia Burnette
+1091,17182,7.0,Megan McCann,157108.0,Alexandra Kyle
+1092,17182,12.0,Martin,65827.0,Keith David
+1093,17182,11.0,Sidney Hughes,4492.0,Philip Baker Hall
+1094,17182,41.0,Susan Juke,65017.0,Natalija Nogulich
+1095,17182,42.0,Judge Arthur Younger,29446.0,Armin Shimerman
+1096,17182,43.0,District Attorney Howard Bolinger,8539.0,Nicholas Cascone
+1097,17182,45.0,Peter Green,51188.0,Darrell Larson
+1098,17182,10.0,Tina,74375.0,Cynthia Rothrock
+1099,17182,40.0,Redheaded Woman,173264.0,Wanda Acuna
+1100,17182,50.0,Teacher,170074.0,Sierra Pecheur
+1101,2054,10.0,Glenn Holland,3037.0,Richard Dreyfuss
+1102,2054,11.0,Iris Holland,21104.0,Glenne Headly
+1103,2054,12.0,Bill Meister,21105.0,Jay Thomas
+1104,2054,13.0,Principal Helen Jacobi,3019.0,Olympia Dukakis
+1105,2054,14.0,Vice Principal Gene Wolters,3905.0,William H. Macy
+1106,2054,15.0,Gertrude Lang,3128.0,Alicia Witt
+1107,2054,17.0,Cole Holland ( mit 6. Jahren ),21107.0,Nicholas John Renner
+1108,2054,18.0,Cole Holland ( mit 15 Jahren ),21108.0,Joseph Anderson
+1109,2054,19.0,Cole Holland ( mit 28 Jahren ),21109.0,Anthony Natale
+1110,2054,20.0,Rowena Morgan,26495.0,Jean Louisa Kelly
+1111,2054,21.0,Louis Russ,18288.0,Terrence Howard
+1112,2054,49.0,Bobby Todd,39597.0,Damon Whitaker
+1113,2054,50.0,Sarah Olmstead,146182.0,Alexandra Boyd
+1114,2054,51.0,Governor Gertrude Lang,20747.0,Joanna Gleason
+1115,2054,52.0,Deaf School Principal,1881495.0,Beth Maitland
+1116,2054,53.0,Mr. Shapiro,85422.0,Joshua Minnick
+1117,10607,18.0,Ashtray,35690.0,Shawn Wayans
+1118,10607,2.0,Loc Dog,9562.0,Marlon Wayans
+1119,10607,3.0,Dashiki,66131.0,Tracey Cherelle Jones
+1120,10607,5.0,Preach,27590.0,Chris Spencer
+1121,10607,19.0,Ashtray's Mother,2535.0,Vivica A. Fox
+1122,10607,4.0,Sister Williams,66132.0,Rappin' Granny
+1123,10607,20.0,Crazy Legs,1214127.0,Suli McCullough
+1124,10607,21.0,Officer Self Hatred,1897.0,Bernie Mac
+1125,10607,22.0,Rufus,62066.0,Faizon Love
+1126,10607,23.0,Mailman,35689.0,Keenen Ivory Wayans
+1127,10607,24.0,Mrs. Johnson,95189.0,Kim Wayans
+1128,10607,25.0,Loc Dog's Grandma,111872.0,Helen Martin
+1129,10607,26.0,Loc Dog's Mom,154272.0,Virginia Watson
+1130,10607,27.0,Toothpick,83102.0,Darrel Heath
+1131,19760,1.0,Roz,18277.0,Sandra Bullock
+1132,19760,2.0,Francis 'Frank' O'Brien,5724.0,Denis Leary
+1133,19760,4.0,FBI Agent O'Malley,5050.0,Yaphet Kotto
+1134,19760,5.0,Evan Marsh,8435.0,Stephen Dillane
+1135,19760,8.0,Cop,66131.0,Tracey Cherelle Jones
+1136,19760,9.0,Beautiful Woman,191140.0,Julia Montgomery Brown
+1137,19760,10.0,Reporter,1183958.0,Claire Rankin
+1138,19760,11.0,Marcy Kellerher,1362948.0,Jane Moffat
+1139,19760,12.0,Fitzie,5170.0,Mike Starr
+1140,19760,13.0,Todd,17243.0,Jonathan Tucker
+1141,19760,14.0,Beano Callahan,5897.0,Wayne Robson
+1142,19760,15.0,Quinn,1010.0,Michael Badalucco
+1143,9536,14.0,Bud Macintosh,64998.0,Pauly Shore
+1144,9536,15.0,Doyle Johnson,9045.0,Stephen Baldwin
+1145,9536,16.0,Monique (as Joey Adams),16484.0,Joey Lauren Adams
+1146,9536,17.0,Jen,43433.0,Teresa Hill
+1147,9536,1.0,Dr. Noah Faulkner,7676.0,William Atherton
+1148,9536,3.0,Mimi Simkins,57868.0,Dara Tomanovich
+1149,9536,4.0,T.C. Romulus,57869.0,Kevin West
+1150,9536,2.0,Olivia Biggs,23970.0,Denise Dowse
+1151,9536,18.0,Dr. Petra von Kant,12207.0,Kylie Minogue
+1152,9536,19.0,Tenacious D,22297.0,Kyle Gass
+1153,9536,20.0,Tenacious D,70851.0,Jack Black
+1154,9536,21.0,Denise,16850.0,Rose McGowan
+1155,11525,1.0,Dr. Benjamin Trace,29459.0,Patrick Bergin
+1156,11525,2.0,Jobe Smith,40009.0,Matt Frewer
+1157,11525,3.0,Peter Parkette,58119.0,Austin O'Brien
+1158,11525,4.0,Dr. Cori Platt,36898.0,Ely Pouget
+1159,11525,17.0,Jennifer,72612.0,Camille Cooper
+1160,11525,18.0,Shawn,1192629.0,Patrick LaBrecque
+1161,11525,19.0,Jade,1384185.0,Crystal Celeste Grant
+1162,11525,20.0,Travis,1384186.0,Sean P. Young
+1163,11525,21.0,Homeless Kid,1221555.0,Mathew Valencia
+1164,11525,22.0,Jonathan Walker,27116.0,Kevin Conway
+1165,11525,23.0,Young Peter,59016.0,Trever O'Brien
+1166,11525,24.0,Senator Greenspan,65748.0,Richard Fancy
+1167,11525,26.0,Guillermo,3979.0,Castulo Guerra
+1168,11525,27.0,Homeless Lady,28640.0,Molly Shannon
+1169,11525,28.0,Chief of Security,1219510.0,Ellis E. Williams
+1170,40628,2.0,Gennaro Spirito,124150.0,Jerry Barone
+1171,40628,8.0,Gitano Sabatoni,1158.0,Al Pacino
+1172,40628,10.0,Luisa Spirito,1161.0,Mary Elizabeth Mastrantonio
+1173,40628,11.0,Uncle Joe,4887.0,Joe Grifasi
+1174,40628,12.0,Dr. Wilson,25879.0,Geoff Pierson
+1175,4482,4.0,Loli,25256.0,Victoria Abril
+1176,4482,5.0,Marijo,35137.0,Josiane Balasko
+1177,4482,6.0,Laurent Lafaye,4275.0,Alain Chabat
+1178,4482,7.0,Antoine,13689.0,Ticky Holgado
+1179,4482,8.0,Dany,35908.0,Catherine Hiegel
+1180,4482,9.0,Emily Crumble,38402.0,Katrine Boorman
+1181,4482,10.0,Dorothy Crumble,38403.0,Telsche Boorman
+1182,4482,11.0,Vero,38404.0,Véronique Barrault
+1183,10634,1.0,Craig Jones,9778.0,Ice Cube
+1184,10634,2.0,Smokey,66.0,Chris Tucker
+1185,10634,3.0,Debbie,9781.0,Nia Long
+1186,10634,4.0,Deebo,8396.0,Tom Lister Jr.
+1187,10634,10.0,Mr. Jones,56902.0,John Witherspoon
+1188,10634,11.0,Mrs. Jones,54800.0,Anna Maria Horsford
+1189,10634,12.0,Dana Jones,9788.0,Regina King
+1190,10634,13.0,Joi,45245.0,Paula Jai Parker
+1191,10634,14.0,Big Worm,62066.0,Faizon Love
+1192,10634,15.0,Red,65134.0,DJ Pooh
+1193,10634,16.0,Mr. Parker,19754.0,Tony Cox
+1194,10634,17.0,Ezal,83101.0,Anthony Johnson
+1195,10634,18.0,Pastor Clever,1897.0,Bernie Mac
+1196,10634,19.0,Kid #2,22122.0,Meagan Good
+1197,10634,20.0,China,74613.0,Terri J. Vaughn
+1198,10634,21.0,Black Man at Store,37932.0,F. Gary Gray
+1199,10634,22.0,Red's Father,97781.0,Reynaldo Rey
+1200,10634,23.0,Craps Player,61981.0,Michael Clarke Duncan
+1201,755,1.0,Seth Gecko,1461.0,George Clooney
+1202,755,2.0,Richard Gecko,138.0,Quentin Tarantino
+1203,755,3.0,Jacob Fuller,1037.0,Harvey Keitel
+1204,755,4.0,Kate Fuller,3196.0,Juliette Lewis
+1205,755,5.0,Scott Fuller,11158.0,Ernest Liu
+1206,755,6.0,Santanico Pandemonium,3136.0,Salma Hayek
+1207,755,7.0,Border Guard/Chet Pussy/Carlos,11159.0,Cheech Marin
+1208,755,8.0,Razor Charlie,11160.0,Danny Trejo
+1209,755,9.0,Sex Machine,11161.0,Tom Savini
+1210,755,10.0,Frost,9811.0,Fred Williamson
+1211,755,11.0,Texas Ranger,2536.0,Michael Parks
+1212,755,12.0,Hostage Gloria Hill,11162.0,Brenda Hillhouse
+1213,755,13.0,FBI Agent,11163.0,John Saxon
+1214,755,14.0,Motel Owner,3140.0,Marc Lawrence
+1215,755,15.0,Newscaster Kelly Houge,11164.0,Kelly Preston
+1216,755,33.0,Pete Bottoms / Liquor Store Clerk,16861.0,John Hawkes
+1217,755,34.0,Titty Twister Guitarist & Vocalist,53763.0,Tito Larriva
+1218,755,35.0,Titty Twister Saxophonist,1089505.0,Peter Atanasoff
+1219,755,36.0,Titty Twister Drummer,1089510.0,Johnny Vatos Hernandez
+1220,755,37.0,Blonde Hostage,35545.0,Aimee Graham
+1221,755,38.0,Red-headed Hostage,982183.0,Heidi McNeal
+1222,755,39.0,Big Emilio,931730.0,Ernest M. Garcia
+1223,755,40.0,Sex Machine's Buddy,59287.0,Gregory Nicotero
+1224,755,41.0,Danny,139997.0,Cristos
+1225,755,42.0,Manny,100260.0,Mike Moroff
+1226,755,49.0,Bar Dancer,68430.0,Tia Texada
+1227,755,53.0,Bar Dancer,1830654.0,Janine Jordae
+1228,755,54.0,Bar Dancer,41691.0,Ungela Brockman
+1229,755,55.0,Bar Dancer,1265433.0,Michelle Berube
+1230,755,50.0,Monster,1027008.0,Michael McKay
+1231,755,51.0,Monster,555328.0,Jake McKinnon
+1232,755,52.0,Monster,115244.0,Walter Phelan
+1233,755,56.0,Monster,1042415.0,Wayne Toth
+1234,11859,1.0,Max Kirkpatrick,13021.0,William Baldwin
+1235,11859,2.0,Kate McQueen,33665.0,Cindy Crawford
+1236,11859,3.0,Colonel Ilya Kazak,782.0,Steven Berkoff
+1237,11859,4.0,Lieutenant Meyerson,4443.0,Christopher McDonald
+1238,11859,12.0,Emilio Juantorena,30488.0,Miguel Sandoval
+1239,11859,21.0,Jodi Kirkpatrick,170954.0,Johann Carlo
+1240,11859,14.0,Rita,3136.0,Salma Hayek
+1241,11859,15.0,Louis Aragon,60118.0,John Bedford Lloyd
+1242,11859,16.0,Rosa,3981.0,Jenette Goldstein
+1243,11859,17.0,"Leonide ""the Hacker"" Volkov",13925.0,Paul Dillon
+1244,11859,18.0,Zhukov,53573.0,Olek Krupa
+1245,11859,19.0,Stefan,106066.0,Gustav Vintas
+1246,11859,20.0,Navigator,6908.0,Marc Macaulay
+1247,11859,11.0,Computer Store Manager,1434041.0,Ruben Rabasa
+1248,11859,22.0,Baker,63214.0,Sonny Carl Davis
+1249,11859,23.0,,6486.0,Dan Hedaya
+1250,11859,24.0,Codebreaker,20562.0,Antoni Corone
+1251,11859,25.0,Walter Hollenbach (uncredited),6486.0,Dan Hedaya
+1252,28387,1.0,Grover,52419.0,Josh Hamilton
+1253,28387,2.0,Jane,46423.0,Olivia d'Abo
+1254,28387,3.0,Otis,52930.0,Carlos Jacott
+1255,28387,5.0,Chet,7036.0,Eric Stoltz
+1256,28387,4.0,Max,78190.0,Chris Eigeman
+1257,28387,6.0,Skippy,81373.0,Jason Wiles
+1258,28387,7.0,Miami,7489.0,Parker Posey
+1259,28387,12.0,Pete,21967.0,Samuel Gould
+1260,28387,13.0,Gail,10130.0,Catherine Kellner
+1261,28387,14.0,Professor,1052883.0,Jonathan Baumbach
+1262,28387,16.0,Lester,54474.0,Peter Czernin
+1263,28387,17.0,Josselyn,55207.0,Eliza Roberts
+1264,28387,18.0,Friedrich,76989.0,Christopher Reed
+1265,28387,19.0,Danny,5656.0,Noah Baumbach
+1266,28387,20.0,Zach,64057.0,Dean Cameron
+1267,28387,21.0,Grover's Dad,827.0,Elliott Gould
+1268,28387,22.0,Bouncer,97600.0,David DeLuise
+1269,28387,23.0,Kate,20047.0,Cara Buono
+1270,28387,24.0,Amy,68495.0,Perrey Reeves
+1271,28387,25.0,Stephanie,162607.0,Lauren Katz
+1272,28387,26.0,Louis,1219214.0,John Lehr
+1273,48750,4.0,Henri Fortin / Jean Valjean,3829.0,Jean-Paul Belmondo
+1274,48750,5.0,André Ziman,35211.0,Michel Boujenah
+1275,48750,6.0,Elise Ziman,63895.0,Alessandra Martines
+1276,48750,7.0,La fille Ziman,141054.0,Salomé Lelouch
+1277,48750,8.0,Thénardière 1942,6014.0,Annie Girardot
+1278,48750,9.0,Thénardier 1942,3581.0,Philippe Léotard
+1279,48750,11.0,Le policier / Javert,24464.0,Philippe Khorsand
+1280,48750,12.0,Le gentil voyou / Kind Hoodlum,13689.0,Ticky Holgado
+1281,48750,13.0,Thénardier 1830 / 1990,2407.0,Rufus
+1282,48750,14.0,Thénardière 1830 / 1990,133834.0,Nicole Croisille
+1283,48750,15.0,Toureiffel,141055.0,William Leymergie
+1284,48750,16.0,Mgr Myriel,9741.0,Jean Marais
+1285,48750,17.0,La mère supérieure / Mother Superior,34595.0,Micheline Presle
+1286,48750,18.0,Le bouquiniste / Bookseller,24807.0,Darry Cowl
+1287,48750,19.0,Catherine / Fantine,109516.0,Clémentine Célarié
+1288,48750,20.0,Le comte de Villeneuve,23508.0,Daniel Toscan du Plantier
+1289,20927,1.0,Lewis Farrell,2224.0,Christian Slater
+1290,20927,2.0,Lisa Walker,31140.0,Mary Stuart Masterson
+1291,20927,3.0,Kim / Pamela Segall,21063.0,Pamela Adlon
+1292,20927,4.0,Danny,16851.0,Josh Brolin
+1293,20927,5.0,Randy,4890.0,Brian Tarantina
+1294,20927,6.0,Lewis' Mom,10386.0,Debra Monk
+1295,20927,7.0,Alice,9572.0,Mary Alice
+1296,20927,8.0,Simon,26258.0,Kenneth Cranham
+1297,20927,9.0,Wendy,18316.0,Ally Walker
+1298,20927,10.0,Grandma Jean,38691.0,Anne Pitoniak
+1299,20927,11.0,Lewis' Dad,18274.0,Michael Haley
+1300,20927,12.0,Aunt Meg,91029.0,Cass Morgan
+1301,20927,13.0,Francine,9576.0,Gina Torres
+1302,20927,14.0,Bayard,85354.0,Nick Tate
+1303,20927,15.0,Jimmy,84520.0,Víctor Sierra
+1304,20927,16.0,Sam,91030.0,Michael Mantell
+1305,20927,17.0,Jason,91031.0,Zachary Chaltiel
+1306,20927,18.0,Lisa's Secretary / Claire Mari Jacobs,91032.0,Claire Jacobs
+1307,20927,19.0,1st Executive,91033.0,Paul Cassell
+1308,20927,20.0,Young Lisa,37252.0,Yvonne Zima
+1309,20927,21.0,Amelia,91034.0,Desiree Casado
+1310,20927,22.0,Prince,83860.0,Aldis Hodge
+1311,20927,23.0,Queen,91035.0,Jessica Brooks Grant
+1312,20927,24.0,King,91036.0,Jonathan Nocera
+1313,20927,25.0,Sara,91037.0,Leah Pepper
+1314,20927,26.0,Student Teacher,91038.0,Donna Jean Fogel
+1315,20927,27.0,Stanley,91039.0,S.A. Griffin
+1316,20927,28.0,Mumuu Woman,91040.0,Edith Blume
+1317,20927,29.0,Sad Woman,91041.0,Liz Sinclair
+1318,20927,30.0,Helicopter Pilot,91042.0,Al Cerullo
+1319,20927,31.0,Newsstand vendor,91043.0,John D. Bair
+1320,20927,32.0,Marc,86919.0,Jamie Harrold
+1321,20927,33.0,Flight attendant,66126.0,Adrian Lee
+1322,20927,34.0,Jan,91044.0,Andrea Leigh
+1323,20927,35.0,Boy in Library,91045.0,Benjamin Rutkowski
+1324,36929,1.0,David Leary,8872.0,Rick Moranis
+1325,36929,2.0,Rosco Bigger - Fang,74036.0,Tom Arnold
+1326,36929,3.0,Victoria Tucker,105962.0,Julianne Phillips
+1327,36929,5.0,Faith Bigger,10556.0,Carol Kane
+1328,36929,6.0,Art Lundstrum,4175.0,Jeffrey Tambor
+1329,36929,7.0,Clark,87003.0,Curtis Armstrong
+1330,36929,8.0,Principal Kokelar,27726.0,Don Knotts
+1331,9102,1.0,Colonel Hendricksson,27811.0,Peter Weller
+1332,9102,2.0,Becker,56977.0,Roy Dupuis
+1333,9102,3.0,Jessica,56978.0,Jennifer Rubin
+1334,9102,4.0,Ace Jefferson,56979.0,Andrew Lauer
+1335,9102,5.0,Landowska,25689.0,Liliana Komorowska
+1336,9102,42.0,David,1229549.0,Michael Caloz
+1337,9102,43.0,Leone,30617.0,Jason Cavalier
+1338,9102,45.0,Chuck Elbarak,1242148.0,Ron White
+1339,9102,47.0,Ross,1445745.0,Charles Edwin Powell
+1340,124626,14.0,Herself,938895.0,Nico
+1341,124626,3.0,Herself,109142.0,Tina Aumont
+1342,124626,5.0,Himself,14397.0,Jackson Browne
+1343,124626,6.0,Himself,7491.0,John Cale
+1344,124626,7.0,Himself,18627.0,Paul Morrissey
+1345,124626,8.0,Herself,54754.0,Viva
+1346,124626,4.0,,1078926.0,Ari Boulogne
+1347,27526,1.0,Freddy Gale,514.0,Jack Nicholson
+1348,27526,2.0,John Booth,52.0,David Morse
+1349,27526,3.0,Mary,5657.0,Anjelica Huston
+1350,27526,4.0,Jojo,32.0,Robin Wright
+1351,27526,5.0,Helen Booth,6721.0,Piper Laurie
+1352,27526,6.0,Stuart Booth,1272.0,Richard Bradford
+1353,27526,7.0,Verna,23648.0,Priscilla Barnes
+1354,27526,8.0,Peter,98084.0,David Baerwald
+1355,27526,9.0,Roger,72861.0,Robbie Robertson
+1356,27526,10.0,Bobby,47879.0,John Savage
+1357,27526,11.0,Mia,56152.0,Kari Wuhrer
+1358,27526,12.0,Jennifer,91850.0,Jennifer Leigh Warren
+1359,27526,13.0,Tanya,98087.0,Kellita Smith
+1360,27526,15.0,Coop,98089.0,Bobby Cooper
+1361,27526,16.0,Silas,78084.0,Jeff Morris
+1362,27526,17.0,Buddy,98090.0,Buddy Anderson
+1363,27526,18.0,Eddie,98091.0,Edward L. Katz
+1364,27526,19.0,Joe,60023.0,Joe Viterelli
+1365,27526,20.0,Woman in shop,12543.0,Eileen Ryan
+1366,27526,21.0,Jefferey,4994.0,Ryo Ishibashi
+1367,27526,22.0,Cop #1,98092.0,Dennis Fanning
+1368,27526,23.0,Cop #2,98093.0,Lisa Crawford
+1369,27526,24.0,Asian Man,98095.0,Jay Koiwai
+1370,27526,25.0,Little Asian Girl,98096.0,Elizabeth Gilliam
+1371,27526,26.0,Twin Boy,38948.0,Michael Ryan
+1372,27526,27.0,Twin Boy,98098.0,Matthew Ryan
+1373,27526,29.0,Hank,89838.0,Leo Penn
+1374,27526,33.0,Woman On Bus,14544.0,Penelope Allen
+1375,27526,34.0,Sunny Ventura,21544.0,Richard C. Sarafian
+1376,9623,1.0,Annie Laird,3416.0,Demi Moore
+1377,9623,2.0,Teacher,7447.0,Alec Baldwin
+1378,9623,3.0,Oliver Laird,24045.0,Joseph Gordon-Levitt
+1379,9623,4.0,Juliet,8256.0,Anne Heche
+1380,9623,5.0,Eddie,4691.0,James Gandolfini
+1381,9623,15.0,Tallow,32225.0,Lindsay Crouse
+1382,9623,16.0,Louie Boffano,15183.0,Tony Lo Bianco
+1383,9623,17.0,Judge Weitzel,14884.0,Michael Constantine
+1384,9623,18.0,Boone,13525.0,Matt Craven
+1385,9623,19.0,Bozeman,148635.0,Todd Susman
+1386,9623,20.0,Joseph Boffano,18313.0,Michael Rispoli
+1387,9623,21.0,Inez,57552.0,Julie Halston
+1388,9623,22.0,DeCicco,4692.0,Frank Adonis
+1389,9623,23.0,Rodney,94434.0,Matthew Cowles
+1390,9623,24.0,Forewoman,47538.0,Polly Adams
+1391,46785,1001.0,Razieh,1034640.0,Aida Mohammadkhani
+1392,46785,1002.0,Ali,1034642.0,Mohsen Kafili
+1393,46785,1003.0,Mother,1034643.0,Fereshteh Sadre Orafaiy
+1394,46785,1006.0,Old Lady,1387299.0,Anna Borkowska
+1395,46785,1007.0,Soldier,1387300.0,Mohammad Shahani
+1396,400,3.0,Jimmy 'The Saint' Tosnia,1271.0,Andy García
+1397,400,4.0,Pieces,1062.0,Christopher Lloyd
+1398,400,5.0,Franchise,4520.0,William Forsythe
+1399,400,6.0,Easy Wind,5502.0,Bill Nunn
+1400,400,7.0,Critical Bill,4515.0,Treat Williams
+1401,400,8.0,Joe Heff,5251.0,Jack Warden
+1402,400,9.0,Mister Shhh,884.0,Steve Buscemi
+1403,400,10.0,Lucinda,826.0,Fairuza Balk
+1404,400,11.0,Dagney,5503.0,Gabrielle Anwar
+1405,400,12.0,The Man with the Plan,4690.0,Christopher Walken
+1406,400,13.0,Bernard,5504.0,Michael Nicolosi
+1407,400,20.0,Meg,5601.0,Sarah Trigger
+1408,400,21.0,Alex,199303.0,David Stratton
+1409,400,22.0,Blonde Nurse,35597.0,Jenny McCarthy
+1410,880,11.0,Antonia,13506.0,Willeke van Ammelrooy
+1411,880,12.0,Danielle,13507.0,Els Dottermans
+1412,880,13.0,Allegonde,13508.0,Dora van der Groen
+1413,880,14.0,Thérèse,13509.0,Veerle van Overloop
+1414,880,15.0,Thérèse (13),13510.0,Esther Vriesendorp
+1415,880,16.0,Thérèse (6),13511.0,Arne Bang-Hansen
+1416,880,17.0,Sarah,13512.0,Thyrza Ravesteijn
+1417,880,18.0,Krummer Finger,13513.0,Mil Seghers
+1418,880,19.0,Sebastian,13514.0,Jan Decleir
+1419,880,20.0,Lara,13515.0,Elsie de Brauw
+1420,880,21.0,Simon,13516.0,Reinout Bussemaker
+1421,880,22.0,Deedee,13517.0,Marina de Graaf
+1422,880,23.0,Lippen Willem,13518.0,Wimie Wilhelm
+1423,880,24.0,Olga,13519.0,Fran Waller Zeper
+1424,146599,2.0,Poppa,19739.0,"Al Freeman, Jr."
+1425,146599,3.0,Ma Ponk,119598.0,Phylicia Rashād
+1426,146599,7.0,Ma Pearl,157439.0,Paula Kelly
+1427,146599,8.0,Miss Alice (as Salli Richardson),53918.0,Salli Richardson-Whitfield
+1428,146599,9.0,Miss Annie,54800.0,Anna Maria Horsford
+1429,146599,10.0,Mr. Walter,10939.0,Bernie Casey
+1430,146599,11.0,Preacher Hurn,6542.0,Isaac Hayes
+1431,146599,12.0,Cliff (12 Yrs.) (as Willis Norwood Jr.),1384901.0,Ray J
+1432,146599,13.0,Miss Maybry,40175.0,Polly Bergen
+1433,146599,14.0,Mr. Will,94511.0,Taj Mahal
+1434,146599,15.0,Uncle Melvin,12974.0,Leon Robinson
+1435,188588,2.0,Oona Hart,990400.0,Victoria Foyt
+1436,188588,3.0,Helena Mora,22137.0,Viveca Lindfors
+1437,188588,4.0,Jake Axelrod,69697.0,Jon Robin Baitz
+1438,188588,5.0,Suzanne,175081.0,Savannah Smith Boucher
+1439,188588,6.0,Freddy,24368.0,Roscoe Lee Browne
+1440,188588,7.0,Ivan Axelrod,109470.0,Andre Gregory
+1441,188588,8.0,George,59204.0,Nick Gregory
+1442,188588,9.0,Trish Axelrod,6832.0,Melissa Leo
+1443,188588,10.0,Thomas,7505.0,Roddy McDowall
+1444,188588,11.0,Chloe Garfield,17495.0,Martha Plimpton
+1445,188588,12.0,Eli Garfield,12122.0,Ron Rifkin
+1446,188588,13.0,Marian Mora Garfield,5131.0,Diane Salinger
+1447,188588,14.0,Lois Garfield,31649.0,Brooke Smith
+1448,188588,15.0,Nick Mora,115178.0,Kristoffer Tabori
+1449,188588,16.0,Davis Mora Axelrod,11318.0,Holland Taylor
+1450,188588,17.0,Max Berger,117075.0,Henry Jaglom
+1451,8447,1.0,William Adamson,40900.0,Mark Rylance
+1452,8447,2.0,Matty Crompton,5470.0,Kristin Scott Thomas
+1453,8447,3.0,Eugenia Alabaster Adamson,14326.0,Patsy Kensit
+1454,8447,4.0,Sir Harald Alabaster,55037.0,Jeremy Kemp
+1455,8447,11.0,Edgar Alabaster,35862.0,Douglas Henshall
+1456,8447,12.0,Lady Alabaster,30320.0,Annette Badland
+1457,8447,13.0,Robin,25658.0,Chris Larkin
+1458,8447,14.0,Miss Mead,8227.0,Anna Massey
+1459,10534,1.0,Captain Christopher 'Skipper' Sheldon,1229.0,Jeff Bridges
+1460,10534,2.0,Dr. Alice Sheldon,6692.0,Caroline Goodall
+1461,10534,3.0,"McCrea, Albatross Crewman",47879.0,John Savage
+1462,10534,4.0,Charles 'Chuck' Gieg,24965.0,Scott Wolf
+1463,10534,5.0,Frank Beaumont,23958.0,Jeremy Sisto
+1464,10534,6.0,Gil Martin,11864.0,Ryan Phillippe
+1465,10534,17.0,Robert Marsh,153862.0,David Lascher
+1466,10534,18.0,Robert March,153862.0,David Lascher
+1467,10534,19.0,Dean Preston,83051.0,Eric Michael Cole
+1468,10534,20.0,Shay Jennings,61983.0,Jason Marsden
+1469,10534,21.0,Francis Beaumont,56930.0,David Selby
+1470,10534,22.0,Girard Pascal,17413.0,Julio Oscar Mechoso
+1471,10534,23.0,Sanders,6752.0,Zeljko Ivanek
+1472,10534,24.0,Tod Johnstone,9296.0,Balthazar Getty
+1473,10534,25.0,Tracy Lapchick,58019.0,Ethan Embry
+1474,17414,2.0,Robert Grant,1206.0,Jason Alexander
+1475,17414,3.0,Mrs. Dubrow,6450.0,Faye Dunaway
+1476,17414,4.0,Kyle Grant,27564.0,Eric Lloyd
+1477,17414,7.0,Lord Rutledge,4757.0,Rupert Everett
+1478,17414,8.0,Brian Grant,171373.0,Graham Sack
+1479,17414,9.0,Buck LaFarge,5129.0,Paul Reubens
+1480,17414,10.0,Lionel Spalding,13243.0,Glenn Shadix
+1481,17414,11.0,Victor Dubrow,156592.0,Nathan Davis
+1482,17414,12.0,Mrs. Dellacroce,169906.0,Jennifer Bassey
+1483,17414,13.0,Nancy,44185.0,Judith Scott
+1484,17414,14.0,Murray,156532.0,Bruce Beatty
+1485,17414,15.0,Norm,90341.0,Danny Comden
+1486,17414,16.0,Artie,31032.0,Steven Gilborn
+1487,17414,17.0,Mrs. Winthrop,159747.0,Lois De Banzie
+1488,17414,18.0,Mrs. Feldman,119711.0,Natalie Core
+1489,17414,23.0,Bellman,47533.0,Paula Malcomson
+1490,13997,1.0,Mike Donnelly,58198.0,Chris Farley
+1491,13997,2.0,Steve Dodds,60950.0,David Spade
+1492,13997,5.0,Robbie Mieghem,31511.0,Grant Heslov
+1493,13997,6.0,Al Donnelly,21561.0,Tim Matheson
+1494,13997,7.0,Drake Sabitch,2048.0,Gary Busey
+1495,13997,8.0,Neuschwander,14888.0,Bruce McGill
+1496,13997,9.0,Governor Tracy,4003.0,Christine Ebersole
+1497,13997,10.0,Roger Kovary,17396.0,Timothy Carhart
+1498,13997,11.0,Scott Colleary,56486.0,Michael Patrick Carter
+1499,13997,12.0,Clyde Spinoza,20196.0,Boyd Banks
+1500,13997,13.0,Motorcycle Cop,1598.0,David St. James
+1501,13997,14.0,State Trooper,162823.0,Skip O'Brien
+1502,13997,15.0,Fan,56165.0,Branden R. Morgan
+1503,13997,16.0,Pocket Pool Lady,1073828.0,Gypsy Spheeris
+1504,13997,17.0,Jim Blaine,1030724.0,John Ashker
+1505,13997,18.0,Carl,1864853.0,Jonathan Everett Lewis
+1506,13997,19.0,Mayor,1886271.0,James Noah
+1507,2086,11.0,Gene Watson,85.0,Johnny Depp
+1508,2086,12.0,Lynn Watson,21365.0,Courtney Chase
+1509,2086,13.0,Hucy,17764.0,Charles S. Dutton
+1510,2086,14.0,Mr. Smith,4690.0,Christopher Walken
+1511,2086,15.0,Ms. Jones,21366.0,Roma Maffia
+1512,2086,17.0,Brendan Grant,21368.0,Peter Strauss
+1513,2086,18.0,Krista Brooks,21369.0,Gloria Reuben
+1514,2086,19.0,Gov. Eleanor Grant,19131.0,Marsha Mason
+1515,2086,21.0,Franco (Governor's Bodyguard),203762.0,Miguel Nájera
+1516,2086,22.0,Officer Trust,17200.0,Bill Smitrovich
+1517,2086,23.0,Mystery Man,1269763.0,G.D. Spradlin
+1518,2086,24.0,Sanitation Engineer,60287.0,Charles Carroll
+1519,61548,3.0,August King,12261.0,Jason Patric
+1520,61548,4.0,Annalees,9030.0,Thandie Newton
+1521,61548,5.0,Olaf Singletary,16476.0,Larry Drake
+1522,61548,6.0,Mooney Wright,8975.0,Sam Waterston
+1523,61548,7.0,Hal Wright,11867.0,Eric Mabius
+1524,61548,8.0,Ida Wright,233294.0,Sarah-Jane Wylde
+1525,9095,1.0,Mary Reilly,1204.0,Julia Roberts
+1526,9095,2.0,Dr. Henry Jekyll / Edward Hyde,6949.0,John Malkovich
+1527,9095,3.0,Der Butler Mr. Poole,47722.0,George Cole
+1528,9095,4.0,Marys Vater,5658.0,Michael Gambon
+1529,9095,5.0,Mrs. Farraday,515.0,Glenn Close
+1530,9095,12.0,Mrs. Kent,1229735.0,Kathy Staff
+1531,9095,13.0,Bradshaw,3968.0,Michael Sheen
+1532,9095,14.0,Annie,33399.0,Bronagh Gallagher
+1533,9095,15.0,Mary's Mother,8443.0,Linda Bassett
+1534,9095,16.0,Sir Danvers Carew,8785.0,Ciarán Hinds
+1535,9095,17.0,Haffinger,7030.0,Henry Goodman
+1536,12158,12.0,Maximillian | Pauly | Guido,776.0,Eddie Murphy
+1537,12158,15.0,Detective Rita Veder,9780.0,Angela Bassett
+1538,12158,16.0,Detective Justice,32486.0,Allen Payne
+1539,12158,17.0,Julius Jones,66554.0,Kadeem Hardison
+1540,12158,18.0,Silas Green,56902.0,John Witherspoon
+1541,12158,19.0,Dr. Zeko,47458.0,Zakes Mokae
+1542,12158,20.0,Capt. Dewey,593.0,Joanna Cassidy
+1543,12158,21.0,Police Officer,6951.0,W. Earl Brown
+1544,12158,22.0,Nikki,172200.0,Simbi Khali
+1545,9283,10.0,Tommy 'Birdman' Rowland,2876.0,Matt Dillon
+1546,9283,11.0,Michael 'Mo' Morris,11315.0,Noah Emmerich
+1547,9283,12.0,Tracy Stover,49425.0,Annabeth Gish
+1548,9283,13.0,Darian Smalls,34485.0,Lauren Holly
+1549,9283,14.0,Willie Conway,16327.0,Timothy Hutton
+1550,9283,15.0,Andera,139.0,Uma Thurman
+1551,9283,16.0,Sharon Cassidy,23931.0,Mira Sorvino
+1552,9283,18.0,Paul Kirkwood,4688.0,Michael Rapaport
+1553,9283,22.0,Gina Barrisano,12929.0,Rosie O'Donnell
+1554,9283,23.0,Stanley 'Stinky' Womack,3201.0,Pruitt Taylor Vince
+1555,9283,24.0,Kev,7268.0,Max Perlich
+1556,9283,25.0,Jan,17495.0,Martha Plimpton
+1557,9283,26.0,Marty,524.0,Natalie Portman
+1558,9283,27.0,Sarah Morris,140234.0,Anne Bobby
+1559,9283,28.0,Dick Conway,3174.0,Richard Bright
+1560,9283,52.0,Steve Rossmore,8213.0,Sam Robards
+1561,9283,53.0,Bobby Conway,15234.0,David Arquette
+1562,9283,54.0,Victor,61607.0,Adam LeFevre
+1563,9283,55.0,Frank Womack,3911.0,John Carroll Lynch
+1564,9283,56.0,Peter the Eater,174793.0,Tom Gibis
+1565,9283,57.0,"Lead Singer, Afghan Whigs",1141848.0,Greg Dulli
+1566,9283,58.0,Ticket Agent,506.0,John Scurti
+1567,9283,59.0,Irv,1653331.0,Frank Anello
+1568,9283,60.0,Sharon's Mother,1683284.0,Camille D'Ambrose
+1569,9283,61.0,Kristen Rossmore,1854384.0,Sarah Katz
+1570,9283,62.0,Chip,1854385.0,Martin Ruben
+1571,9283,63.0,Waitress at Moonlight Mile,1854386.0,Allison Levine
+1572,9283,64.0,Bartender,1854388.0,Earl R. Burt
+1573,9283,65.0,"Michael Morris, Jr.",1854389.0,Trent Nicholas Thompson
+1574,9283,66.0,Cheryl Morris,1854390.0,Nicole Ranallo
+1575,9283,67.0,Reunion Classmate #1,1854391.0,Joyce Lacey
+1576,9283,68.0,Coffee Shop Waitress,1854392.0,Anne W. Erickson
+1577,9283,69.0,Drinker #1,1574263.0,Oliver Osterberg
+1578,9283,70.0,Drinker #2,1854393.0,Sterling Robson
+1579,9283,71.0,Bar Owner,87134.0,Herbie Ade
+1580,9283,72.0,Bowler (uncredited),1854397.0,Tammara Melloy
+1581,9283,73.0,Woman on the Street (uncredited),1854398.0,Lori J. Ness
+1582,9283,74.0,High School Alumna (uncredited),1539045.0,Rachel Oliva
+1583,9283,75.0,Male Nurse (uncredited),1854399.0,Tomas Settell
+1584,9208,1.0,Maj. Vic 'Deak' Deakins,8891.0,John Travolta
+1585,9208,2.0,Capt. Riley Hale,2224.0,Christian Slater
+1586,9208,3.0,Terry Carmichael,20767.0,Samantha Mathis
+1587,9208,4.0,Colonel Max Wilkins,18792.0,Delroy Lindo
+1588,9208,21.0,Pritchett,4029.0,Bob Gunton
+1589,9208,22.0,Giles Prentice,11805.0,Frank Whaley
+1590,9208,23.0,Kelly,126418.0,Howie Long
+1591,9208,24.0,Chief Sam Rhodes,6198.0,Vondie Curtis-Hall
+1592,9208,25.0,"Chairman, Joint Chief of Staff",12536.0,Jack Thompson
+1593,9208,26.0,Johnson,61216.0,Vyto Ruginis
+1594,9208,27.0,Lt. Thomas,4607.0,Ousaun Elam
+1595,9208,28.0,Max,17857.0,Shaun Toub
+1596,9208,29.0,Novacek,62548.0,Casey Biggs
+1597,9208,30.0,Shepherd,141582.0,Jeffrey J. Stephen
+1598,9208,31.0,Frakes,9558.0,Joey Box
+1599,40154,3.0,Henry,29859.0,Richard Briers
+1600,40154,4.0,Margaretta,13637.0,Joan Collins
+1601,40154,5.0,Joe,17483.0,Michael Maloney
+1602,40154,11.0,Tom Newman,32357.0,Nicholas Farrell
+1603,40154,6.0,Nancy,12094.0,Jennifer Saunders
+1604,40154,8.0,Nina,53328.0,Julia Sawalha
+1605,40154,10.0,Fadge,9139.0,Celia Imrie
+1606,40154,12.0,Terry Du Bois,26860.0,John Sessions
+1607,40154,13.0,Young actor,40311.0,Adrian Scarborough
+1608,40154,7.0,Molly,237613.0,Hetta Charnley
+1609,40154,9.0,Carnforth,56101.0,Gerard Horan
+1610,40154,19.0,Ventriloquist,97165.0,Brian Pettifer
+1611,40154,20.0,Scotsman,9152.0,Patrick Doyle
+1612,40154,21.0,Mule Train Man,1211929.0,Shaun Prendergast
+1613,406,2.0,Vinz,1925.0,Vincent Cassel
+1614,406,3.0,Hubert,5418.0,Hubert Koundé
+1615,406,4.0,Saïd,5419.0,Saïd Taghmaoui
+1616,406,5.0,Abdel,5420.0,Abdel Ahmed Ghili
+1617,406,47.0,Santo,72270.0,Souleymane Dicko
+1618,406,8.0,Sarah,5424.0,Héloïse Rauth
+1619,406,24.0,Benoît,5442.0,Benoît Magimel
+1620,406,23.0,Darty,5441.0,Edouard Montoute
+1621,406,28.0,Inspecteur Notre Dame,2170.0,Marc Duret
+1622,406,7.0,Gars ordinaire,5423.0,Joseph Momo
+1623,406,25.0,L'homme saoul,5443.0,Vincent Lindon
+1624,406,26.0,Le chauffeur de taxi,5425.0,Christophe Rossignon
+1625,406,27.0,Le jeune skinhead,2406.0,Mathieu Kassovitz
+1626,406,29.0,Le chef de la police,5444.0,Philippe Nahon
+1627,406,30.0,L'Officier de Police,5445.0,Zinedine Soualem
+1628,406,32.0,Grand-mère de Vinz,1347614.0,Rywka Wajsbrot
+1629,406,33.0,Tante de Vinz,1347615.0,Olga Abrego
+1630,406,34.0,Cuisinier,579488.0,Laurent Labasse
+1631,406,35.0,Frère de Saïd,64546.0,Choukri Gabteni
+1632,406,48.0,Gallery girl,13688.0,Karin Viard
+1633,45549,1.0,Jo,41381.0,Sadie Frost
+1634,45549,2.0,Billy,9642.0,Jude Law
+1635,45549,3.0,Tommy,28848.0,Sean Pertwee
+1636,45549,4.0,Be Bop,30087.0,Fraser James
+1637,45549,5.0,Venning,48.0,Sean Bean
+1638,45549,8.0,Bev,19995.0,Marianne Faithfull
+1639,45549,9.0,Conway,378.0,Jonathan Pryce
+1640,45549,11.0,Dix,202032.0,Ralph Ineson
+1641,45549,12.0,Peters,19299.0,Eamonn Walker
+1642,45549,13.0,Pony,1243685.0,Lee Whitlock
+1643,45549,14.0,Market Trader,11355.0,Jason Isaacs
+1644,45549,15.0,Sarah,207295.0,Melanie Hill
+1645,45549,22.0,Mrs Taylor,185464.0,Tilly Vosburgh
+1646,45549,16.0,Billy's Dad,32810.0,Brian Croucher
+1647,45549,21.0,Yuppie,1800866.0,Chris Constantinou
+1648,45549,17.0,Car Thief,109383.0,Clint Dyer
+1649,45549,23.0,Tommy's Gang #1,1509445.0,Simon Bateso
+1650,45549,24.0,Tommy's Gang #2,42664.0,Polly Moore
+1651,45549,18.0,Tommy's Gang #3,1794058.0,Vinny Mann
+1652,45549,25.0,Tommy's Gang #4,1807615.0,Julian Sandell
+1653,45549,26.0,Monkey,8323.0,Daniel Newman
+1654,63076,2.0,Narrator,92561.0,Nick Broomfield
+1655,63076,3.0,Herself,92032.0,Heidi Fleiss
+1656,63076,4.0,Herself,1144665.0,Madam Alex
+1657,63076,5.0,Himself,1144666.0,Ivan Nagy
+1658,63076,6.0,Actor/Herself,74954.0,Corinne Bohrer
+1659,63076,14.0,Himself,42545.0,Ron Jeremy
+1660,63076,8.0,Himself,550826.0,Daryl Gates
+1661,11062,1.0,Mayor John Pappas,1158.0,Al Pacino
+1662,11062,2.0,Deputy Mayor Kevin Calhoun,3036.0,John Cusack
+1663,11062,3.0,Marybeth Cogan,2233.0,Bridget Fonda
+1664,11062,10.0,Frank Anselmo,1004.0,Danny Aiello
+1665,11062,11.0,Judge Walter Stern,2641.0,Martin Landau
+1666,11062,12.0,Abe Goodman,19839.0,David Paymer
+1667,11062,13.0,Larry Schwartz,31028.0,Richard Schiff
+1668,13685,1.0,Anthony Adams,36422.0,Luke Wilson
+1669,13685,2.0,Dignan,887.0,Owen Wilson
+1670,13685,4.0,Inez,74940.0,Lumi Cavazos
+1671,13685,12.0,Future Man,71555.0,Andrew Wilson
+1672,13685,13.0,Bob Mapplethorpe,52797.0,Robert Musgrave
+1673,13685,14.0,Bernice,148593.0,Haley Miller
+1674,13685,15.0,Mr. Henry,3085.0,James Caan
+1675,13685,29.0,Dr. Nichols,42006.0,Ned Dowd
+1676,13685,30.0,Grace,1117323.0,Shea Fowler
+1677,13685,31.0,H. Clay Murchison,1117324.0,Brian Tenenbaum
+1678,13685,32.0,Stacy Sinclair,955807.0,Jenni Tooley
+1679,13685,33.0,Temple,1117325.0,Temple Nash
+1680,47475,1.0,Martha Alston,14.0,Ellen DeGeneres
+1681,47475,2.0,Whitman Crawford,8984.0,Bill Pullman
+1682,47475,3.0,Inga Gunther,3234.0,Joan Cusack
+1683,47475,7.0,Jack Tramonte,923.0,Dean Stockwell
+1684,47475,6.0,Mrs. Crawford,23709.0,Joan Plowright
+1685,47475,4.0,Annie,15250.0,Hope Davis
+1686,47475,8.0,Jane,1232807.0,Ellen Cleghorne
+1687,47475,9.0,Nancy Culpepper,170162.0,Christine Cattell
+1688,47475,10.0,Dick Braxton,128621.0,Robert Goulet
+1689,2045,9.0,Dr. David Krane,11477.0,Ray Liotta
+1690,2045,17.0,Dr. Martha Briggs,9625.0,Linda Fiorentino
+1691,2045,10.0,Don Bresler,9979.0,Peter Coyote
+1692,2045,11.0,Stewart Gleick,4443.0,Christopher McDonald
+1693,2045,12.0,Curtis Avery,19839.0,David Paymer
+1694,2045,13.0,Michael Stratton,14595.0,Duncan Fraser
+1695,2045,14.0,Lindy Krane,21058.0,Colleen Rennison
+1696,2045,15.0,Cara Crane,21059.0,Caroline Elliott
+1697,2045,16.0,Mary Krane,21060.0,Stellina Rusich
+1698,9614,11.0,Happy Gilmore,19292.0,Adam Sandler
+1699,9614,27.0,Hal L. - Orderly in Nursing Home (uncredited),7399.0,Ben Stiller
+1700,9614,12.0,Shooter McGavin,4443.0,Christopher McDonald
+1701,9614,13.0,Virginia Venit,31171.0,Julie Bowen
+1702,9614,14.0,Grandma Gilmore,11794.0,Frances Bay
+1703,9614,15.0,Chubbs,1101.0,Carl Weathers
+1704,9614,16.0,Mr. Larson,10460.0,Richard Kiel
+1705,9614,17.0,Himself,170802.0,Bob Barker
+1706,9614,18.0,Otto,20818.0,Allen Covert
+1707,9614,19.0,Jeering Fan,59196.0,Joe Flaherty
+1708,9614,20.0,Himself,392685.0,Lee Trevino
+1709,9614,21.0,IRS Agent,53684.0,Robert Smigel
+1710,9614,22.0,Doug Thompson,17494.0,Dennis Dugan
+1711,9614,23.0,Potter,58478.0,Kevin Nealon
+1712,9614,24.0,Announcer,1024638.0,Verne Lundquist
+1713,9614,25.0,Happy's Waterbury Caddy,191857.0,Jared Van Snellenberg
+1714,9614,26.0,Coach,106789.0,Ken Camroux
+1715,688,10.0,Francesca Johnson,5064.0,Meryl Streep
+1716,688,11.0,Robert Kincaid,190.0,Clint Eastwood
+1717,688,12.0,Caroline Johnson,6907.0,Annie Corley
+1718,688,13.0,Michael Johnson,10379.0,Victor Slezak
+1719,688,14.0,Richard Johnson,10380.0,Jim Haynie
+1720,688,15.0,Caroline as a young girl,10381.0,Sarah Kathryn Schmitt
+1721,688,16.0,Michael as a young boy,10382.0,Christopher Kroon
+1722,688,17.0,Betty,10383.0,Phyllis Lyons
+1723,688,18.0,Madge,10386.0,Debra Monk
+1724,688,19.0,Lawyer Peterson,10388.0,Richard Lage
+1725,688,20.0,Lucy Redfield,10389.0,Michelle Benes
+1726,688,26.0,Child #1,1402769.0,Alison Wiegert
+1727,11907,1.0,Fanny Fink,22686.0,Maria Schrader
+1728,11907,2.0,Orfeo de Altamar,70887.0,Pierre Sanoussi-Bliss
+1729,11907,3.0,Lothar Sticker,70888.0,Michael von Au
+1730,11907,4.0,Madeleine,9931.0,Elisabeth Trissenaar
+1731,11907,12.0,Anton,1084.0,Joachim Król
+1732,11907,13.0,Lasse Laengsfeld,34297.0,Ingo Naujoks
+1733,10874,1.0,Long John Silver,13472.0,Tim Curry
+1734,10874,2.0,Jim Hawkins,19996.0,Kevin Bishop
+1735,10874,3.0,Mrs. Bluveridge,12094.0,Jennifer Saunders
+1736,10874,4.0,Billy Bones,9188.0,Billy Connolly
+1737,10874,13.0,,64181.0,Dave Goelz
+1738,10874,15.0,Miss Piggy / Fozzie Bear / Sam the Eagle / Animal (voice),7908.0,Frank Oz
+1739,10874,16.0,Kermit the Frog / Rizzo the Rat / Beaker (voice),64180.0,Steve Whitmire
+1740,10874,17.0,Captain Flint,133876.0,David Nicholls
+1741,10874,18.0,Calico Jerry,1705493.0,Frederick Warder
+1742,10874,19.0,Easy Pete,121112.0,Harry Jones
+1743,10874,20.0,Black Eyed Pea,1220350.0,Peter Geeves
+1744,10874,21.0,Big-Fat-Ugly-Bug-Faced-Baby-Eating O'Brien,1314585.0,Jessica Hamilton
+1745,89333,2.0,Herself,937034.0,Christy Turlington
+1746,89333,3.0,Himself,937035.0,Azzedine Alaïa
+1747,89333,4.0,Himself,103057.0,Giorgio Armani
+1748,89333,5.0,Herself,50841.0,Nadja Auermann
+1749,89333,6.0,Herself,3664.0,Sandra Bernhard
+1750,89333,7.0,Herself,937036.0,Kate Betts
+1751,89333,8.0,Herself,937037.0,Brandi
+1752,89333,9.0,Herself,937039.0,Carla Bruni
+1753,89333,10.0,Herself,56367.0,Naomi Campbell
+1754,89333,11.0,Himself,33463.0,Nino Cerruti
+1755,89333,12.0,Herself,937041.0,Helena Christensen
+1756,89333,13.0,Himself,937042.0,Francesco Clemente
+1757,89333,14.0,Herself,937043.0,Grace Coddington
+1758,89333,15.0,Herself,33665.0,Cindy Crawford
+1759,89333,16.0,TV host,185149.0,Rufus Crawford
+1760,89333,17.0,Himself,228173.0,Jaye Davidson
+1761,89333,18.0,Himself,937044.0,Arthur Elgort
+1762,89333,19.0,Herself,588627.0,Linda Evangelista
+1763,89333,20.0,Himself,937045.0,Gianfranco Ferré
+1764,89333,21.0,Himself,547866.0,John Galliano
+1765,89333,22.0,Himself,143061.0,Valentino Garavani
+1766,89333,23.0,Himself,8385.0,Jean Paul Gaultier
+1767,89333,24.0,Herself,937046.0,Yasmeen Ghauri
+1768,89333,25.0,Herself,937047.0,Lady Amanda Harlech
+1769,89333,26.0,Herself,74423.0,Tricia Helfer
+1770,89333,27.0,Himself,147057.0,Karl Lagerfeld
+1771,89333,28.0,Herself,937048.0,Yasmin Le Bon
+1772,89333,29.0,Herself,60483.0,Kimora Lee
+1773,89333,30.0,Herself,937049.0,Polly Mellen
+1774,89333,31.0,Himself,56696.0,Isaac Mizrahi
+1775,89333,32.0,Herself,533007.0,Kate Moss
+1776,89333,33.0,Himself,937050.0,Oribe
+1777,89333,34.0,Herself,937051.0,Stephanie Roberts
+1778,89333,35.0,Himself,78589.0,RuPaul
+1779,89333,36.0,Herself,937052.0,Ève Salvail
+1780,89333,37.0,Herself,33163.0,Claudia Schiffer
+1781,89333,38.0,Himself,2224.0,Christian Slater
+1782,89333,40.0,Himself,937054.0,André Leon Talley
+1783,89333,41.0,Herself,265374.0,Niki Taylor
+1784,89333,42.0,Herself,937055.0,Stella Tennant
+1785,89333,43.0,Herself,937056.0,Liz Tilberis
+1786,89333,44.0,Herself,18920.0,Patricia Velásquez
+1787,89333,45.0,Himself,937057.0,Gianni Versace
+1788,89333,46.0,Herself,77074.0,Veronica Webb
+1789,89333,47.0,Himself,118180.0,Bruce Weber
+1790,89333,48.0,Herself,23944.0,Emma Wiklund
+1791,89333,49.0,Herself,89815.0,Anna Wintour
+1792,89333,50.0,herself,4430.0,Sharon Stone
+1793,96357,1.0,Man,10361.0,Raymond J. Barry
+1794,96357,7.0,Vic Palmieri,1112607.0,Rustam Branaman
+1795,96357,8.0,Candy,36197.0,Jennifer MacDonald
+1796,96357,9.0,Danny,4944.0,Taylor Nichols
+1797,96357,10.0,Bradford Lumpkin,56930.0,David Selby
+1798,96357,11.0,Carl Levin,35040.0,Paul Williams
+1799,96357,12.0,Letitia Jackson,10691.0,April Grace
+1800,96357,13.0,Joe,1916.0,Biff Yeager
+1801,96357,14.0,Drunk,128174.0,Tom Bresnahan
+1802,197,5.0,William Wallace,2461.0,Mel Gibson
+1803,197,6.0,Murron MacClannough,2462.0,Catherine McCormack
+1804,197,7.0,Princess Isabelle,1957.0,Sophie Marceau
+1805,197,8.0,King Edward,2463.0,Patrick McGoohan
+1806,197,9.0,Robert the Bruce,2464.0,Angus Macfadyen
+1807,197,10.0,Hamish Campbell,2039.0,Brendan Gleeson
+1808,197,11.0,Young William Wallace,2465.0,James Robinson
+1809,197,12.0,Campbell,2467.0,James Cosmo
+1810,197,13.0,MacClannough,2468.0,Sean McGinley
+1811,197,14.0,Mother MacClannough,2469.0,Gerda Stevenson
+1812,197,15.0,Young Murron MacClannough,2470.0,Mhairi Calvey
+1813,197,16.0,Nicolette,2471.0,Jeanne Marine
+1814,197,17.0,Malcolm Wallace,2472.0,Sean Lawlor
+1815,197,18.0,John Wallace,2473.0,Sandy Nelson
+1816,197,19.0,Elder Stewart,2474.0,Alan Tall
+1817,197,20.0,Young Hamish Campbell,2475.0,Andrew Weir
+1818,197,21.0,Argyle Wallace,1248.0,Brian Cox
+1819,197,22.0,"Edward, Prince of Wales",2476.0,Peter Hanly
+1820,197,23.0,Phillip,2477.0,Stephen Billington
+1821,197,24.0,Morrison,2478.0,Tommy Flanagan
+1822,197,25.0,Lord Bottoms,2479.0,Rupert Vansittart
+1823,197,26.0,MacGregor,2480.0,Tam White
+1824,197,27.0,Robert Bruce Sr.,2481.0,Ian Bannen
+1825,197,28.0,"Stephen, Irish Fighter",2482.0,David O'Hara
+1826,197,43.0,Veteran,3064.0,Peter Mullan
+1827,197,41.0,Chief Justice/Executioner,21431.0,David Gant
+1828,197,37.0,Magistrate,166258.0,Malcolm Tierney
+1829,197,51.0,Lord Talmadge,1333582.0,Martin Murphy
+1830,197,52.0,Cheltham,43131.0,Gerard McSorley
+1831,197,53.0,Balliol,10174.0,Bernard Horsfall
+1832,197,54.0,Governor of York,16792.0,Richard Leaf
+1833,197,55.0,Sean,1333583.0,Liam Carney
+1834,197,56.0,Priest No. 1,17788.0,Ralph Riach
+1835,197,95.0,King's Advisor,26094.0,Barry McGovern
+1836,197,96.0,Craig,20282.0,John Kavanagh
+1837,197,97.0,Mornay,2629.0,Alun Armstrong
+1838,197,127.0,Mrs. Morrison,1774123.0,Julie Austin
+1839,197,99.0,Bride's Father,2451.0,Alex Norton
+1840,197,100.0,Smythe,742.0,Michael Byrne
+1841,197,101.0,Corporal,20244.0,William Scott-Masson
+1842,197,102.0,Madbaker / Flagman,151305.0,Dean Lopata
+1843,197,103.0,Stewart,110315.0,Donal Gibson
+1844,197,104.0,Faudron,1231412.0,Jimmy Chisholm
+1845,197,105.0,Lochlan,1073161.0,John Murtagh
+1846,197,106.0,Young soldier,16908.0,David McKay
+1847,197,107.0,English General,104758.0,Niall O'Brien
+1848,197,108.0,Drinker #1,199755.0,Martin Dempsey
+1849,197,109.0,Drinker #2,188452.0,Jimmy Keogh
+1850,197,110.0,Chief Assassin,1234613.0,Joe Savino
+1851,197,111.0,Jailor,188433.0,Mal Whyte
+1852,197,112.0,English Commander,1227996.0,Paul Tucker
+1853,197,113.0,Doogal (uncredited),1394475.0,Graeme Ford
+1854,197,114.0,Warrior #2 (uncredited),1084940.0,Greg Jeloudov
+1855,197,115.0,Lady at Wedding (uncredited),1209257.0,Rana Morrison
+1856,197,116.0,English General (uncredited),549342.0,Jer O'Leary
+1857,103,5.0,Travis Bickle,380.0,Robert De Niro
+1858,103,6.0,Betsy,1036.0,Cybill Shepherd
+1859,103,7.0,'Sport' Matthew,1037.0,Harvey Keitel
+1860,103,8.0,Iris Steensma,1038.0,Jodie Foster
+1861,103,9.0,Wizard,1039.0,Peter Boyle
+1862,103,10.0,Senator Charles Palantine,1040.0,Leonard Harris
+1863,103,11.0,Tom,13.0,Albert Brooks
+1864,103,12.0,Concession Girl,1041.0,Diahnne Abbott
+1865,103,14.0,Policeman al rally,1043.0,Gino Ardito
+1866,103,29.0,Man in cab,1032.0,Martin Scorsese
+1867,103,30.0,Iris' Time Keeper,77255.0,Murray Moston
+1868,103,31.0,Secret Service Agent,1274408.0,Richard Higgs
+1869,103,33.0,Tom's Assistant,1274409.0,Bill Minkin
+1870,103,34.0,Mafioso,169093.0,Bob Maroff
+1871,103,39.0,"Melio, Delicatessen Owner",2561.0,Victor Argo
+1872,103,40.0,Personell Officer,16525.0,Joe Spinell
+1873,103,46.0,Angry Black Man,1042.0,Frank Adu
+1874,103,47.0,Soap Opera Woman,101977.0,Brenda Dickson
+1875,103,48.0,Charlie T,84684.0,Norman Matlock
+1876,103,49.0,Doughboy,127738.0,Harry Northup
+1877,103,50.0,Campaign Worker,954132.0,Harlan Cary Poe
+1878,103,51.0,Andy - Gun Salesman,76155.0,Steven Prince
+1879,103,52.0,The John,1422613.0,Peter Savage
+1880,103,53.0,Palantine's Aide,194066.0,Nicholas Shields
+1881,103,54.0,T.V. Interviewer,18855.0,Ralph S. Singleton
+1882,103,55.0,Campaign Worker (uncredited),170830.0,Annie Gagen
+1883,103,56.0,Political rallier (uncredited),71813.0,Carson Grant
+1884,103,57.0,Campaign Aide (uncredited),1213088.0,Mary-Pat Green
+1885,103,58.0,Girl at Columbus Circle (uncredited),88161.0,Debbi Morgan
+1886,103,59.0,Policeman (uncredited),69494.0,Don Stroud
+1887,33542,1.0,Keung,18897.0,Jackie Chan
+1888,33542,2.0,Elaine,44917.0,Anita Mui
+1889,33542,3.0,Nancy,10875.0,Françoise Yip
+1890,33542,4.0,Uncle Bill,44922.0,Bill Tung
+1891,33542,5.0,Tony,44919.0,Marc Akerstream
+1892,33542,6.0,Angelo,21264.0,Garvin Cross
+1893,33542,7.0,Danny,44921.0,Morgan Lam
+1894,33542,11.0,White Tiger,1426138.0,Kris Lord
+1895,33542,12.0,Whitney,1235524.0,Carrie Cain-Sparks
+1896,43566,1.0,Dr. Carolyn Ryan,5064.0,Meryl Streep
+1897,43566,2.0,Ben Ryan,3896.0,Liam Neeson
+1898,43566,3.0,Jacob Ryan,820.0,Edward Furlong
+1899,43566,4.0,Panos Demeris,658.0,Alfred Molina
+1900,43566,6.0,,1473.0,Daniel von Bargen
+1901,43566,7.0,Judith Ryan,121955.0,Julia Weldon
+1902,43566,8.0,Fran Conklin,1473.0,Daniel von Bargen
+1903,43566,9.0,Wendell Bye,11512.0,John Heard
+1904,43566,10.0,Terry Taverner,37042.0,Ann Magnuson
+1905,43566,11.0,Martha Taverner,2841.0,Alison Folland
+1906,43566,12.0,T.J.'s Mom,71821.0,Bernadette Quigley
+1907,43566,13.0,Young Policeman,1166093.0,Timothy Patrick Cavanaugh
+1908,43566,14.0,Female Bailiff,29365.0,Sharon Ullrick
+1909,43566,15.0,Courtroom Audience,13242.0,Paul Giamatti
+1910,43566,16.0,Bailiff,33713.0,Jordan Lund
+1911,71754,2.0,Margaret MacNeil,1283.0,Helena Bonham Carter
+1912,71754,3.0,Neil Currie,19901.0,Clive Russell
+1913,71754,4.0,Jimmy MacNeil,198287.0,Craig Olejnik
+1914,71754,5.0,Catherine MacNeil,18794.0,Kate Nelligan
+1915,71754,6.0,Angus MacNeil,6074.0,Kenneth Welsh
+1916,71754,7.0,Marilyn,563767.0,Andrea Morris
+1917,43612,1.0,Francis Bergeade,12270.0,Michel Serrault
+1918,43612,2.0,Gérard 'Gégé' Tilier,30641.0,Eddy Mitchell
+1919,43612,3.0,Nicole Bergeade,20851.0,Sabine Azéma
+1920,43612,4.0,Dolores Thivart,2744.0,Carmen Maura
+1921,43612,5.0,Pouillaud,77929.0,François Morel
+1922,43612,7.0,Jean-Paul « J.P. » Delépine,35911.0,Patrick Bouchitey
+1923,43612,9.0,"Charles, l'animateur",342254.0,Roger Gicquel
+1924,43612,10.0,Madame André dit « Lolotte »,19934.0,Catherine Jacob
+1925,43612,11.0,Lucette,2415.0,Yolande Moreau
+1926,43612,12.0,un client du garage,235494.0,Olivier Saladin
+1927,43612,14.0,Nono,269059.0,Joël Cantona
+1928,43612,15.0,André le patron de l'hotel,2197.0,Daniel Russo
+1929,43612,16.0,Lionel,37758.0,Eric Cantona
+1930,51352,2.0,Narration (voice),11181.0,Kenneth Branagh
+1931,51352,3.0,Diary Readings (voice),515.0,Glenn Close
+1932,16934,4.0,Young Graham,81023.0,Tobias Arnold
+1933,16934,5.0,Molly,53367.0,Ruth Sheen
+1934,16934,6.0,Fred,81024.0,Roger Lloyd Pack
+1935,16934,7.0,Graham Young,5312.0,Hugh O'Conor
+1936,16934,8.0,Mr. Goez,81025.0,Norman Caro
+1937,16934,9.0,Mrs. Goez,81026.0,Dorothea Alexander
+1938,16934,10.0,Winnie,10729.0,Charlotte Coleman
+1939,16934,11.0,Dennis,46427.0,Paul Stacey
+1940,16934,12.0,Sue,81027.0,Samantha Edmonds
+1941,16934,13.0,Mr. Dexter,81028.0,Robert Demeger
+1942,16934,14.0,Mick,81029.0,Jack Deam
+1943,16934,15.0,Dickie Boone,81030.0,Peter Pacey
+1944,16934,16.0,Dr. Scott,16943.0,Joost Siedhoff
+1945,16934,17.0,Aunty Panty,81031.0,Vilma Hollingbery
+1946,16934,18.0,Uncle Jack,47001.0,Frank Mills
+1947,16934,20.0,Nurse Trent,1214452.0,Rupert Farley
+1948,16934,21.0,Dr. Triefus,40660.0,Malcolm Sinclair
+1949,16934,22.0,Berridge,8397.0,Charlie Creed-Miles
+1950,16934,23.0,Dr. Ernest Zeigler,77637.0,Antony Sher
+1951,16934,24.0,Edna,94742.0,Hazel Douglas
+1952,16934,25.0,Ray,122924.0,Arthur Cox
+1953,16934,26.0,Nathan,7321.0,John Thomson
+1954,16934,27.0,Debra Smart,79660.0,Jean Warren
+1955,16934,28.0,John,10701.0,Simon Kunz
+1956,16934,29.0,Billy,1787558.0,Frank Coda
+1957,16934,30.0,Simon,79888.0,Tim Potter
+1958,16934,31.0,Social Services Woman,1576856.0,Cate Fowler
+1959,16934,32.0,Chairman,1225726.0,John Abbott
+1960,10324,2.0,Lucy,520.0,Sarah Jessica Parker
+1961,10324,4.0,Jane,5590.0,Elle Macpherson
+1962,10324,7.0,Emily,1245.0,Scarlett Johansson
+1963,10324,3.0,Joe,68185.0,Eric Schaeffer
+1964,10324,6.0,Al,68186.0,Dominic Chianese
+1965,10324,8.0,Eddy,68187.0,Emily Hart
+1966,10324,14.0,,7399.0,Ben Stiller
+1967,78406,1.0,Ruben Martinez / Robby Martin,1271.0,Andy García
+1968,78406,2.0,Lou Perilli,1903.0,Alan Arkin
+1969,78406,3.0,Laura,10768.0,Rachel Ticotin
+1970,78406,4.0,Eddie Agopian,532.0,Joe Pantoliano
+1971,78406,5.0,Bonnie Martin,18316.0,Ally Walker
+1972,78406,6.0,Judge Winton Myers,28010.0,David Ogden Stiers
+1973,78406,7.0,Reed Tyler,34597.0,Kevin McCarthy
+1974,78406,8.0,Nick Zingaro,1272.0,Richard Bradford
+1975,78406,9.0,Mona Rowland-Downey,11318.0,Holland Taylor
+1976,55731,3.0,Miss Sandra Beecher,4587.0,Halle Berry
+1977,55731,14.0,Frank Machi,26485.0,Jim Belushi
+1978,55731,4.0,Daniel Webster,1893.0,Casey Affleck
+1979,55731,5.0,Cindy Johnson,13446.0,Eliza Dushku
+1980,55731,6.0,Jack Fryman,17770.0,Kevin Tighe
+1981,55731,7.0,Eduardo Braz,171522.0,Anthony Ruivivar
+1982,55731,8.0,Hans Kooiman,18324.0,Steve Zahn
+1983,55731,9.0,Marco Kito,20303.0,Dion Basco
+1984,55731,10.0,Gilbert Tutu,239978.0,J. Moki Cho
+1985,55731,11.0,Oni Nagano,239979.0,Nadja Pionilla
+1986,55731,12.0,Luana Kanahele,239980.0,Adriane Napualani Uganiza
+1987,55731,13.0,Uni Kakamura,239981.0,Sara Tanaka
+1988,55731,15.0,Commissioner Hawkes,23.0,Bill Hunter
+1989,55731,16.0,Steve Fryman,33192.0,Joel Edgerton
+1990,32119,2.0,Brother Peter Lavin,15319.0,Henry Czerny
+1991,32119,3.0,,198643.0,Johnny Morina
+1992,32119,4.0,,1195879.0,Brian Dooley
+1993,32119,5.0,,946161.0,Philip Dinn
+1994,32119,6.0,Stephen Lunney,1828572.0,Brian Dodd
+1995,11066,1.0,Marcus Graham,776.0,Eddie Murphy
+1996,11066,2.0,Jacqueline 'Jackie / Jack' Broyer,59153.0,Robin Givens
+1997,11066,3.0,Angela Lewis,4587.0,Halle Berry
+1998,11066,4.0,Gerard Jackson,58563.0,David Alan Grier
+1999,11066,14.0,Strangé,10661.0,Grace Jones
