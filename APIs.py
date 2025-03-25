@@ -1,8 +1,12 @@
 from fastapi import FastAPI, APIRouter
 import pandas as pd
+from fastapi.responses import JSONResponse, Response
+import json
 
-# Cargamos el dataset
-movies = pd.read_csv("movies.csv")
+# Cargamos los dataset
+movies = pd.read_csv("C:/Users/JuanPablo/Desktop/Kazan/Henry/PI_1/movies.csv")
+cast = pd.read_csv("C:/Users/JuanPablo/Desktop/Kazan/Henry/PI_1/cast.csv")
+crew= pd.read_csv("C:/Users/JuanPablo/Desktop/Kazan/Henry/PI_1/crew.csv")
 
 # Aseguramos que las fechas estén en formato datetime
 movies["release_date"] = pd.to_datetime(movies["release_date"], errors="coerce")
@@ -11,6 +15,7 @@ app = FastAPI()
 
 @app.get("/cantidad_filmaciones_mes/{mes}")
 def cantidad_filmaciones_mes(mes: str):
+    # Definimos un diccionario para ennumerar los meses y trabajar con numeros
     meses = {
         "enero": 1, "febrero": 2, "marzo": 3, "abril": 4, "mayo": 5, "junio": 6,
         "julio": 7, "agosto": 8, "septiembre": 9, "octubre": 10, "noviembre": 11, "diciembre": 12
