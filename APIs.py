@@ -2,7 +2,7 @@ from fastapi import FastAPI, APIRouter
 import pandas as pd
 
 # Cargamos el dataset
-movies = pd.read_csv("C:/Users/JuanPablo/Desktop/Kazan/Henry/PI_1/movies.csv")
+movies = pd.read_csv("movies.csv")
 
 # Aseguramos que las fechas estén en formato datetime
 movies["release_date"] = pd.to_datetime(movies["release_date"], errors="coerce")
