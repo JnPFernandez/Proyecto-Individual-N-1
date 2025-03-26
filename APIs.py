@@ -65,6 +65,10 @@ def votos_titulo(titulo: str):
 
     # Seleccionamos solo las columnas que tenemos que retornar
     pelicula = pelicula.iloc[0][["title", "release_date", "vote_count", "vote_average"]]
+
+    if pelicula["vote_count"]<2000:
+        return("La pelicula cuenta con menos de 2.000 votaciones, por lo cual no se devuelve información")
+    
     pelicula_dict = pelicula.to_dict()
     pelicula_dict["release_date"] = pelicula["release_date"].year  # Solo necesitamos el año
 
