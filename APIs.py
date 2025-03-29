@@ -124,3 +124,37 @@ def get_director(nombre: str):
         "Retorno total": retorno_total,
         "Información sobre sus peliculas": peliculas_info
     }
+
+@app.get("/recomendacion/{titulo}")
+def recomendacion(titulo: str):
+    movies["title"] = movies["title"].str.lower().str.strip()
+
+    pelicula = movies[movies["title"] == titulo.lower().strip()]
+    
+    if pelicula.empty:
+        return {"error": "Película no encontrada"}
+    
+    puntaje = pelicula["vote_average"].values[0]
+
+    # Filtramos las películas con puntaje dentro de un rango cercano
+    peliculas_similares = movies[(movies["vote_average"] >= puntaje - 0.1) & (movies["vote_average"] <= puntaje + 0.1)]
+    peliculas_similares = peliculas_similares[peliculas_similares["title"] != titulo.lower().strip()]
+
+    # Si hay más de 5 películas, aplicamos similitud de título con TF-IDF
+    if len(peliculas_similares) > 5:
+        vectorizer = TfidfVectorizer(stop_words="english")
+        tfidf_matrix = vectorizer.fit_transform(peliculas_similares["title"])
+
+        # Calculamos la similitud de coseno
+        similitudes = cosine_similarity(tfidf_matrix)
+
+        # Sumamos la similitud total para cada película
+        peliculas_similares["similaridad_titulo"] = similitudes.sum(axis=1)
+
+        # Ordenamos por vote_average (descendente) y luego por similaridad_titulo (descendente)
+        peliculas_similares = peliculas_similares.sort_values(by=["vote_average", "similaridad_titulo"], ascending=[False, False])
+    else:
+        # Si hay 5 o menos, simplemente ordenamos por vote_average de mayor a menor
+        peliculas_similares = peliculas_similares.sort_values(by="vote_average", ascending=False)
+
+    return peliculas_similares[["title"]].head(5).to_dict(orient="records")
